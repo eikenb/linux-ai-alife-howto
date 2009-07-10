@@ -36,7 +36,9 @@ GNU/Linux specifically in mind.
     <ref id="Maximum Entropy Toolkit">, <ref id="pebl">,
     <ref id="MLAP book samples">, and <ref id="OpenCog">.
 
-    Changed the name of the "Traditional" section to "Symbol Systems".
+    Changed the name of the "Traditional" section to 
+    <ref id="Symbolic Systems (GOFAI)">. Added new section, 
+    <ref id="Statistical &amp; Machine Learning">.
 
     <item>v2.4 -
 
