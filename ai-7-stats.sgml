@@ -1,0 +1,113 @@
+<sect>Statistical &amp; Machine Learning
+<label id="Statistical &amp; Machine Learning">
+
+  <p>
+      
+      All about getting machines to learn to do something rather than 
+      explicitly programming to do it. Tends to deal with pattern matching
+      a lot and are heavily math and statistically based. Technically 
+      <ref id="Connectionism"> falls under this category, but it is such a
+      large sub-field I'm keeping it in a separate section.
+
+  </p>
+
+  <sect1>Libraries
+
+  Libraries or frameworks used for writing machine learning systems.
+
+  <descrip>
+
+    <label id="CompLearn">
+    <tag/CompLearn/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://complearn.org/">
+        </itemize>
+
+	CompLearn is a software system built to support compression-based
+	learning in a wide variety of applications. It provides this support in
+	the form of a library written in highly portable ANSI C that runs in
+	most modern computer environments with minimal confusion. It also
+	supplies a small suite of simple, composable command-line utilities as
+	simple applications that use this library. Together with other commonly
+	used machine-learning tools such as LibSVM and GraphViz, CompLearn
+	forms an attractive offering in machine-learning frameworks and
+	toolkits.
+
+
+    <label id="Maximum Entropy Toolkit">
+    <tag/Maximum Entropy Toolkit/
+        <itemize>
+            <item>Web site: <htmlurl
+               url="http://homepages.inf.ed.ac.uk/lzhang10/maxent_toolkit.html">
+        </itemize>
+
+	The Maximum Entropy Toolkit provides a set of tools and library for
+	constructing maximum entropy (maxent) model in either Python or C++.
+
+	Maxent Entropy Model is a general purpose machine learning framework
+	that has proved to be highly expressive and powerful in statistical
+	natural language processing, statistical physics, computer vision and
+	many other fields.
+
+
+    <label id="pebl">
+    <tag/pebl/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://code.google.com/p/pebl-project/">
+        </itemize>
+
+        Pebl is a python library and command line application for learning the
+        structure of a Bayesian network given prior knowledge and observations.
+        Pebl includes the following features:
+
+        <itemize>
+          <item>Can learn with observational and interventional data
+	  <item>Handles missing values and hidden variables using exact and
+	  heuristic methods
+	  <item>Provides several learning algorithms; makes creating new ones
+	  simple
+	  <item>Has facilities for transparent parallel execution using several
+	  cluster/grid resources
+          <item>Calculates edge marginals and consensus networks
+          <item>Presents results in a variety of formats 
+        </itemize>
+
+
+    <label id="MLAP samples">
+    <tag/MLAP/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="">
+        </itemize>
+
+       	Not a library per-say, but a whole slew of example machine learning
+        algorithms from the book "Machine Learning: An Algorithmic Perspective"
+        by Stephen Marsland.  All code is written in python.
+
+  <descrip>
+  
+  <sect1>Applications
+
+  Full applications that implement various machine learning or statistical
+  systems oriented toward general learning (i.e., no spam filters and the
+  like).
+
+  <descrip>
+
+    <label id="dbacl">
+    <tag/dbacl/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://dbacl.sourceforge.net/">
+        </itemize>
+
+        The dbacl project consist of a set of lightweight UNIX/POSIX utilities
+        which can be used, either directly or in shell scripts, to classify
+        text documents automatically, according to Bayesian statistical
+        principles.
+
+
+  </descrip>
+

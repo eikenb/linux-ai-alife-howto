@@ -1,0 +1,218 @@
+<sect>Introduction
+<label id="Introduction">
+<p>
+
+<sect1>Purpose
+<p>
+
+The GNU/Linux OS has evolved from its origins in hackerdom to a full
+blown UNIX, capable of rivaling any commercial UNIX.  It now provides
+an inexpensive base to build a great workstation.  It has shed its
+hardware dependencies, having been ported to DEC Alphas, Sparcs,
+PowerPCs, and many others.  This potential speed boost along with its
+networking support will make it great for workstation clusters.  As a
+workstation it allows for all sorts of research and development,
+including artificial intelligence and artificial life.
+
+
+The purpose of this Howto is to provide a source to find out
+about various software packages, code libraries, and anything else
+that will help someone get started working with (and find resources
+for) artificial intelligence, artificial life, etc.  All done with 
+GNU/Linux specifically in mind.
+
+<sect1>What's New
+<p>
+
+<itemize>
+
+    <item>v2.5 (In progress) -
+
+    New entries: <ref id="ORTS">, <ref id="FANN">, <ref id="OpenCV">, 
+    <ref id="CBR Microprograms">, <ref id="ConceptNet">, <ref id="FreeHAL">,
+    <ref id="2APL">, <ref id="Alchemy">, <ref id="plop">, <ref id="evolver">,
+    <ref id="PyIE">, <ref id="Pyevolve">, <ref id="txevolver">,
+
+    <ref id="python-dlp"> 
+
+    and <ref id="OpenCog">.
+
+    Changed the name of the "Traditional" section to "Symbol Systems".
+
+    <item>v2.4 -
+
+    New entries: <ref id="Eprover">, <ref id="Player">, <ref id="Logfun">,
+    <ref id="Livingstone2">, <ref id="Quackle">, <ref id="LingPipe">, 
+    <ref id="GATE">, <ref id="Infon Battle Arena">, <ref id="CLARAty">, 
+    <ref id="Reverend">, <ref id="Shogun">, <ref id="Nanopond">,
+    <ref id="Polyworld">, <ref id="Fluidiom">, <ref id="NEAT">,
+    <ref id="Framsticks">, <ref id="URBI">, <ref id="RobotFlow">,
+    <ref id="Nero">, <ref id="ffnet">, <ref id="Alloy">,
+    <ref id="Pyke">, <ref id="NuPIC">, <ref id="Simbad">, <ref id="Robodeb">, 
+    <ref id="Loom">, <ref id="PowerLoom">, <ref id="tinygp">,
+    <ref id="Curry">, <ref id="JGAP">, <ref id="PyCLIPS">,
+    and <ref id="STELLA">.
+
+    I chopped the Agents section into two sub-sections, one for <ref
+    id="Software Agents"> and one for <ref id="Robotics and Simulators">. I
+    play it a bit fast and loose in my deciding what goes into each category,
+    but it is an improvement.
+
+    MIA found! <ref id="Cellular"> the cellular automata programming system.
+    Fixed many bad links and cleaned out missing projects.
+
+    <item>v2.3 -
+
+    New entries: <ref id="Yampa">, <ref id="pygene">, <ref id="Push">,
+    <ref id="ANNEvolve">, <ref id="dgpf">, <ref id="Golly">,
+    <ref id="IBAL">, <ref id="3APL">, <ref id="OSCAR">,
+    and <ref id="RobocodeNG">. 
+
+    Updated information for some entries including <ref id="Yale">, 
+    <ref id="Joone">, <ref id="Drone">, <ref id="Biome">, <ref id="ECLiPSe">,
+    <ref id="Xtoys">, <ref id="GECO">, 
+    <ref id="Creatures Docking Station"> and others.
+
+    I also changed the MIA section to <ref id="Missing &amp; Dead"> which now
+    groups into subsections entries with bad links that I can't find
+    replacements for and long dead projects.
+
+    <item>v2.2 -
+
+    Fixed a some bad links and was forced to move a few entries into
+    the MIA (missing) section. I also removed one duplicate entry.
+
+    New entries: <ref id="MASON">, <ref id="spyse">, <ref id="AntWars">,
+        <ref id="OpenSteer">, <ref id="Pyro">, <ref id="Robocode">,
+        <ref id="Trend"> and <ref id="Open BEAGLE">.
+
+    <item>v2.1 - 
+
+    New entries: <ref id="NLTK">, <ref id="NEURObjects">, <ref id="KANREN">,
+        <ref id="Neural Networks at your Fingertips">, <ref id="SimWorld">,
+        <ref id="SimAgent">, <ref id="Fuzzy sets for Ada">, <ref id="maxent">,
+        <ref id="Evo">, <ref id="breve"> and <ref id="AJA">
+
+
+    <item>v2.0 - Ran linkchecker and for any bad links I either found a new
+link or removed the item. See the new section MIA for a list of the removed
+entries (please let me know if you know of a new home for them).
+
+    New entries: <ref id="Yale">, <ref id="DIET Agents">, <ref id="JASA">,
+        <ref id="Jason">, <ref id="Noble Ape">, <ref id="Maude">,
+        <ref id="ECLiPSe">, <ref id="lush">, and <ref id="pygp">
+
+    <item>v1.9 - One new entry (<ref id="Bond">) and fixed the link below
+    to the dynamic list (now defunct). 
+
+    <item>v1.8 - Cleaned up bad links, finding new ones where possible and
+eliminating those that seem to have disappeared. Quite a few new entries as
+well.
+
+    New entries: <ref id="Torch">, <ref id="Aleph">, <ref id="AI Kernel">,
+        <ref id="OpenCyc">, <ref id="HTK">, <ref id="FFLL">, <ref id="JCK">, 
+        <ref id="Joone">, <ref id="scnANNlib">, <ref id="GAUL">, 
+        <ref id="Cougaar">, and <ref id="RoboTournament">
+
+    <item>v1.7 - Another 9 new entries, a bunch of links fixed, and a few
+items removed that have vanished from the net.
+
+    New entries: <ref id="SPASS">, <ref id="CNNs">, <ref id="JCASim">,
+        <ref id="Genetic">, <ref id="CAGE">, <ref id="AgentFarms">,
+        <ref id="MATREM">, <ref id="OAA">, and
+        <ref id="UTCS" name="UTCS Neural Nets Research Group Software">
+
+    <item>v1.6 - 9 new entries, a couple link fixes and one duplicate item
+removed.
+    <item>v1.5 - 26 new entries plus a couple link fixes.
+    <item>v1.4 - 10 new updates and fixed some lisp-related links.
+    <item>v1.3 - Putting a dent in the backlog, I added 30+ new entries today  
+and submitted it to the LDP.
+    <item>Previous records were in a mixed format with site updates. See the
+    <htmlurl url="http://zhar.net/howto/oldnotes/" name="old notes"> 
+    section of the master site for them.
+</itemize>
+
+<sect1>Where to find this software
+<p>
+
+All this software should be available via the net (ftp || http).  The
+links to where to find it will be provided in the description of each
+package.  There will also be plenty of software not covered on these
+pages (which is usually platform independent) located on one of the 
+resources listed on the <htmlurl url="http://zhar.net/attic/mlp/ai/"
+name="links section"> of the Master Site (given above).
+
+ 
+<sect1>Updates and comments
+<p> 
+
+If you find any mistakes, know of updates to one of the items below,
+or have problems compiling any of the applications, please mail me at:
+<htmlurl url="mailto:jae@zhar.net" name="jae@zhar.net"> 
+and I'll see what I can do.  
+
+
+If you know of any AI/Alife applications, class libraries,
+etc. <bf>Please</bf> <htmlurl url="mailto:jae@zhar.net" name=" email me">
+about them. Include your name, ftp and/or http sites where they can be
+found, plus a brief overview/commentary on the software (this info
+would make things a lot easier on me... but don't feel obligated ;).
+
+ 
+I know that keeping this list up to date and expanding it will take quite
+a bit of work. So please be patient (I do have other projects). I hope you 
+will find this document helpful.
+
+<sect1>Copyright/License
+<p>
+Copyright (c) 1996-2008 John A. Eikenberry
+
+LICENSE
+
+ This document may be reproduced and distributed in whole or in part, in 
+ any medium physical or electronic, provided that this license notice is 
+ displayed in the reproduction. Commercial redistribution is permitted and 
+ encouraged. Thirty days advance notice, via email to the author, of 
+ redistribution is appreciated, to give the authors time to provide updated 
+ documents.
+
+ A. REQUIREMENTS OF MODIFIED WORKS
+
+  All modified documents, including translations, anthologies, and partial 
+  documents, must meet the following requirements: 
+
+  <p><itemize>
+   <item>The modified version must be labeled as such.
+   <item>The person making the modifications must be identified.
+   <item>Acknowledgement of the original author must be retained.
+   <item>The location of the original unmodified document be identified.
+   <item>The original author's name(s) may not be used to assert or imply 
+        endorsement of the resulting document without the original author's 
+        permission.
+  </itemize>
+
+  In addition it is requested (not required) that: 
+
+  <itemize>
+    <item>The modifications (including deletions) be noted. 
+    <item>The author be notified by email of the modification in advance of 
+        redistribution, if an email address is provided in the document. 
+  </itemize>
+
+   As a special exception, anthologies of LDP documents may include a single 
+   copy of these license terms in a conspicuous location within the anthology 
+   and replace other copies of this license with a reference to the single 
+   copy of the license without the document being considered "modified" for 
+   the purposes of this section. 
+
+   Mere aggregation of LDP documents with other documents or programs on the 
+   same media shall not cause this license to apply to those other works. 
+
+   All translations, derivative documents, or modified documents that 
+   incorporate this document may not have more restrictive license terms 
+   than these, except that you may require distributors to make the resulting 
+   document available in source format. 
+
+     
+   

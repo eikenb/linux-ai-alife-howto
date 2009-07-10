@@ -1,0 +1,487 @@
+<sect>Missing &amp; Dead
+<label id="Missing &amp; Dead">
+
+    <p>
+    
+    This is my area for old or bad entries. The MIA section is for entires for
+    which I no longer have a valid home page. If you have any information
+    regarding where I can find these now please let me know. The Dead section
+    is for projects that seem dead. Moving them here allows me to keep my 
+    the main sections clean while allowing for interested parties to 
+    correct me in which case I can just move it back.
+
+    <sect1>MIA - Projects missing linkage.
+
+    <p>
+    <descrip>
+  
+    <label id="CASE">
+    <tag/CASE/
+        <itemize>
+            <item>Web site: <htmlurl 
+                url="http://www.iu.hio.no/&tilde;cell/" 
+                name="www.iu.hio.no/&tilde;cell/">
+            <item>FTP site: <htmlurl 
+                url="ftp://ftp.iu.hio.no/pub/" 
+                name="ftp.iu.hio.no/pub/">
+        </itemize>
+     
+      CASE (Cellular Automaton Simulation Environment) is a C++
+      toolkit for visualizing discrete models in two dimensions:
+      so-called cellular automata. The aim of this project is to
+      create an integrated framework for creating generalized cellular
+      automata using the best, standardized technology of the day.
+
+
+    <label id="CLEARS">
+    <tag/CLEARS/
+        <itemize>
+            <item>Web site: ????
+        </itemize>
+
+      The CLEARS system is an interactive graphical environment for
+      computational semantics. The tool allows exploration and
+      comparison of different semantic formalisms, and their
+      interaction with syntax. This enables the user to get an idea of
+      the range of possibilities of semantic construction, and also
+      where there is real convergence between theories.
+     
+     
+    <label id="CLIG">
+    <tag/CLIG/
+        <itemize>
+            <item>Web site: <htmlurl 
+                url="http://www.ags.uni-sb.de/&tilde;konrad/clig.html" 
+                name="www.ags.uni-sb.de/&tilde;konrad/clig.html">
+        </itemize>
+
+    CLIG is an interactive, extendible grapher for visualizing linguistic
+    data structures like trees, feature structures, Discourse
+    Representation Structures (DRS), logical formulas etc. All of these can
+    be freely mixed and embedded into each other. The grapher has been
+    designed both to be stand-alone and to be used as an add-on for
+    linguistic applications which display their output in a graphical
+    manner.
+ 
+
+    <label id="Corewar VM">
+    <tag/Corewar VM/
+        <itemize>
+            <item>Web site: <htmlurl 
+                url="http://www.jedi.claranet.fr/" 
+                name="www.jedi.claranet.fr/">
+        </itemize>
+
+        This is a virtual machine written in Java (so it is a virtual machine
+        for another virtual machine !) for a Corewar game.
+
+
+    <label id="DAI">
+    <tag/DAI/
+        <itemize> 
+            <item>Web site: <htmlurl 
+                url="http://starship.python.net/crew/gandalf/DNET/AI/" 
+                name="starship.python.net/crew/gandalf/DNET/AI/">
+      </itemize>
+     
+      A library for the Python programming language that provides an
+      object oriented interface to the CLIPS expert system tool. It 
+      includes an interface to COOL (CLIPS Object Oriented Language)
+      that allows:
+      <itemize>	<item>Investigate COOL classes</item>
+	<item>Create and manipulate with COOL instances</item>
+	<item>Manipulate with COOL message-handler's</item>
+	<item>Manipulate with Modules</item>
+      </itemize>
+     
+
+    <label id="Dunce">
+    <tag/Dunce/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://www.boswa.com/boswabits/"
+                name="www.boswa.com/boswabits/"> 
+        </itemize>
+        
+        Dunce is a simple chatterbot (conversational AI) and a language for
+        programming such chatterbots. It uses a basic regex pattern matching
+        and a semi-neural rule/response firing mechanism (with excitement/decay
+        cycles).
+
+        Dunce is listed about halfway down the page.
+
+
+    <label id="EcoSim">
+    <tag/EcoSim/
+        <itemize>
+            <item>Web site: <htmlurl 
+                url="http://www.offis.de/projekte/projekt.php?id=140"
+                name="www.offis.de/projekte/projekt.php?id=140">
+        </itemize>
+
+        NOTE: the above web site has info on EcoSim but no code to download. 
+
+
+        In EcoSim an ecosystem is described by all static and dynamic
+        properties of the individuals involved in the system as well as time
+        varying properties of the environment. Individuals change their state
+        over time or due to internal and external events. The environment is
+        also defined via dynamic objects which can change. Supports on the fly
+        analysis and animation of generated data. It is a C++ class library
+        designed to support individual-oriented modelling and simulation
+        of ecological systems.
+
+
+    <label id="Evo">
+    <tag/Evo/
+        <itemize>
+            <item>Web site: <htmlurl 
+                url="http://omicrongroup.org/evo/"
+                name="omicrongroup.org/evo/">
+        </itemize>
+
+        Evo is a software development framework that allows developers to build
+        complex alife simulations. Using Evo, researchers can easily build
+        systems of independent agents interacting with one another and with
+        their environment. Evo implements biological operators such as genetic
+        recombination and mutation to evolve the behavior of agents so that
+        they are more adapted to their environment.
+
+
+      <label id="IDEAL">
+      <tag/IDEAL/
+        <itemize>
+            <item>Web site: <htmlurl 
+                url="http://yoda.cis.temple.edu:8080/ideal/"
+                name="yoda.cis.temple.edu:8080/ideal/">
+        </itemize>
+      
+	IDEAL is a test bed for work in influence diagrams and
+	Bayesian networks. It contains various inference algorithms
+	for belief networks and evaluation algorithms for influence
+	diagrams. It contains facilities for creating and editing
+	influence diagrams and belief networks.
+
+	IDEAL is written in pure Common Lisp and so it will run in
+	Common Lisp on any platform. The emphasis in writing IDEAL has
+	been on code clarity and providing high level programming
+	abstractions. It thus is very suitable for experimental
+	implementations which need or extend belief network
+	technology.
+
+	At the highest level, IDEAL can be used as a subroutine
+	library which provides belief network inference and influence
+	diagram evaluation as a package. The code is documented in a
+	detailed manual and so it is also possible to work at a lower
+	level on extensions of belief network methods.
+ 
+	IDEAL comes with an optional graphic interface written in
+	CLIM. If your Common Lisp also has CLIM, you can run the
+	graphic interface.
+     
+
+    <label id="Illuminator">
+    <tag/Illuminator/
+        <itemize>
+            <item>Web site: <htmlurl 
+            url="http://documents.cfar.umd.edu/resources/source/illuminator.html" 
+            name="documents.cfar.umd.edu/resources/source/illuminator.html">
+        </itemize>
+
+      Illuminator is a toolset for developing OCR and Image
+      Understanding applications.  Illuminator has two major parts: a
+      library for representing, storing and retrieving OCR
+      information, heretofore called dafslib, and an X-Windows "DAFS"
+      file viewer, called illum. Illuminator and DAFS lib were
+      designed to supplant existing OCR formats and become a standard
+      in the industry. They particularly are extensible to handle more
+      than just English.
+      
+      The features of this release: 
+      <itemize>
+        <item>5 magnification levels for images</item>
+    	<item>flagged characters and words</item>
+        <item>unicode support -- American, British, French, German, 
+                Greek, Italian, MICR, Norwegian, Russian, Spanish, Swedish, 
+                keyboards </item>
+        <item>reads DAFS, TIFF's, PDA's (image only)</item>
+        <item>save to DAFS, ASCII/UTF or Unicode</item>
+        <item>Entity Viewer - shows properties, character choices, 
+                bounding boxes image fragment for a selected entity, change 
+                type, change content, hierarchy mode</item>
+      </itemize>
+
+
+    <label id="PAI">
+    <tag/PAI/
+        <itemize>
+            <item>Web site: <htmlurl 
+                url="http://utenti.quipo.it/claudioscordino/pai.html" 
+                name="utenti.quipo.it/claudioscordino/pai.html">
+        </itemize>
+        
+        AI (Programmable Artificial Intelligence) is a program capable of
+        having a conversation in its mother tongue, English. Written in 
+        C++.
+
+
+    <label id="Python ANN">
+    <tag/Simple Neural Net (in Python)/
+     	<itemize>
+            <item>Web site: <htmlurl
+            url="http://www.amk.ca/python/unmaintained/"
+            name="http://www.amk.ca/python/unmaintained/">
+        </itemize>
+     
+      Simple neural network code, which implements a class for 3-level
+      networks (input, hidden, and output layers). The only learning
+      rule implemented is simple backpropagation. No documentation (or
+      even comments) at all, because this is simply code that I use to
+      experiment with. Includes modules containing sample datasets
+      from Carl G. Looney's NN book. Requires the Numeric
+      extensions. 
+     
+
+    <label id="Python Fuzzy Logic Module">
+    <tag/Python Fuzzy Logic Module/
+        <itemize>
+            <item>FTP site: <htmlurl
+            url="ftp://ftp.csh.rit.edu/pub/members/retrev/"
+            name="ftp://ftp.csh.rit.edu/pub/members/retrev/">
+        </itemize>
+        
+        A simple python module for fuzzy logic. The file is 'fuz.tar.gz' in
+        this directory. The author plans to also write a simple genetic
+        algorithm and a neural net library as well. Check the 00_index file in
+        this directory for release info.
+
+
+    <label id="QUANT1">
+    <tag/QUANT1/
+        <itemize>
+            <item>Web site: <htmlurl 
+                url="http://linux.irk.ru/projects/QUANT/" 
+                name="linux.irk.ru/projects/QUANT/">
+        </itemize>
+
+        This project seems to have gone proprietary. The only trace I can find
+        via google is at <htmlurl
+        url="http://www.zurich.co.uk/strategicrisk/softwaresupport/Quant1.htm">.
+
+        QUANT/1 stands for type QUANTifier. It aims to be an alternative to
+        Prolog-like (Resulutional-like) systems. Main features include a lack
+        of necessity for eliminating Quantifiers, scolemisation, ease of
+        comprehension, large scale formulae operation, acceptance of nonHorn
+        formulaes, and Iterative deeping. The actual library implemented in
+        this project is called ATPPCF (Automatic Theorem Prover in calculus of
+        Positively Constructed Formulae).
+
+        ATPPCF will be a library (inference engine) and an extension of the
+        Predicate Calculus Language as a new logical language. The library will
+        be incorporable in another software such as TCL, Python, Perl. The
+        engine's primary inference method will be the "search of inference in
+        language of Positively Constructed Formulas (PCFs)" (a subset of
+        Predicate Calculus well translated in both directions). The language
+        will be used as scripting language to the engine. But there will be
+        possibility to replace it with extensions languages of main software.
+
+
+    <label id="SCNN">
+    <tag/SCNN/
+      <itemize>
+        <item>Web site: <htmlurl 
+         url="http://www.uni-frankfurt.de/fb13/iap/e_ag_rt/SCNN/" 
+         name="www.uni-frankfurt.de/fb13/iap/e_ag_rt/SCNN/">
+      </itemize>
+     
+      SCNN is an universal simulating system for Cellular Neural
+      Networks (CNN).  CNN are analog processing neural networks
+      with regular and local interconnections, governed by a set of
+      nonlinear ordinary differential equations. Due to their local
+      connectivity, CNN are realized as VLSI chips, which operates
+      at very high speed.
+
+
+    <label id="SPI">
+    <tag/Symbolic Probabilistic Inference (SPI)/
+      <itemize>
+    	<item>FTP site: <htmlurl 
+                url="ftp://ftp.engr.orst.edu/pub/dambrosi/spi/" 
+                name="ftp.engr.orst.edu/pub/dambrosi/spi/">
+        <item>Paper (ijar-94.ps): <htmlurl 
+                url="ftp://ftp.engr.orst.edu/pub/dambrosi/" 
+                name="ftp.engr.orst.edu/pub/dambrosi/">
+      </itemize>
+
+     
+      Contains Common Lisp function libraries to implement SPI type baysean 
+      nets. Documentation is very limited.
+      Features: 
+      <itemize>
+          Probabilities, Local Expression Language Utilities, Explanation, 
+          Dynamic Models, and a TCL/TK based GUI.
+      </itemize>
+
+
+    <label id="Sugal">
+    <tag/Sugal/
+      <itemize>
+        <item>Web site: <htmlurl
+            url="http://www.trajan-software.demon.co.uk/sugal.htm"
+            name="www.trajan-software.demon.co.uk/sugal.htm">
+      </itemize>
+
+        Sugal &lsqb;soo-gall&rsqb; is the SUnderland Genetic ALgorithm system.
+        The aim of Sugal is to support research and implementation in Genetic
+        Algorithms on a common software platform. As such, Sugal supports a
+        large number of variants of Genetic Algorithms, and has extensive
+        features to support customization and extension.
+     
+
+    <label id="TIN">
+    <tag/TIN/
+    <itemize>
+        <item>Web site: <htmlurl 
+            url="http://www.jetlag.demon.nl/" 
+            name="www.jetlag.demon.nl"></item>
+    </itemize>
+
+      This program simulates primitive life-forms, equipped with some
+      basic instincts and abilities, in a 2D environment consisting of
+      cells.  By mutation new generations can prove their success, and thus
+      passing on "good family values".
+
+      The brain of a TIN can be seen as a collection of processes, each
+      representing drives or impulses to behave a certain way, depending on the
+      state/perception of the environment ( e.g. presence of food, walls,
+      neighbors, scent traces) These behavior process currently are : eating,
+      moving, mating, relaxing, tracing others, gathering food and killing. The
+      process with the highest impulse value takes control, or in other words:
+      the tin will act according to its most urgent need.
+
+
+    <label id="Ummon">
+    <tag/Ummon/
+        <itemize>
+            <item>Web site: <htmlurl 
+                url="http://www.spacetide.com/projects/ummon/" 
+                name="www.spacetide.com/projects/ummon/">
+        </itemize>
+
+        Ummon is an advanced Open Source chatterbot. The main principle of the
+        bot is that it has no initial knowledge of either words or grammar; it
+        learns everything "on the fly." Numerous AI techniques will be explored
+        in the development of Ummon to achieve realistic "human" communication
+        with support for different, customizable personalities.
+
+
+     
+    </descrip>
+
+
+    <sect1>Dead projects.
+
+    <p>
+    <descrip>
+
+    <label id="EMA-XPS">
+    <tag/EMA-XPS - A Hybrid Graphic Expert System Shell/
+      <itemize>
+        <item>Web site: <htmlurl 
+                url="http://www.iai.uni-wuppertal.de/EMA-XPS/"
+                name="www.iai.uni-wuppertal.de/EMA-XPS/">
+      </itemize>
+
+     
+      EMA-XPS is a hybrid graphic expert system shell based on the
+      ASCII-oriented shell Babylon 2.3 of the German National Research
+      Center for Computer Sciences (GMD). In addition to Babylon's AI-power
+      (object oriented data representation, forward and backward chained
+      rules - collectible into sets, horn clauses, and constraint networks)
+      a graphic interface based on the X11 Window System and the OSF/Motif
+      Widget Library has been provided.
+
+
+    <label id="FIPA-OS">
+    <tag/FIPA-OS/
+        <itemize>
+            <item>Web site: <htmlurl 
+                url="http://fipa-os.sourceforge.net/index.htm">
+        </itemize>
+
+        FIPA-OS is an open source implementation of the mandatory elements
+        contained within the FIPA specification for agent interoperability. In
+        addition to supporting the FIPA interoperability concepts, FIPA-OS also
+        provides a component based architecture to enable the development of
+        domain specific agents which can utilise the services of the FIPA
+        Platform agents. It is implemented in Java.
+
+
+    <label id="PDKB">
+    <tag/PDKB/
+        <itemize>
+            <item>Web site: <htmlurl 
+                url="http://lynx.eaze.net/&tilde;pdkb/web/" 
+                name="lynx.eaze.net/&tilde;pdkb/web/">
+            <item>SourceForge site: <htmlurl 
+                url="http://sourceforge.net/projects/pdkb/" 
+                name="sourceforge.net/projects/pdkb">
+        </itemize>
+        
+        Public Domain Knowledge Bank (PDKB) is an Artificial Intelligence
+        Knowledge Bank of common sense rules and facts. It is based on the Cyc
+        Upper Ontology and the MELD language.
+
+
+    <label id="RobocodeNG">
+    <tag/RobocodeNG/
+        <itemize>
+            <item>Web site: <htmlurl 
+                url="http://robocodeng.sourceforge.net/"
+                name="robocodeng.sourceforge.net">
+        </itemize>
+
+        Merged together with original <ref id="Robocode"> as of version 1.1.
+    
+        Extension of Robocode, the battling bot AI programming game. Like its
+        parent, it is written in Java and meant as a learning environment.
+
+
+    <label id="Sulawesi">
+    <tag/Sulawesi/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://wearables.essex.ac.uk/sulawesi/"
+                name="wearables.essex.ac.uk/sulawesi/">
+        </itemize>
+        
+        A framework called Sulawesi has been designed and implemented to
+        tackle what has been considered to be important challenges in a
+        wearable user interface. The ability to accept input from any 
+        number of modalities, and perform if necessary a translation to any
+        number of modal outputs. It does this primarily through a set
+        of proactive agents to act on the input.
+
+
+    <label id="TresBel">
+    <tag/TresBel/
+    <itemize>
+        <item>Abstract: <htmlurl 
+            url="http://iridia.ulb.ac.be/Projects/imple.html" 
+            name="iridia.ulb.ac.be/Projects/imple.html">
+        <item>Direct Download: <htmlurl 
+            url="ftp://iridia.ulb.ac.be/pub/hongxu/software/TresBel.tar.Z" 
+            name="ftp://iridia.ulb.ac.be/pub/hongxu/software/TresBel.tar.Z">
+      </itemize>
+     
+      This project seems to have been superseded by <ref id="Pulcinella">.
+
+      Libraries containing (Allegro) Common Lisp code for Belief Functions 
+      (aka. Dempster-Shafer evidential reasoning) as a representation 
+      of uncertainty. Very little documentation. Has a limited GUI.
+
+
+
+    </descrip>
+
+</article>

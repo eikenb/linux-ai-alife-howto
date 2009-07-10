@@ -1,0 +1,21 @@
+<!doctype linuxdoc system>
+
+<article>
+
+<title>GNU/Linux AI &amp; Alife HOWTO
+<author>by <htmlurl url="mailto:jae@zhar.net" name="John Eikenberry">
+<date>v2.4, 12 Jun 2008
+
+<abstract>
+This howto mainly contains information about, and links to,
+various AI related software libraries, applications, etc. 
+that work on the GNU/Linux platform. All of it is (at least) 
+free for personal use. 
+
+The new master page for this document is 
+<htmlurl url="http://zhar.net/howto/" 
+    name="http://zhar.net/howto/">
+</abstract>
+
+<toc>
+

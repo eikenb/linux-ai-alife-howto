@@ -1,0 +1,746 @@
+<sect>Alife &amp; Complex Systems
+<label id="Alife &amp; Complex Systems">
+    <p> 
+
+    Alife takes yet another approach to exploring the mysteries of
+    intelligence.  It has many aspects similar to EC and Connectionism, but
+    takes these ideas and gives them a meta-level twist. Alife emphasizes the
+    development of intelligence through <it>emergent</it> behavior of
+    <it>complex adaptive systems</it>.  Alife stresses the social or group
+    based aspects of intelligence. It seeks to understand life and survival. By
+    studying the behaviors of groups of 'beings' Alife seeks to discover the
+    way intelligence or higher order activity emerges from seemingly simple
+    individuals. Cellular Automata and Conway's Game of Life are probably the
+    most commonly known applications of this field. Complex Systems
+    (abbreviated CS) are very similar to alife in the way the are approached,
+    just more general in definition (ie.  alife is a type of complex system).
+    Usually complex system software takes the form of a simulator.
+
+     
+    <sect1>Alife &amp; CS class/code libraries
+    <p> 
+
+    These are libraries of code or classes for use in programming within
+    the artificial life field.  They are not meant as stand alone
+    applications, but rather as tools for building your own applications.
+    
+
+
+    <descrip>
+
+
+    <label id="AgentFarms">
+    <tag/AgentFarms/
+        <itemize>
+            <item>Web site: <htmlurl 
+                url="http://www.agentfarms.net" 
+                name="www.agentfarms.net">
+        </itemize>
+
+        Agent Farms is a system for modelling and simulation of complex,
+        multi-agent based systems. The system can be used for:     
+        <itemize>
+         <item>Creating models of multi-agent systems
+         <item>Interactive and distributed simulation
+         <item>Observation and visualisation of the simulation
+         <item>Population modification and migration
+        </itemize>
+               
+
+    <label id="Biome">
+    <tag/Biome/
+        <itemize>
+            <item>Web site: <htmlurl 
+                url="http://sourceforge.net/projects/biome/"
+                name="sourceforge.net/projects/biome/">
+        </itemize>
+
+        Biome is a C++ library aimed at individual-based/agent-based
+        simulations. It is somewhat similar to Swarm, EcoSim or Simex but tries
+        to be more efficient and less monolithic without compromising object-
+        oriented design. Currently there is an event based scheduling system, a
+        C++ified Mersenne-Twister RNG, several general analysis classes, some
+        Qt-based GUI classes, a very basic persistence/database framework (used
+        also for parameter storage) and many other small useful things. 
+
+
+    <label id="CAGE">
+    <tag/CAGE/
+        <itemize>
+            <item>Web site: <htmlurl 
+                url="http://www.alcyone.com/software/cage/"
+                name="www.alcyone.com/software/cage/">
+        </itemize>
+
+         CAGE is a fairy generic and complete cellular automaton simulation
+         engine in Python. It supports both 1D and 2D automata, a variety of
+         prepackaged rules, and the concept of "agents" which can move about
+         independently on the map for implementing agent behavior.
+
+
+    <label id="Cellular">
+    <tag/Cellular/
+      <itemize>
+        <item>Web site: <htmlurl
+                url="http://zhar.net/howto/homeless/cellular/">
+      </itemize>
+
+      The Cellular automata programming system consists of a compiler for the
+      Cellang cellular automata programming language, along with the
+      corresponding documentation, viewer, and various tools. Postscript
+      versions of the tutorial and language reference manual are available for
+      those wanting more detailed information. The most important
+      distinguishing features of Cellang, include support for:
+
+      <itemize>
+        <item>any number of dimensions; 
+	    <item>compile time specification of each dimensions size; 
+	        cell neighborhoods of any size (though bounded at compile time)
+                and shape; 
+	    <item>positional and time dependent neighborhoods; 
+	    <item>associating multiple values (fields), including arrays,
+	        with each cell;
+	    <item>associating a potentially unbounded number of mobile
+	        agents &lsqb; Agents are mobile entities based on a mechanism of
+	        the same name in the Creatures system, developed by Ian
+	        Stephenson (ian@ohm.york.ac.uk).&rsqb; with each cell; and
+	    <item>local interactions only, since it is impossible to
+	        construct automata that contain any global control or
+	        references to global variables.
+      </itemize>
+     
+
+    <label id="Integrating Modelling Toolkit">
+    <tag/Integrating Modelling Toolkit/
+        <itemize>
+            <item>Web site: <htmlurl 
+                url="http://sourceforge.net/projects/imt/"
+                name="sourceforge.net/projects/imt/">
+        </itemize>
+        
+        The Integrating Modelling Toolkit (IMT) is a generic, comprehensive,
+        and extensible set of abstractions allowing definition and use of
+        interoperable model components.  Modellers create an IMT "world" made
+        of IMT "agents" that will perform each a particular phase of a
+        modelling task.  The core set of IMT agents can describe generic,
+        modular, distributed model components, either native to the IMT or
+        integrating existing simulation toolkits, specialized for tasks that
+        range from simple calculation of functions in an interpreted language
+        to spatially explicit simulation, model optimization, GIS analysis,
+        visualization and advanced statistical analysis.  IMT agents are
+        designed to easily "glue" together in higher-level simulations
+        integrating different modelling paradigms and toolkits.  The IMT can be
+        easily extended by users and developers through a convenient plug-in
+        mechanism
+
+
+    <label id="Jet's Neural Architecture">
+    <tag/Jet's Neural Architecture/
+        <itemize>
+            <item>Web site: <htmlurl 
+                url="http://www.voltar-confed.org/jneural/" 
+                name="www.voltar-confed.org/jneural/">
+        </itemize>
+
+        Jet's Neural Architecture is a C++ framework for doing neural net
+        projects. The goals of this project were to make a fast, flexible
+        neural architecture that isn't stuck to one kind of net and to make
+        sure that end users could easily write useful applications. All the
+        documentation is also easily readable.
+
+
+    <label id="MAML">
+    <tag/MAML/
+        <itemize>
+            <item>Web site: <htmlurl 
+                url="http://www.maml.hu/" 
+                name="www.maml.hu">
+        </itemize>
+
+        The current version of MAML is basically an extension to Objective-C
+        (using the Swarm libraries). It consists of a couple of
+        'macro-keywords' that define the general structure of a simulation. The
+        remaining must be filled with pure swarm-code. A MAML-to-Swarm (named
+        xmc) compiler is also being developed which compiles the source code
+        into a swarm application.
+
+
+    <label id="MASON">
+    <tag/MASON/
+        <itemize>
+            <item>Web site: <htmlurl 
+                url="http://cs.gmu.edu/~eclab/projects/mason/"
+                name="cs.gmu.edu/~eclab/projects/mason/">
+        </itemize>
+
+        MASON Stands for Multi-Agent Simulator Of Neighborhoods... or
+        Networks... or something... 
+
+        MASON is a fast discrete-event multi-agent simulation library core in
+        Java, designed to be the foundation for large custom-purpose Java
+        simulations, and also to provide more than enough functionality for
+        many lightweight simulation needs. MASON contains both a model library
+        and an optional suite of visualization tools in 2D and 3D.
+
+
+    <label id="SimWorld">
+    <tag/SimWorld/
+        <itemize>
+            <item>Web site: <htmlurl 
+                url="http://www.nd.edu/~airolab/simworld/"
+                name="www.nd.edu/~airolab/simworld/">
+            <item>New Web site?: <htmlurl 
+                url="http://hri.cogs.indiana.edu/">
+        </itemize>
+
+        SimWorld is a free artificial life simulation (based on the free 
+        <ref id="SimAgent"> toolkit developed by Aaron Sloman), which provides
+        functionality for running different interacting agents and objects in a
+        simulated, continuous environment.  The agents are controlled by rules
+        written in the powerful rule interpreter.   New behaviors of agents can
+        be defined without any programming knowledge.
+
+
+    <label id="Swarm">
+    <tag/Swarm/
+      <itemize>
+        <item>Web site: <htmlurl 
+            url="http://www.swarm.org/wiki/Swarm_main_page" 
+            name="www.swarm.org/wiki/Swarm_main_page">
+        <item>FTP site: <htmlurl 
+            url="http://ftp.swarm.org/pub/swarm/" 
+            name="ftp.swarm.org/pub/swarm/">
+      </itemize>
+
+     
+      The swarm Alife simulation kit. Swarm is a simulation environment
+      which facilitates development and experimentation with simulations
+      involving a large number of agents behaving and interacting within a
+      dynamic environment.  It consists of a collection of classes and
+      libraries written in Objective-C and allows great flexibility in
+      creating simulations and analyzing their results.  It comes with three
+      demos and good documentation. 
+      
+
+    </descrip>
+
+    
+     
+    <sect1>Alife &amp; CS software kits, applications, etc.
+    <p>
+
+    These are various applications, software kits, etc. meant for research
+    in the field of artificial life. Their ease of use will vary, as they
+    were designed to meet some particular research interest more than as
+    an easy to use commercial package.
+
+    <descrip>
+
+
+    <label id="Achilles">
+    <tag/Achilles/
+        <itemize>
+            <item>Web site: <htmlurl 
+                url="http://achilles.sourceforge.net/" 
+                name="achilles.sourceforge.net">
+        </itemize>
+
+        Achilles is an evolution simulation based on Larry Yaeger's PolyWorld.
+        It uses Hebbian neural networks, and an extremely simplified physical
+        model that allows virtual organisms to interact freely in a simulated
+        environment. 
+
+
+    <label id="AntWars">
+    <tag/AntWars/
+        <itemize>
+            <item>Web site: <htmlurl 
+                url="http://ant-wars.net/">
+        </itemize>
+        
+         Ant Wars is a competition which pits clever programs against each
+         other to do battle and compete for food in virtual worlds. Each
+         contestant is a species of ant, which can visualize only the world
+         immediately around him and pheromones left by fellow and enemy ants.
+         Using this information, the ant brain (a simple state machine) must
+         guide the ant towards collecting food at his home ant hill, while
+         fending off or attacking enemies.
+
+         Clever use of pheromones and subtle behaviors can create large scale
+         tactics such as raiding, defense, harvesting, and scouting when many
+         ants cooperate. 
+
+
+    <label id="Avida">
+    <tag/Avida/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://dllab.caltech.edu/avida/"
+                name="dllab.caltech.edu/avida/">
+        </itemize>
+
+        The computer program Avida is an auto-adaptive genetic system designed
+        primarily for use as a platform in Artificial Life research. The Avida
+        system is based on concepts similar to those employed by the Tierra
+        program, that is to say it is a population of self-reproducing strings
+        with a Turing-complete genetic basis subjected to Poisson-random
+        mutations. The population adapts to the combination of an intrinsic
+        fitness landscape (self-reproduction) and an externally imposed
+        (extrinsic) fitness function provided by the researcher. By studying 
+        this system, one can examine evolutionary adaptation, general traits of
+        living systems (such as self-organization), and other issues pertaining
+        to theoretical or evolutionary biology and dynamic systems.
+
+
+    <label id="breve">
+    <tag/breve/
+        <itemize>
+            <item>Web site: <htmlurl 
+                url="http://www.spiderland.org/breve/"
+                name="www.spiderland.org/breve/">
+        </itemize>
+
+        Breve is a free software package which makes it easy to build 3D
+        simulations of decentralized systems and artificial life. Users define
+        the behaviors of agents in a 3D world and observe how they interact.
+        Breve includes physical simulation and collision detection so you can
+        simulate realistic creatures, and an OpenGL display engine so you can
+        visualize your simulated worlds.
+
+       
+    <label id="BugsX">
+    <tag/BugsX/
+        <itemize>
+            <item>FTP site: <htmlurl
+                url="http://surf.de.uu.net/zooland/download/packages/bugsx/"
+                name="http://surf.de.uu.net/zooland/download/packages/bugsx/">
+        </itemize>
+
+       
+        Display and evolve biomorphs. It is a program which draws the
+        biomorphs based on parametric plots of Fourier sine and cosine series
+        and let's you play with them using the genetic algorithm.
+       
+
+    <label id="Creatures Docking Station">
+    <tag/Creatures Docking Station/
+        <itemize>
+            <item>Linux info: <htmlurl 
+                url="http://sylv.inkwell.com.ru/" 
+                name="sylv.inkwell.com.ru">
+        </itemize>
+
+        This is a free version of the Creatures3 ALife game. It has fewer
+        species and a small 'space-station' world, but can connect to other
+        worlds over the internet and (if you have the windows version of the
+        game) can connect to your C3 world. The game itself revolves around
+        breeding and training the alife creatures, 'Norns'. Its strikes a
+        pretty nice balance between fun and science, or so I'm told.
+
+        (summary written by Steve Grand included below)
+        
+        The eponymous creatures in this computer game are called Norns, and the
+        world's population of them at one stage hovered around the five million
+        mark, making them more common than many familiar natural species. Each
+        norn is composed of thousands of tiny simulated biological components,
+        such as neurons, biochemicals, chemoreceptors, chemoemitters and genes.
+        The norns' genes dictate how these components are assembled to make
+        complete organisms, and the creatures' behaviour then emerges from the
+        interactions of those parts, rather than being explicitly 'programmed
+        in'.
+
+        The norns are capable of learning about their environment, either by
+        being shown things by their owners or through learning by their own
+        mistakes. They must learn for themselves how to find food and how to
+        interact with the many objects in their environment. They can interact
+        with their owners, using simple language, and also with each other.
+        They can form relationships and produce offspring, which inherit their
+        neural and biochemical structure from their parents and are capable of
+        open-ended evolution over time. They can fall prey to a variety of
+        diseases (as well as genetic defects) and can be treated with
+        appropriate medicines.
+
+
+    <label id="dblife-dblifelib">
+    <tag/dblife &amp; dblifelib/
+    <itemize>
+      <item>FTP site: <htmlurl 
+            url="http://ibiblio.org/pub/Linux/science/ai/life/"
+            name="ibiblio.org/pub/Linux/science/ai/life/">
+    </itemize>
+
+      <it>dblife:</it> Sources for a fancy Game of Life program for X11
+      (and curses).  It is not meant to be incredibly fast (use xlife for
+      that:-).  But it IS meant to allow the easy editing and viewing of
+      Life objects and has some powerful features.  The related dblifelib
+      package is a library of Life objects to use with the program.
+      
+      <it>dblifelib:</it> This is a library of interesting Life objects,
+      including oscillators, spaceships, puffers, and other weird things.
+      The related dblife package contains a Life program which can read the
+      objects in the Library.
+     
+
+    <label id="Drone">
+    <tag/Drone/
+      <itemize>
+        <item>Web site: <htmlurl
+              url="http://www.cscs.umich.edu/Software/Drone/"
+              name="www.cscs.umich.edu/Software/Drone/">
+      </itemize>
+
+      Drone is a tool for automatically running batch jobs of a simulation
+      program. It allows sweeps over arbitrary sets of parameters, as well
+      as multiple runs for each parameter set, with a separate random seed
+      for each run. The runs may be executed either on a single computer or
+      over the Internet on a set of remote hosts. Drone is written in Expect
+      (an extension to the Tcl scripting language) and runs under Unix. It
+      was originally designed for use with the Swarm agent-based simulation
+      framework, but Drone can be used with any simulation program that
+      reads parameters from the command line or from an input file.
+ 
+
+    <label id="EcoLab">
+    <tag/EcoLab/
+      <itemize>
+        <item>Web site: <htmlurl
+                url="http://parallel.hpc.unsw.edu.au/rks/ecolab/"
+                name="parallel.hpc.unsw.edu.au/rks/ecolab/">
+      </itemize>
+     
+      EcoLab is a system that implements an abstract ecology model. It
+      is written as a set of Tcl/Tk commands so that the model
+      parameters can easily be changed on the fly by means of editing
+      a script. The model itself is written in C++.
+     
+
+    <label id="Framsticks">
+    <tag/Framsticks/
+        <itemize>
+            <item>Web site: <htmlurl 
+                url="http://www.frams.alife.pl/">
+        </itemize>
+
+        Framsticks is a three-dimensional life simulation project. Both
+        mechanical structures ("bodies") and control systems ("brains") of
+        creatures are modeled. It is possible to design various kinds of
+        experiments, including simple optimization (by evolutionary
+        algorithms), co-evolution, open-ended and spontaneous evolution,
+        distinct gene pools and populations, diverse genotype/phenotype
+        mappings, and species/ecosystems modeling.
+
+
+    <label id="Fluidiom">
+    <tag/Fluidiom/
+        <itemize>
+            <item>Web site: <htmlurl 
+                url="http://sourceforge.net/projects/fluidiom/">
+            <item>Web site: <htmlurl 
+                url="http://fluidiom.v2.nl/">
+        </itemize>
+
+        Evolutionary based alife platform. Has a game like feel which makes it
+        fun while still allowing for some interesting experimentation.
+
+        It takes a minimalist approach to spatial structure to make a body,
+        adds articulation in the form of muscles, and then lets evolution take
+        over to see if these bodies can learn to walk, run, crawl, or slither
+        from one place to the other. 
+
+
+    <label id="Game Of Life">
+    <tag/Game Of Life (GOL)/  
+      <itemize>
+        <item>FTP site: <htmlurl
+            url="http://ibiblio.org/pub/Linux/science/ai/life/"
+            name="ibiblio.org/pub/Linux/science/ai/life/">
+      </itemize>
+     
+      GOL is a simulator for conway's game of life (a simple cellular
+      automata), and other simple rule sets. The emphasis here is on
+      speed and scale, in other words you can setup large and fast
+      simulations.   
+
+
+    <label id="gant">
+    <tag/gant/
+        <itemize>
+            <item>Web site: <htmlurl 
+                url="http://gant.sourceforge.net/" 
+                name="gant.sourceforge.net">
+        </itemize>
+        
+        This project is an ANSI C++ implementation of the Generalized Langton
+        Ant, which lives on a torus.
+
+
+    <label id="gLife">
+    <tag/gLife/
+        <itemize>
+            <item>Web site: <htmlurl 
+                url="http://glife.sourceforge.net/" 
+                name="glife.sourceforge.net">
+            <item>SourceForge site: <htmlurl 
+                url="http://sourceforge.net/projects/glife/" 
+                name="sourceforge.net/projects/glife/">
+        </itemize>
+        
+        This program is similiar to "Conway's Game of Life" but yet it is very
+        different. It takes "Conway's Game of Life" and applies it to a society
+        (human society). This means there is a very different (and much larger)
+        rule set than in the original game. Things need to be taken into account
+        such as the terrain, age, sex, culture, movement, etc
+
+
+    <label id="Golly">
+    <tag/Golly/
+        <itemize>
+            <item>Web site: <htmlurl 
+                url="http://golly.sourceforge.net/"
+                name="golly.sourceforge.net">
+        </itemize>
+
+        An open source, cross-platform implementation of John Conway's Game of
+        Life with an unbounded universe and capable of running patterns faster
+        and further than ever before. It has many features such as;
+
+        <itemize>
+        <item>Reads RLE, Life 1.05/1.06, and macrocell formats.
+        <item>Supports Wolfram's 1D rules.
+        <item>Can paste in patterns from the clipboard. 
+        <item>Scriptable via Python.
+        </itemize>
+
+
+    <label id="Langton's Ant">
+    <tag/Langton's Ant/
+        <itemize>
+            <item>Web site: <htmlurl 
+                url="http://www.theory.org/software/ant/"
+                name="www.theory.org/software/ant/">
+        </itemize>
+
+        Langton's Ant is an example of a finite-state cellular automata. The
+        ant (or ants) start out on a grid. Each cell is either black or white.
+        If the ant is on a black square, it turns right 90 and moves forward
+        one unit. If the ant is on a white square, it turns left 90 and moves
+        forward one unit.  And when the ant leaves a square, it inverts the
+        color. The neat thing about Langton's Ant is that no matter what
+        pattern field you start it out on, it eventually builds a "road," which
+        is a series of 117 steps that repeat indefinitely, each time leaving
+        the ant displaced one pixel vertically and horizontally.
+        
+
+
+    <label id="LEE">
+    <tag/LEE/
+      <itemize>
+        <item>Web site: <htmlurl
+            url="http://www.informatics.indiana.edu/fil/LEE/"
+            name="www.informatics.indiana.edu/fil/LEE/">
+      </itemize>
+
+     
+      LEE (Latent Energy Environments) is both an Alife model and a
+      software tool to be used for simulations within the framework of that
+      model. We hope that LEE will help understand a broad range of issues
+      in theoretical, behavioral, and evolutionary biology. The LEE tool
+      described here consists of approximately 7,000 lines of C code and
+      runs in both Unix and Macintosh platforms.
+     
+
+    <label id="MATREM">
+    <tag/MATREM/
+        <itemize>
+            <item>Web site: <htmlurl 
+                url="http://www.phys.uu.nl/&tilde;romans/"
+                name="www.phys.uu.nl/&tilde;romans/">
+        </itemize>
+
+        Matrem is a computer program that simulates life. It belongs to the
+        emerging science of "artificial life", which studies evolution and
+        complex systems in general by simulation. Matrem is also a game, where
+        players compete to create the fittest life form. Their efforts are the
+        driving force behind the program.
+
+
+    <label id="Nanopond">
+    <tag/Nanopond/
+        <itemize>
+            <item>Web site: <htmlurl 
+                url="http://www.greythumb.org/wiki/Nanopond">
+        </itemize>
+
+        Nanopond is a "corewar style" evolvable instruction set based virtual
+        machine written in C. It is similar in design to Tierra and Avida but
+        considerably smaller and simpler. Version 1.0 weights in at only 840
+        lines of C code, the majority of which are comments! It is very highly
+        optimized and supports simple color visualization using the SDL (Simple
+        Directmedia Layer) library.
+
+        More information can be learned by reading the Nanopond source code,
+        which is very well commented.
+
+
+    <label id="Noble Ape">
+    <tag/Noble Ape/
+        <itemize>
+            <item>Web site: <htmlurl 
+                url="http://www.nobleape.com/sim/"
+                name="www.nobleape.com/sim/">
+        </itemize>
+
+        The Noble Ape Simulation has been developed (as the Nervana Simulation)
+        since 1996. The aim of the simulation is to create a detailed
+        biological environment and a cognitive simulation. The Simulation is
+        intended as a palette for open source development. It provides a stable
+        means of simulating large scale environments and cognitive processes.
+
+        It features a number of autonomous simulation components including a
+        landscape simulation, biological simulation, weather simulation,
+        sentient creature (Noble Ape) simulation and a simple intelligent-agent
+        scripting language (ApeScript).
+
+        The code is currently (2007) used by Apple Inc and by INTEL for
+        processor optimization and performance tuning. Apple includes it with
+        their CHUD performance and debugging developer tool set.
+
+    <label id="Polyworld">
+    <tag/Polyworld/
+        <itemize>
+            <item>Web site: <htmlurl 
+                url="http://sourceforge.net/projects/polyworld">
+            <item>Web site: <htmlurl 
+                url="http://www.beanblossom.in.us/larryy/PolyWorld.html">
+        </itemize>
+
+        PolyWorld is a computational ecology that I developed to explore issues
+        in Artificial Life. Simulated organisms reproduce sexually, fight and
+        kill and eat each other, eat the food that grows throughout the world,
+        and either develop successful strategies for survival or die. An
+        organism's entire behavioral suite (move, turn, attack, eat, mate,
+        light) is controlled by its neural network "brain". Each brain's
+        architecture--it's neural wiring diagram--is determined from its
+        genetic code, in terms of number, size, and composition of neural
+        clusters (excitatory and inhibitory neurons) and the types of
+        connections between those clusters (connection density and topological
+        mapping). Synaptic efficacy is modulated via Hebbian learning, so, in
+        principle, the organisms have the ability to learn during the course of
+        their lifetimes. The organisms perceive their world through a sense of
+        vision, provided by a computer graphic rendering of the world from each
+        organism's point of view. The organisms' physiologies are also encoded
+        genetically, so both brain and body, and thus all components of
+        behavior, evolve over multiple generations. A variety of "species",
+        with varying individual and group survival strategies have emerged in
+        various simulations, displaying such complex ethological behaviors as
+        swarming/flocking, foraging, and attack avoidance.
+
+
+      <label id="POSES++">
+      <tag/POSES++/  
+    	<itemize>
+            <item>Web site: <htmlurl 
+                url="http://www.gpc.de/e_poses.html">
+        </itemize>
+     
+      The POSES++ software tool supports the development and
+      simulation of models.  Regarding the simulation technique models
+      are suitable reproductions of real or planned systems for their
+      simulative investigation.
+      <p>
+
+      In all industrial sectors or branches POSES++ can model and
+      simulate any arbitrary system which is based on a discrete and
+      discontinuous behaviour. Also continuous systems can mostly be
+      handled like discrete systems e.g., by quantity discretion and
+      batch processing.
+     
+
+    <label id="Tierra">
+    <tag/Tierra/
+      <itemize>
+        <item>Web site: <htmlurl 
+            url="http://life.ou.edu/tierra/">
+      </itemize>
+
+
+      Tierra's written in the C programming language. This source code
+      creates a virtual computer and its operating system, whose
+      architecture has been designed in such a way that the executable
+      machine codes are evolve-able. This means that the machine code can be
+      mutated (by flipping bits at random) or recombined (by swapping
+      segments of code between algorithms), and the resulting code remains
+      functional enough of the time for natural (or presumably artificial)
+      selection to be able to improve the code over time.
+     
+
+    <label id="Trend">
+    <tag/Trend/
+        <itemize>
+            <item>Web site: <htmlurl 
+                url="http://www.complex.iastate.edu/download/Trend/"
+                name="www.complex.iastate.edu/download/Trend/">
+        </itemize>
+        
+        Trend is a general purpose cellular automata simulation environment
+        with an integrated high level language compiler, a beautiful graphical
+        user interface, and a fast, three stage cached simulation engine. This
+        is the simulation system that was used to discover the first emergent
+        self-replicating cellular automata rule set, and the first problem
+        solving self-replication loop.
+
+        Since its simulator is very flexible with regard to cellular space
+        sizes, cell structures, neighborhood structures and cellular automata
+        rules, Trend can simulate almost all one or two-dimensional cellular
+        automata models. It also has a smart backtracking feature which
+        simplifies rule set development a lot by allowing users to go back to a
+        previous stage of simulation! With other advanced features, Trend is
+        probably the most easy to use 2-dimensional cellular automata
+        simulator.
+
+        Also available is jTrend. A Java version of Trend.
+
+
+    <label id="XLIFE">
+    <tag/XLIFE/
+    <itemize>
+      <item>FTP site: <htmlurl
+                url="http://surf.de.uu.net/zooland/download/packages/xlife/"
+                name="surf.de.uu.net/zooland/download/packages/xlife/">
+    </itemize>
+
+     
+      This program will evolve patterns for John Horton Conway's game
+      of Life.  It will also handle general cellular automata with the
+      orthogonal neighborhood and up to 8 states (it's possible to recompile
+      for more states, but very expensive in memory).  Transition rules and
+      sample patterns are provided for the 8-state automaton of E. F. Codd,
+      the Wireworld automaton, and a whole class of `Prisoner's Dilemma'
+      games.
+     
+
+      <label id="Xtoys">
+      <tag/Xtoys/   
+      <itemize>
+        <item>Web site: <htmlurl 
+            url="http://thy.phy.bnl.gov/www/xtoys/xtoys.html" 
+            name="thy.phy.bnl.gov/www/xtoys/xtoys.html">
+      </itemize>
+     
+      xtoys contains a set of cellular automata simulators for X windows.
+      Programs included are:
+      <itemize>
+        <item> xising --- a two dimensional Ising model simulator,
+	    <item> xpotts --- the two dimensional Potts model,
+    	<item> xautomalab ---  a totalistic cellular automaton simulator,
+	    <item> xsand --- for the Bak, Tang, Wiesenfeld sandpile model,
+    	<item> xwaves --- demonstrates three different wave equations,
+    	<item> schrodinger --- play with the Scrodinger equation in an 
+            adjustable potential.
+      </itemize>
+
+  </descrip>
+
+     
+     
+    

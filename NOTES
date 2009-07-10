@@ -1,0 +1,28 @@
+Use this license
+http://creativecommons.org/licenses/by-sa/3.0/
+
+
+[DONE] Change Chapter 2 to "Symbolic Systems (GOFAI)"
+
+Add "Statistical & Machine Learning"
+- http://complearn.org/
+- bayes entries
+- other from chpt2
+
+http://homepages.inf.ed.ac.uk/lzhang10/maxent_toolkit.html
+- The Maximum Entropy Toolkit provides a set of tools and library for constructing maximum entropy (maxent) model in either Python or C++.
+Maxent Entropy Model is a general purpose machine learning framework that has proved to be highly expressive and powerful in statistical natural language processing, statistical physics, computer vision and many other fields.
+
+http://homepages.inf.ed.ac.uk/lzhang10/maxent.html#soft
+- list of other max entropy modeling software
+
+http://www.drmaciver.com/2009/04/command-line-tools-for-nlp-and-machine-learning/
+- collection of links to a few NLP/Machine learning apps
+
+http://seat.massey.ac.nz/personal/s.r.marsland/MLBook.html
+- A whole slew of example machine learning algorithms from the book
+"Machine Learning: An Algorithmic Perspective" by Stephen Marsland.
+All code is written in python.
+
+maybe, not sure what section
+http://www.cs.umd.edu/~mount/ANN/
