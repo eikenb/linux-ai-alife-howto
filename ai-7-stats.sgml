@@ -9,9 +9,9 @@
       <ref id="Connectionism"> falls under this category, but it is such a
       large sub-field I'm keeping it in a separate section.
 
-  </p>
 
   <sect1>Libraries
+  <p>
 
   Libraries or frameworks used for writing machine learning systems.
 
@@ -76,19 +76,20 @@
 
 
     <label id="MLAP book samples">
-    <tag/MLAP/
+    <tag/MLAP book samples/
         <itemize>
             <item>Web site: <htmlurl
-                url="">
+               url="http://seat.massey.ac.nz/personal/s.r.marsland/MLBook.html">
         </itemize>
 
        	Not a library per-say, but a whole slew of example machine learning
         algorithms from the book "Machine Learning: An Algorithmic Perspective"
         by Stephen Marsland.  All code is written in python.
 
-  <descrip>
+  </descrip>
   
   <sect1>Applications
+  <p>
 
   Full applications that implement various machine learning or statistical
   systems oriented toward general learning (i.e., no spam filters and the
