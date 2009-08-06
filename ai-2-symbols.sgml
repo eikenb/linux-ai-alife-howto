@@ -187,6 +187,22 @@
         61131-7 standard.
 
 
+    <label id="FLiP">
+    <tag/FLiP/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://staff.washington.edu/jon/flip/www/">
+        </itemize>
+
+	Flip is a logical framework written in Python. A logical framework is a
+	library for defining logics and writing applications such as theorem
+	provers. The checker can use different logics; Flip comes with several.
+	You can add another logic, or add axioms and derived rules, by writing
+	a module in Python. Python is both the object language and the
+	metalanguage. Formulas, inference rules, and entire proofs are Python
+	expressions. Prover commands are Python functions.
+
+
     <label id="Fuzzy sets for Ada">
     <tag/Fuzzy sets for Ada/
         <itemize>
