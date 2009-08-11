@@ -1006,7 +1006,21 @@ name="www.csee.umbc.edu/tkqml/">
         graphically on screen.
 
 
-   <label id="CLARAty">
+    <label id="Carmen">
+    <tag/Carmen/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://carmen.sourceforge.net/">
+        </itemize>
+
+	CARMEN, the Carnegie Mellon Robot Navigation Toolkit. CARMEN is an
+	open-source collection of software for mobile robot control. CARMEN is
+	modular software designed to provide basic navigation primatives
+	including: base and sensor control, logging, obstacle avoidance,
+	localization, path planning, and mapping. 
+
+
+    <label id="CLARAty">
     <tag/CLARAty/
         <itemize>
             <item>Web site: <htmlurl 
@@ -1095,6 +1109,21 @@ name="www.csee.umbc.edu/tkqml/">
 
         Closed source but free to download. They are working on OpenNERO which
         will be open source and more intended as a research platform.
+
+
+    <label id="Orca">
+    <tag/Orca/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://orca-robotics.sourceforge.net/orca/">
+        </itemize>
+
+	Orca is an open-source framework for developing component-based robotic
+	systems. It provides the means for defining and developing the
+	building-blocks which can be pieced together to form arbitrarily
+	complex robotic systems, from single vehicles to distributed sensor
+	networks.
+
 
     <label id="Player">
     <tag/Player/
@@ -1201,6 +1230,23 @@ name="www.csee.umbc.edu/tkqml/">
         Game Types: Death Match, Rally, and Capture The Flag. Multi-Player
         through TCP/IP, Six weapons including BFG, Map Editor, and a wide
         variety of board elements.
+
+
+    <label id="ROS">
+    <tag/ROS/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://pr.willowgarage.com/wiki/ROS">
+            <item>Web site: <htmlurl
+                url="http://ros.sourceforge.net/">
+        </itemize>
+
+	ROS is an operating system for your robot. It provides the services you
+	would expect from an operating system, including hardware abstraction,
+	low-level device control, implementation of commonly-used
+	functionality, message-passing between processes, and package
+	management. It also provides tools and libraries for obtaining,
+	building, writing, and running code across multiple computers.
 
 
     <label id="Simbad">
@@ -1350,6 +1396,26 @@ name="www.csee.umbc.edu/tkqml/">
         values, and time-ordered sequences of discrete events. Yampa is an
         instantiation of FRP as a domain-specific language embedded in Haskell.
 
+
+    <label id="YARP">
+    <tag/YARP/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://eris.liralab.it/yarp/">
+        </itemize>
+
+	YARP is plumbing for robot software.  It is a set of libraries,
+	protocols, and tools to keep modules and devices cleanly decoupled. It
+	is reluctant middleware, with no desire or expectation to be in control
+	of your system.
+
+	More specifically, YARP supports building a robot control system as a
+	collection of programs communicating in a peer-to-peer way, with a
+	family of connection types that meet the diverse, sometimes
+	contradictory, and always changing needs of advanced robotics. We also
+	encourage compilation and use of hardware devices in a future-proof
+	way. Our strategic goal is to increase the longevity of robot software
+	projects.
 
 
 
