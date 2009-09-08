@@ -386,8 +386,13 @@
                 name="maxent.sourceforge.net">
          </itemize>
 
-        The Maximum Entropy Toolkit provides a set of tools and library for
-        constructing maximum entropy (maxent) models in either Python or C++.
+	The Maximum Entropy Toolkit provides a set of tools and library for
+	constructing maximum entropy (maxent) models in either Python or C++.
+	Maxent Entropy Model is a general purpose machine learning framework
+	that has proved to be highly expressive and powerful in statistical
+	natural language processing, statistical physics, computer vision and
+	many other fields.
+
         It features conditional maximum entropy models, L-BFGS and GIS
         parameter estimation, Gaussian Prior smoothing, a C++ API, a Python
         extension module, a command line utility, and good documentation. A
