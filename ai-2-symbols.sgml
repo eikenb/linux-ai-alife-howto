@@ -379,8 +379,8 @@
     <tag/maxent/
         <itemize>
             <item>Python/C++ version: <htmlurl 
-                url="http://homepages.inf.ed.ac.uk/s0450736/maxent_toolkit.html"
-                name="homepages.inf.ed.ac.uk/s0450736/maxent_toolkit.html">
+                url="http://homepages.inf.ed.ac.uk/lzhang10/maxent_toolkit.html"
+                name="http://homepages.inf.ed.ac.uk/lzhang10/maxent_toolkit.html">
             <item>Java version: <htmlurl 
                 url="http://maxent.sourceforge.net/"
                 name="maxent.sourceforge.net">
