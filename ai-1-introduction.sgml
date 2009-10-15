@@ -35,7 +35,7 @@ GNU/Linux specifically in mind.
     <ref id="python-dlp">, <ref id="CompLearn">, <ref id="dbacl">,
     <ref id="Maximum Entropy Toolkit">, <ref id="pebl">, <ref id="FLiP">,
     <ref id="Carmen">, <ref id="Orca">, <ref id="ROS">, <ref id="YARP">, 
-    <ref id="MLAP book samples">, and <ref id="OpenCog">.
+    <ref id="Neuroph">, <ref id="MLAP book samples">, and <ref id="OpenCog">.
 
     Changed the name of the "Traditional" section to 
     <ref id="Symbolic Systems (GOFAI)">. Added new section, 

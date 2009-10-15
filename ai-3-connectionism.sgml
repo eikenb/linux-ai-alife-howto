@@ -564,6 +564,19 @@
       in the simulation.
      
 
+    <label id="Neuroph">
+    <tag/Neuroph/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://neuroph.sourceforge.net/">
+        </itemize>
+
+	Neuroph is lightweight Java neural network framework to develop common
+	neural network architectures. It contains well designed, open source
+	Java library with small number of basic classes which correspond to
+	basic NN concepts. Also has  nice GUI neural network editor to quickly
+	create Java neural network components.
+
     
     <label id="PDP++">
     <tag/PDP++/
