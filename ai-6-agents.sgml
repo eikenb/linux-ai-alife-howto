@@ -63,15 +63,16 @@
     <tag/agentTool/
         <itemize>
             <item>Web site: <htmlurl 
-                url="http://macr.cis.ksu.edu/projects/agentTool/agentool.htm">
-            <item>Download site: <htmlurl 
-                url="http://macr.cis.ksu.edu/projects/agentTool/registration.htm">
+                url="http://agenttool.cis.ksu.edu/">
         </itemize>
 
-        Another Java based agent development framework. Fairly unique in that
-        it emphasizes the use of a GUI for designing the system which will
-        "semi-automatically synthesize multiagent systems to meet those
-        requirements". You need a java enabled browser to download. :P
+	agentTool is a Eclipse-based graphical development environment to help
+	users analyze, design, and implement multiagent systems.  It is
+	designed to support the highly tailorable Organization-based Multiagent
+	Systems Engineering (O-MaSE) methodology. agentTool currently supports
+	all O-MaSE models including the Goal Model, Agent Model, Role Model,
+	Organization Model, Protocol Model, Plan Model, Capability-Action
+	Model, Domain Model, and Policy Model.
 
 
     <label id="Aglets">
