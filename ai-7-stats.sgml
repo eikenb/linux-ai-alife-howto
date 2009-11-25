@@ -35,6 +35,31 @@
 	toolkits.
 
 
+    <label id="Elefant">
+    <tag/Elefant/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://elefant.developer.nicta.com.au/">
+        </itemize>
+
+	 Elefant (Efficient Learning, Large-scale Inference, and Optimisation
+	 Toolkit) is an open source library for machine learning licensed under
+	 the Mozilla Public License (MPL). We develop an open source machine
+	 learning toolkit which provides
+
+        <itemize>
+	  <item>algorithms for machine learning utilising the power of
+	  multi-core/multi-threaded processors/operating systems (Linux,
+	  WIndows, Mac OS X),
+	  <item>a graphical user interface for users who want to quickly
+	  prototype machine learning experiments,
+	  <item>tutorials to support learning about Statistical Machine
+	  Learning (Statistical Machine Learning at The Australian National
+	  University), and
+	  <item>detailed and precise documentation for each of the above.
+        </itemize>
+
+
     <label id="Maximum Entropy Toolkit">
     <tag/Maximum Entropy Toolkit/
         <itemize>
