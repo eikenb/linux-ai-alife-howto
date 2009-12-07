@@ -28,7 +28,7 @@ GNU/Linux specifically in mind.
 
     <item>v2.5 (In progress) -
 
-    New entries: <ref id="ORTS">, <ref id="FANN">, <ref id="OpenCV">,
+    <p>New entries: <ref id="ORTS">, <ref id="FANN">, <ref id="OpenCV">,
     <ref id="CBR Microprograms">, <ref id="ConceptNet">, <ref id="FreeHAL">,
     <ref id="2APL">, <ref id="Alchemy">, <ref id="plop">, <ref id="evolver">,
     <ref id="PyIE">, <ref id="Pyevolve">, <ref id="txevolver">,
@@ -38,13 +38,18 @@ GNU/Linux specifically in mind.
     <ref id="Neuroph">, <ref id="MLAP book samples">, <ref id="Elefant">
     and <ref id="OpenCog">.
 
-    Changed the name of the "Traditional" section to 
+    <p>Changed the name of the "Traditional" section to 
     <ref id="Symbolic Systems (GOFAI)">. Added new section, 
     <ref id="Statistical &amp; Machine Learning">.
 
+    <p>Seems someone has resuscitated <ref id="EMA-XPS">. Not very active, but
+    enough to pull out of the dead projects area and place back amounst the
+    living.
+
+
     <item>v2.4 -
 
-    New entries: <ref id="Eprover">, <ref id="Player">, <ref id="Logfun">,
+    <p>New entries: <ref id="Eprover">, <ref id="Player">, <ref id="Logfun">,
     <ref id="Livingstone2">, <ref id="Quackle">, <ref id="LingPipe">, 
     <ref id="GATE">, <ref id="Infon Battle Arena">, <ref id="CLARAty">, 
     <ref id="Reverend">, <ref id="Shogun">, <ref id="Nanopond">,
@@ -56,52 +61,52 @@ GNU/Linux specifically in mind.
     <ref id="Curry">, <ref id="JGAP">, <ref id="PyCLIPS">,
     and <ref id="STELLA">.
 
-    I chopped the Agents section into two sub-sections, one for <ref
+    <p>I chopped the Agents section into two sub-sections, one for <ref
     id="Software Agents"> and one for <ref id="Robotics and Simulators">. I
     play it a bit fast and loose in my deciding what goes into each category,
     but it is an improvement.
 
-    MIA found! <ref id="Cellular"> the cellular automata programming system.
+    <p>MIA found! <ref id="Cellular"> the cellular automata programming system.
     Fixed many bad links and cleaned out missing projects.
 
     <item>v2.3 -
 
-    New entries: <ref id="Yampa">, <ref id="pygene">, <ref id="Push">,
+    <p>New entries: <ref id="Yampa">, <ref id="pygene">, <ref id="Push">,
     <ref id="ANNEvolve">, <ref id="dgpf">, <ref id="Golly">,
     <ref id="IBAL">, <ref id="3APL">, <ref id="OSCAR">,
     and <ref id="RobocodeNG">. 
 
-    Updated information for some entries including <ref id="Yale">, 
+    <p>Updated information for some entries including <ref id="Yale">, 
     <ref id="Joone">, <ref id="Drone">, <ref id="Biome">, <ref id="ECLiPSe">,
     <ref id="Xtoys">, <ref id="GECO">, 
     <ref id="Creatures Docking Station"> and others.
 
-    I also changed the MIA section to <ref id="Missing &amp; Dead"> which now
+    <p>I also changed the MIA section to <ref id="Missing &amp; Dead"> which now
     groups into subsections entries with bad links that I can't find
     replacements for and long dead projects.
 
     <item>v2.2 -
 
-    Fixed a some bad links and was forced to move a few entries into
+    <p>Fixed a some bad links and was forced to move a few entries into
     the MIA (missing) section. I also removed one duplicate entry.
 
-    New entries: <ref id="MASON">, <ref id="spyse">, <ref id="AntWars">,
+    <p>New entries: <ref id="MASON">, <ref id="spyse">, <ref id="AntWars">,
         <ref id="OpenSteer">, <ref id="Pyro">, <ref id="Robocode">,
         <ref id="Trend"> and <ref id="Open BEAGLE">.
 
     <item>v2.1 - 
 
-    New entries: <ref id="NLTK">, <ref id="NEURObjects">, <ref id="KANREN">,
+    <p>New entries: <ref id="NLTK">, <ref id="NEURObjects">, <ref id="KANREN">,
         <ref id="Neural Networks at your Fingertips">, <ref id="SimWorld">,
         <ref id="SimAgent">, <ref id="Fuzzy sets for Ada">, <ref id="maxent">,
         <ref id="Evo">, <ref id="breve"> and <ref id="AJA">
 
 
     <item>v2.0 - Ran linkchecker and for any bad links I either found a new
-link or removed the item. See the new section MIA for a list of the removed
-entries (please let me know if you know of a new home for them).
+    link or removed the item. See the new section MIA for a list of the removed
+    entries (please let me know if you know of a new home for them).
 
-    New entries: <ref id="Yale">, <ref id="DIET Agents">, <ref id="JASA">,
+    <p>New entries: <ref id="Yale">, <ref id="DIET Agents">, <ref id="JASA">,
         <ref id="Jason">, <ref id="Noble Ape">, <ref id="Maude">,
         <ref id="ECLiPSe">, <ref id="lush">, and <ref id="pygp">
 
@@ -109,28 +114,28 @@ entries (please let me know if you know of a new home for them).
     to the dynamic list (now defunct). 
 
     <item>v1.8 - Cleaned up bad links, finding new ones where possible and
-eliminating those that seem to have disappeared. Quite a few new entries as
-well.
+    eliminating those that seem to have disappeared. Quite a few new entries as
+    well.
 
-    New entries: <ref id="Torch">, <ref id="Aleph">, <ref id="AI Kernel">,
+    <p>New entries: <ref id="Torch">, <ref id="Aleph">, <ref id="AI Kernel">,
         <ref id="OpenCyc">, <ref id="HTK">, <ref id="FFLL">, <ref id="JCK">, 
         <ref id="Joone">, <ref id="scnANNlib">, <ref id="GAUL">, 
         <ref id="Cougaar">, and <ref id="RoboTournament">
 
-    <item>v1.7 - Another 9 new entries, a bunch of links fixed, and a few
-items removed that have vanished from the net.
+    <item>v1.7 - Another 9 new entries, a bunch of links fixed, and a few items
+    removed that have vanished from the net.
 
-    New entries: <ref id="SPASS">, <ref id="CNNs">, <ref id="JCASim">,
+    <p>New entries: <ref id="SPASS">, <ref id="CNNs">, <ref id="JCASim">,
         <ref id="Genetic">, <ref id="CAGE">, <ref id="AgentFarms">,
         <ref id="MATREM">, <ref id="OAA">, and
         <ref id="UTCS" name="UTCS Neural Nets Research Group Software">
 
     <item>v1.6 - 9 new entries, a couple link fixes and one duplicate item
-removed.
+    removed.
     <item>v1.5 - 26 new entries plus a couple link fixes.
     <item>v1.4 - 10 new updates and fixed some lisp-related links.
-    <item>v1.3 - Putting a dent in the backlog, I added 30+ new entries today  
-and submitted it to the LDP.
+    <item>v1.3 - Putting a dent in the backlog, I added 30+ new entries today
+    and submitted it to the LDP.
     <item>Previous records were in a mixed format with site updates. See the
     <htmlurl url="http://zhar.net/howto/oldnotes/" name="old notes"> 
     section of the master site for them.

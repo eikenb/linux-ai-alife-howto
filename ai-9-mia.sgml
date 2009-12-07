@@ -384,23 +384,6 @@
     <p>
     <descrip>
 
-    <label id="EMA-XPS">
-    <tag/EMA-XPS - A Hybrid Graphic Expert System Shell/
-      <itemize>
-        <item>Web site: <htmlurl 
-                url="http://www.iai.uni-wuppertal.de/EMA-XPS/"
-                name="www.iai.uni-wuppertal.de/EMA-XPS/">
-      </itemize>
-
-     
-      EMA-XPS is a hybrid graphic expert system shell based on the
-      ASCII-oriented shell Babylon 2.3 of the German National Research
-      Center for Computer Sciences (GMD). In addition to Babylon's AI-power
-      (object oriented data representation, forward and backward chained
-      rules - collectible into sets, horn clauses, and constraint networks)
-      a graphic interface based on the X11 Window System and the OSF/Motif
-      Widget Library has been provided.
-
 
     <label id="FIPA-OS">
     <tag/FIPA-OS/
