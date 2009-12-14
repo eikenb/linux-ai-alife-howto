@@ -118,6 +118,21 @@
         abstract or concrete class.
 
 
+    <label id="Evocosm">
+    <tag/Evocosm/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://www.coyotegulch.com/products/libevocosm/">
+        </itemize>
+
+	Evocosm is a set of classes that abstract the fundamental components of
+	an evolutionary algorithm. See the site for details, but here is a
+	simple list of the provided classes; Random Numbers, OpenMP,
+	Floating-Point Chromosomes, Roulettte Wheels, Organisms, Fitness
+	Landscapes, Evocosms, Fitness Scaling, Migration, Selecting Survivors,
+	Reproduction, Mutation Operations.
+
+
     <label id="evolver">
     <tag/evolver/
         <itemize>
