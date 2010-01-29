@@ -361,6 +361,26 @@
         appropriate medicines.
 
 
+    <label id="Critterding">
+    <tag/Critterding/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://critterding.sourceforge.net/">
+            <item>Web site (telepathic-critterdrug): <htmlurl
+                url="http://m-net.arbornet.org/~flamoot/telepathic-critterdrug.html">
+        </itemize>
+
+	Critterding is a "Petri dish" universe in 3D that demonstrates evolving
+	artificial life. Critters start out with completely random brains and
+	bodies, but will automatically start evolving into something with much
+	better survival skills. The lifeforms are placed in an artificial
+	environment where there neural net 'brains' can evolve.
+
+	Telepathic-critterdrug is a fork of Critterding introducing a
+	communications medium (called a retina) and psychoactive substances
+	that effect this retina.
+
+
     <label id="dblife-dblifelib">
     <tag/dblife &amp; dblifelib/
     <itemize>

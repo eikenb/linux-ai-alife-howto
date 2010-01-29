@@ -117,6 +117,8 @@
         <itemize>
             <item>Web site: <htmlurl 
                 url="http://www.alicebot.org/">
+	    <item>Other AIML implementations:
+		<htmlurl url="http://pyaiml.sourceforge.net/">
         </itemize>
         
         The ALICE software implements AIML (Artificial Intelligence Markup
