@@ -1092,6 +1092,20 @@ name="www.csee.umbc.edu/tkqml/">
         autonomous agents.
      
 
+    <label id="MRPT">
+    <tag/MRPT/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://babel.isa.uma.es/mrpt/index.php/Main_Page">
+        </itemize>
+
+        The Mobile Robot Programming Toolkit (MRPT) is an extensive,
+        cross-platform, and open source C++ library aimed to help robotics
+        researchers to design and implement algorithms in the fields of
+        Simultaneous Localization and Mapping (SLAM), computer vision, and
+        motion planning (obstacle avoidance).
+
+
     <label id="Nero">
     <tag/Nero/
         <itemize>

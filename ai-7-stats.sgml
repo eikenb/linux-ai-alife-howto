@@ -76,6 +76,23 @@
 	many other fields.
 
 
+    <label id="peach">
+    <tag/peach/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://code.google.com/p/peach/">
+        </itemize>
+
+	Peach is a pure-python module, based on SciPy and NumPy to implement
+	algorithms for computational intelligence and machine learning. Methods
+	implemented include, but are not limited to, artificial neural
+	networks, fuzzy logic, genetic algorithms, swarm intelligence and much
+	more.
+
+	The aim of this library is primarily educational. Nonetheless, care was
+	taken to make the methods implemented also very efficient.
+
+
     <label id="pebl">
     <tag/pebl/
         <itemize>
@@ -98,6 +115,28 @@
           <item>Calculates edge marginals and consensus networks
           <item>Presents results in a variety of formats 
         </itemize>
+
+
+    <label id="PyBrain">
+    <tag/PyBrain/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://pybrain.org/">
+        </itemize>
+
+	PyBrain is a modular Machine Learning Library for Python. It's goal is
+	to offer flexible, easy-to-use yet still powerful algorithms for
+	Machine Learning Tasks and a variety of predefined environments to test
+	and compare your algorithms.
+
+	PyBrain contains algorithms for neural networks, for reinforcement
+	learning (and the combination of the two), for unsupervised learning,
+	and evolution. Since most of the current problems deal with continuous
+	state and action spaces, function approximators (like neural networks)
+	must be used to cope with the large dimensionality. Our library is
+	built around neural networks in the kernel and all of the training
+	methods accept a neural network as the to-be-trained instance. This
+	makes PyBrain a powerful tool for real-life tasks.
 
 
     <label id="MLAP book samples">
