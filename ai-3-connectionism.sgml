@@ -1,17 +1,17 @@
 <sect>Connectionism
 <label id="Connectionism">
 <p>
-	Connectionism is a technical term for a group of related
-	techniques. These techniques include areas such as Artificial
-	Neural Networks, Semantic Networks and a few other similar
-	ideas. My present focus is on neural networks (though I am
-	looking for resources on the other techniques). Neural
-	networks are programs designed to simulate the workings of the
-	brain. They consist of a network of small mathematical-based
-	nodes, which work together to form patterns of information.
-	They have tremendous potential and currently seem to be having
-	a great deal of success with image processing and robot
-	control.
+        Connectionism is a technical term for a group of related
+        techniques. These techniques include areas such as Artificial
+        Neural Networks, Semantic Networks and a few other similar
+        ideas. My present focus is on neural networks (though I am
+        looking for resources on the other techniques). Neural
+        networks are programs designed to simulate the workings of the
+        brain. They consist of a network of small mathematical-based
+        nodes, which work together to form patterns of information.
+        They have tremendous potential and currently seem to be having
+        a great deal of success with image processing and robot
+        control.
 
      
     <sect1>Connectionist class/code libraries
@@ -66,6 +66,18 @@
         </itemize>
 
         A simple back-propogation ANN in Python.
+
+
+    <label id="brain">
+    <tag/brain/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://harthur.github.com/brain/">
+        </itemize>
+
+        Brain is a lightweight JavaScript library for  neural networks. It
+        implements the standard feedforward multi-layer perceptron neural
+        network trained with backpropagation.
 
 
     <label id="CNNs">
