@@ -173,6 +173,21 @@
 	interacting with the database.
 
 
+    <label id="ERESYE">
+    <tag/ERESYE/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://sourceforge.net/projects/eresye/">
+            <item>Tutorial: <htmlurl
+                url="http://www.trapexit.org/Artificial_Intelligence_with_Erlang:_the_Domain_of_Relatives">
+        </itemize>
+
+        ERESYE means ERlang Expert SYstem Engine. It is a library to write
+        expert systems and rule processing engines using the Erlang programming
+        language. It allows to create multiple engines, each one with its own
+        facts and rules to be processed.
+
+
     <label id="FFLL">
     <tag/FFLL/
         <itemize>
