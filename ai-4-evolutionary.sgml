@@ -154,7 +154,6 @@
             name="cuaerospace.com/carroll/ga.html">
     </itemize>
       
-       
         This program is a FORTRAN version of a genetic algorithm driver.
         This code initializes a random sample of individuals with
         different parameters to be optimized using the genetic algorithm
@@ -167,6 +166,23 @@
         pair of parents has been added.  More recently, an option for
         the use of a micro-GA has been added.
        
+
+    <label id="FREVO">
+    <tag/FREVO/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://www.frevotool.tk/">
+        </itemize>
+
+        FREVO is an open-source framework developed in Java to help engineers
+        and scientists in evolutionary design or optimization tasks. The major
+        feature of FREVO is the componentwise decomposition and separation of
+        the key building blocks for each optimization tasks. We identify these
+        as the problem definition, solution representation and the optimization
+        method. This structure enables the components to be designed separately
+        allowing the user to easily swap and evaluate different configurations
+        and methods or to connect an external simulation tool.
+
 
     <label id="GALib">
     <tag/GAlib: Matthew's Genetic Algorithms Library/ 

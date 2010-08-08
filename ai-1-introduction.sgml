@@ -37,7 +37,7 @@ GNU/Linux specifically in mind.
     <ref id="Carmen">, <ref id="Orca">, <ref id="ROS">, <ref id="YARP">, 
     <ref id="Neuroph">, <ref id="MLAP book samples">, <ref id="Elefant">,
     <ref id="Evocosm">, <ref id="Critterding">, <ref id="MRPT">,
-    <ref id="PyBrain">, <ref id="peach">, <ref id="brain">,
+    <ref id="PyBrain">, <ref id="peach">, <ref id="brain">, <ref id="FREVO">,
     <ref id="ERESYE">, <ref id="Recast"> and <ref id="OpenCog">.
 
     <p>Changed the name of the "Traditional" section to 
@@ -46,7 +46,7 @@ GNU/Linux specifically in mind.
 
     <p>Seems someone has resuscitated <ref id="EMA-XPS">. Not very active, but
     enough to pull out of the dead projects area and place back amounst the
-    living.
+    living. Also Fixed a few links.
 
 
     <item>v2.4 -
