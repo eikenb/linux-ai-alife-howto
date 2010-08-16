@@ -174,5 +174,26 @@
         principles.
 
 
+    <label id="Vowpal Wabbit">
+    <tag/Vowpal Wabbit/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://hunch.net/~vw/">
+        </itemize>
+
+        Vowpal Wabbit is a fast online learning algorithm.  It features:
+
+        <itemize>
+          <item>flexible input data specification
+          <item>speedy learning
+          <item>scalability (bounded memory footprint, suitable for 
+                distributed computation)
+          <item>feature pairing
+        </itemize>
+
+        The core algorithm is specialist gradient descent (GD) on a loss
+        function (several are available), The code should be easily usable.
+
+
   </descrip>
 
