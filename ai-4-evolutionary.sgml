@@ -319,6 +319,21 @@
       illustrate the intended use.
      
 
+    <label id="GenePool">
+    <tag/GenePool/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://www.rubinsteyn.com/genepool/">
+        </itemize>
+
+        GenePool is a framework for writing evolutionary optimization
+        algorithms in OCaml. This library is not a complete solution but rather
+        is a generic skeleton which takes care of the plumbing and nuisances of
+        optimization. You provide GenePool with functions that give meaning to
+        fitness and reproduction and after a specified number of generation,
+        GenePool returns an array of the best "genomes" it evolved.
+
+
     <label id="Genetic">
     <tag/Genetic/
         <itemize>
