@@ -44,6 +44,30 @@
         All of the ANNEvolve software is implemented in C and Python.
 
 
+    <label id="EAP">
+    <tag/EAP/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://code.google.com/p/deap/">
+        </itemize>
+
+        EAP has been built using the Python and UNIX programming philosophies
+        in order to provide a transparent, simple and coherent environment for
+        implementing your favourite evolutionary algorithms. EAP is very easy
+        to use even for those who do not know much about the Python programming
+        language. EAP uses the object oriented paradigm that is provided by
+        Python in order to make development simple and beautiful.  It also
+        contains a 15 illustrative and diversified examples, to help newcomers
+        to ramp up very quickly in using this environment.
+
+         It includes Genetic Algorithms using any imaginable representation,
+         Genetic Programming with strongly and loosely typed trees in addition
+         to automatically defined functions, Evolution Strategies (including
+         Covariance Matrix Adaptation), multiobjective optimization techniques
+         (NSGA-II and SPEA2), easy parallelization of algorithms and much more
+         like milestones, genealogy, etc.
+
+
     <label id="daga">
     <tag/daga/
         <itemize>

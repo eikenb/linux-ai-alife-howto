@@ -26,7 +26,7 @@ GNU/Linux specifically in mind.
 
 <itemize>
 
-    <item>v2.5 (In progress) -
+    <item>v3.0 (In progress) -
 
     <p>New entries: <ref id="ORTS">, <ref id="FANN">, <ref id="OpenCV">,
     <ref id="CBR Microprograms">, <ref id="ConceptNet">, <ref id="FreeHAL">,
@@ -39,7 +39,7 @@ GNU/Linux specifically in mind.
     <ref id="Evocosm">, <ref id="Critterding">, <ref id="MRPT">,
     <ref id="PyBrain">, <ref id="peach">, <ref id="brain">, <ref id="FREVO">,
     <ref id="Vowpal Wabbit">, <ref id="ERESYE">, <ref id="Recast">,
-    <ref id="GenePool"> and <ref id="OpenCog">.
+    <ref id="EAP">, <ref id="GenePool"> and <ref id="OpenCog">.
 
     <p>Changed the name of the "Traditional" section to 
     <ref id="Symbolic Systems (GOFAI)">. Added new section, 
