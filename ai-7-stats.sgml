@@ -76,6 +76,23 @@
 	many other fields.
 
 
+    <label id="Milk">
+    <tag/Milk/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://packages.python.org/milk/">
+            <item>Web site: <htmlurl
+                url="http://github.com/luispedro/milk">
+        </itemize>
+
+        Milk is a machine learning toolkit in Python. It's focus is on
+        supervised classification with several classifiers available: SVMs
+        (based on libsvm), k-NN, random forests, decision trees. It also
+        performs feature selection. These classifiers can be combined in many
+        ways to form different classification systems. For unsupervised
+        learning, milk supports k-means clustering and affinity propagation.
+
+
     <label id="peach">
     <tag/peach/
         <itemize>
