@@ -79,6 +79,37 @@
         implements the standard feedforward multi-layer perceptron neural
         network trained with backpropagation.
 
+    <label id="brain-simulator">
+    <tag/brain-simulator/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://www.briansimulator.org/">
+        </itemize>
+
+        Brian is a clock-driven simulator for spiking neural networks. It is
+        designed with an emphasis on flexibility and extensibility, for rapid
+        development and refinement of neural models. Neuron models are
+        specified by sets of user-specified differential equations, threshold
+        conditions and reset conditions (given as strings). The focus is
+        primarily on networks of single compartment neuron models (e.g. leaky
+        integrate-and-fire or Hodgkin-Huxley type neurons). It is written in
+        Python and is easy to learn and use, highly flexible and easily
+        extensible. Features include:
+
+        <itemize>
+          <item>a system for specifying quantities with physical dimensions
+          <item>exact numerical integration for linear differential equations
+          <item>Euler, Runge-Kutta and exponential Euler integration for
+            nonlinear differential equations
+          <item>synaptic connections with delays
+          <item>short-term and long-term plasticity (spike-timing dependent
+            plasticity)
+          <item>a library of standard model components, including
+            integrate-and-fire equations, synapses and ionic currents
+          <item>a toolbox for automatically fitting spiking neuron models to
+            electrophysiological recordings
+        </itemize>
+
 
     <label id="CNNs">
     <tag/CNNs/
