@@ -17,6 +17,20 @@
 
   <descrip>
 
+    <label id="CognitiveFoundry">
+    <tag/CognitiveFoundry/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://foundry.sandia.gov/">
+        </itemize>
+
+        The Cognitive Foundry is a modular Java software library for the
+        research and development of cognitive systems. It contains many
+        reusable components for machine learning, statistics, and cognitive
+        modeling. It is primarily designed to be easy to plug into applications
+        to provide adaptive behaviors.
+
+
     <label id="CompLearn">
     <tag/CompLearn/
         <itemize>
