@@ -181,6 +181,21 @@
         algorithms from the book "Machine Learning: An Algorithmic Perspective"
         by Stephen Marsland.  All code is written in python.
 
+    <label id="scikits.learn">
+    <tag/scikits.learn/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://scikit-learn.sourceforge.net/">
+        </itemize>
+
+        scikits.learn is a Python module integrating classic machine learning
+        algorithms in the tightly-knit world of scientific Python packages
+        (numpy, scipy, matplotlib). It aims to provide simple and efficient
+        solutions to learning problems that are accessible to everybody and
+        reusable in various contexts: machine-learning as a versatile tool for
+        science and engineering.
+
+
   </descrip>
   
   <sect1>Applications
