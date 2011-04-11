@@ -196,6 +196,37 @@
         science and engineering.
 
 
+    <label id="timbl">
+    <tag/timbl/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://ilk.uvt.nl/timbl/">
+        </itemize>
+        
+        The Tilburg Memory Based Learner, TiMBL, is a tool for NLP research,
+        and for many other domains where classification tasks are learned from
+        examples.  It is an efficient implementation of k-nearest neighbor
+        classifier.
+
+        TiMBL's features are:
+        <itemize>
+          <item>Fast, decision-tree-based implementation of k-nearest neighbor
+          lassification;
+          <item>Implementations of IB1 and IB2, IGTree, TRIBL, and TRIBL2
+          algorithms;
+          <item>Similarity metrics: Overlap, MVDM, Jeffrey Divergence, Dot
+          product, Cosine;
+          <item>Feature weighting metrics: information gain, gain ratio,
+          chi squared, shared variance;
+          <item>Distance weighting metrics: inverse, inverse linear,
+          exponential decay;
+          <item>Extensive verbosity options to inspect nearest neighbor sets;
+          <item>Server functionality and extensive API;
+          <item>Fast leave-one-out testing and internal cross-validation;
+          <item>and Handles user-defined example weighting.
+        </itemize>
+
+
   </descrip>
   
   <sect1>Applications
