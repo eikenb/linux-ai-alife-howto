@@ -1,14 +1,15 @@
 <sect>Symbolic Systems (GOFAI)
 <label id="Symbolic Systems (GOFAI)">
     <p>
-	Traditionally AI was based around the ideas of logic, rule
-	systems, linguistics, and the concept of rationality.  At its
-	roots are programming languages such as Lisp and Prolog.
-	Expert systems are the largest successful example of this
-	paradigm.  An expert system consists of a detailed knowledge
-	base and a complex rule system to utilize it.  Such systems
-	have been used for such things as medical diagnosis support
-	and credit checking systems.
+
+    Traditionally AI was based around the ideas of logic, rule systems,
+    linguistics, and the concept of rationality. At its roots are programming
+    languages such as Lisp and Prolog though newer systems tend to use more
+    popular procedural languages. Expert systems are the largest successful
+    example of this paradigm.  An expert system consists of a detailed
+    knowledge base and a complex rule system to utilize it. Such systems have
+    been used for such things as medical diagnosis support and credit checking
+    systems.
 
      
     <sect1>AI class/code libraries
@@ -1115,7 +1116,6 @@
         accompanied by extensive documentation, including tutorials that
         explain the underlying concepts behind the language processing tasks
         supported by the toolkit.
-
 
         NLTK is ideally suited to students who are learning NLP (natural
         language processing) or conducting research in NLP or closely related
