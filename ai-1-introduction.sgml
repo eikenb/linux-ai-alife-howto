@@ -41,7 +41,8 @@ GNU/Linux specifically in mind.
     <ref id="Vowpal Wabbit">, <ref id="ERESYE">, <ref id="Recast">,
     <ref id="EAP">, <ref id="GenePool">, <ref id="Milk">, <ref id="OpenCog">,
     <ref id="Pattern">, <ref id="CognitiveFoundry">, <ref id="clasp">,
-    <ref id="timbl">, <ref id="scikits.learn"> and <ref id="brain-simulator">.
+    <ref id="timbl">, <ref id="MBT">, <ref id="scikits.learn">
+    and <ref id="brain-simulator">.
 
     <p>Changed the name of the "Traditional" section to 
     <ref id="Symbolic Systems (GOFAI)">. Added new section, 
