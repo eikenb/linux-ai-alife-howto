@@ -293,6 +293,19 @@
         to theoretical or evolutionary biology and dynamic systems.
 
 
+    <label id="Biogenesis">
+    <tag/Biogenesis/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://biogenesis.sourceforge.net/">
+        </itemize>
+
+        Biogenesis is an artificial life program that simulates the processes
+        involved in the evolution of organisms. It shows colored segment based
+        organisms that mutate and evolve in a 2D environment. Biogenesis is
+        based on Primordial Life.
+
+
     <label id="breve">
     <tag/breve/
         <itemize>
