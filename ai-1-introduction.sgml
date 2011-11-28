@@ -34,7 +34,7 @@ GNU/Linux specifically in mind.
     <ref id="PyIE">, <ref id="Pyevolve">, <ref id="txevolver">,
     <ref id="python-dlp">, <ref id="CompLearn">, <ref id="dbacl">,
     <ref id="Maximum Entropy Toolkit">, <ref id="pebl">, <ref id="FLiP">,
-    <ref id="Carmen">, <ref id="Orca">, <ref id="ROS">, <ref id="YARP">, 
+    <ref id="Carmen">, <ref id="Orca">, <ref id="ROS">, <ref id="YARP">,
     <ref id="Neuroph">, <ref id="MLAP book samples">, <ref id="Elefant">,
     <ref id="Evocosm">, <ref id="Critterding">, <ref id="MRPT">,
     <ref id="PyBrain">, <ref id="peach">, <ref id="brain">, <ref id="FREVO">,
@@ -42,10 +42,10 @@ GNU/Linux specifically in mind.
     <ref id="EAP">, <ref id="GenePool">, <ref id="Milk">, <ref id="OpenCog">,
     <ref id="Pattern">, <ref id="CognitiveFoundry">, <ref id="clasp">,
     <ref id="timbl">, <ref id="MBT">, <ref id="scikits.learn">,
-    <ref id="Biogenesis"> and <ref id="brain-simulator">.
+    <ref id="NeuroLab">, <ref id="Biogenesis"> and <ref id="brain-simulator">.
 
-    <p>Changed the name of the "Traditional" section to 
-    <ref id="Symbolic Systems (GOFAI)">. Added new section, 
+    <p>Changed the name of the "Traditional" section to
+    <ref id="Symbolic Systems (GOFAI)">. Added new section,
     <ref id="Statistical &amp; Machine Learning">.
 
     <p>Seems someone has resuscitated <ref id="EMA-XPS">. Not very active, but
