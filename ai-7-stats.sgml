@@ -2,10 +2,10 @@
 <label id="Statistical &amp; Machine Learning">
 
   <p>
-      
-      All about getting machines to learn to do something rather than 
+
+      All about getting machines to learn to do something rather than
       explicitly programming to do it. Tends to deal with pattern matching
-      a lot and are heavily math and statistically based. Technically 
+      a lot and are heavily math and statistically based. Technically
       <ref id="Connectionism"> falls under this category, but it is such a
       large sub-field I'm keeping it in a separate section.
 
@@ -38,15 +38,15 @@
                 url="http://complearn.org/">
         </itemize>
 
-	CompLearn is a software system built to support compression-based
-	learning in a wide variety of applications. It provides this support in
-	the form of a library written in highly portable ANSI C that runs in
-	most modern computer environments with minimal confusion. It also
-	supplies a small suite of simple, composable command-line utilities as
-	simple applications that use this library. Together with other commonly
-	used machine-learning tools such as LibSVM and GraphViz, CompLearn
-	forms an attractive offering in machine-learning frameworks and
-	toolkits.
+        CompLearn is a software system built to support compression-based
+        learning in a wide variety of applications. It provides this support in
+        the form of a library written in highly portable ANSI C that runs in
+        most modern computer environments with minimal confusion. It also
+        supplies a small suite of simple, composable command-line utilities as
+        simple applications that use this library. Together with other commonly
+        used machine-learning tools such as LibSVM and GraphViz, CompLearn
+        forms an attractive offering in machine-learning frameworks and
+        toolkits.
 
 
     <label id="Elefant">
@@ -56,21 +56,21 @@
                 url="http://elefant.developer.nicta.com.au/">
         </itemize>
 
-	 Elefant (Efficient Learning, Large-scale Inference, and Optimisation
-	 Toolkit) is an open source library for machine learning licensed under
-	 the Mozilla Public License (MPL). We develop an open source machine
-	 learning toolkit which provides
+         Elefant (Efficient Learning, Large-scale Inference, and Optimisation
+         Toolkit) is an open source library for machine learning licensed under
+         the Mozilla Public License (MPL). We develop an open source machine
+         learning toolkit which provides
 
         <itemize>
-	  <item>algorithms for machine learning utilising the power of
-	  multi-core/multi-threaded processors/operating systems (Linux,
-	  WIndows, Mac OS X),
-	  <item>a graphical user interface for users who want to quickly
-	  prototype machine learning experiments,
-	  <item>tutorials to support learning about Statistical Machine
-	  Learning (Statistical Machine Learning at The Australian National
-	  University), and
-	  <item>detailed and precise documentation for each of the above.
+          <item>algorithms for machine learning utilising the power of
+          multi-core/multi-threaded processors/operating systems (Linux,
+          WIndows, Mac OS X),
+          <item>a graphical user interface for users who want to quickly
+          prototype machine learning experiments,
+          <item>tutorials to support learning about Statistical Machine
+          Learning (Statistical Machine Learning at The Australian National
+          University), and
+          <item>detailed and precise documentation for each of the above.
         </itemize>
 
 
@@ -81,13 +81,13 @@
                url="http://homepages.inf.ed.ac.uk/lzhang10/maxent_toolkit.html">
         </itemize>
 
-	The Maximum Entropy Toolkit provides a set of tools and library for
-	constructing maximum entropy (maxent) model in either Python or C++.
+        The Maximum Entropy Toolkit provides a set of tools and library for
+        constructing maximum entropy (maxent) model in either Python or C++.
 
-	Maxent Entropy Model is a general purpose machine learning framework
-	that has proved to be highly expressive and powerful in statistical
-	natural language processing, statistical physics, computer vision and
-	many other fields.
+        Maxent Entropy Model is a general purpose machine learning framework
+        that has proved to be highly expressive and powerful in statistical
+        natural language processing, statistical physics, computer vision and
+        many other fields.
 
 
     <label id="Milk">
@@ -137,14 +137,14 @@
                 url="http://code.google.com/p/peach/">
         </itemize>
 
-	Peach is a pure-python module, based on SciPy and NumPy to implement
-	algorithms for computational intelligence and machine learning. Methods
-	implemented include, but are not limited to, artificial neural
-	networks, fuzzy logic, genetic algorithms, swarm intelligence and much
-	more.
+        Peach is a pure-python module, based on SciPy and NumPy to implement
+        algorithms for computational intelligence and machine learning. Methods
+        implemented include, but are not limited to, artificial neural
+        networks, fuzzy logic, genetic algorithms, swarm intelligence and much
+        more.
 
-	The aim of this library is primarily educational. Nonetheless, care was
-	taken to make the methods implemented also very efficient.
+        The aim of this library is primarily educational. Nonetheless, care was
+        taken to make the methods implemented also very efficient.
 
 
     <label id="pebl">
@@ -160,12 +160,12 @@
 
         <itemize>
           <item>Can learn with observational and interventional data
-	  <item>Handles missing values and hidden variables using exact and
-	  heuristic methods
-	  <item>Provides several learning algorithms; makes creating new ones
-	  simple
-	  <item>Has facilities for transparent parallel execution using several
-	  cluster/grid resources
+          <item>Handles missing values and hidden variables using exact and
+          heuristic methods
+          <item>Provides several learning algorithms; makes creating new ones
+          simple
+          <item>Has facilities for transparent parallel execution using several
+          cluster/grid resources
           <item>Calculates edge marginals and consensus networks
           <item>Presents results in a variety of formats 
         </itemize>
@@ -178,19 +178,19 @@
                 url="http://pybrain.org/">
         </itemize>
 
-	PyBrain is a modular Machine Learning Library for Python. It's goal is
-	to offer flexible, easy-to-use yet still powerful algorithms for
-	Machine Learning Tasks and a variety of predefined environments to test
-	and compare your algorithms.
+        PyBrain is a modular Machine Learning Library for Python. It's goal is
+        to offer flexible, easy-to-use yet still powerful algorithms for
+        Machine Learning Tasks and a variety of predefined environments to test
+        and compare your algorithms.
 
-	PyBrain contains algorithms for neural networks, for reinforcement
-	learning (and the combination of the two), for unsupervised learning,
-	and evolution. Since most of the current problems deal with continuous
-	state and action spaces, function approximators (like neural networks)
-	must be used to cope with the large dimensionality. Our library is
-	built around neural networks in the kernel and all of the training
-	methods accept a neural network as the to-be-trained instance. This
-	makes PyBrain a powerful tool for real-life tasks.
+        PyBrain contains algorithms for neural networks, for reinforcement
+        learning (and the combination of the two), for unsupervised learning,
+        and evolution. Since most of the current problems deal with continuous
+        state and action spaces, function approximators (like neural networks)
+        must be used to cope with the large dimensionality. Our library is
+        built around neural networks in the kernel and all of the training
+        methods accept a neural network as the to-be-trained instance. This
+        makes PyBrain a powerful tool for real-life tasks.
 
 
     <label id="MBT">
@@ -216,7 +216,7 @@
                url="http://seat.massey.ac.nz/personal/s.r.marsland/MLBook.html">
         </itemize>
 
-       	Not a library per-say, but a whole slew of example machine learning
+        Not a library per-say, but a whole slew of example machine learning
         algorithms from the book "Machine Learning: An Algorithmic Perspective"
         by Stephen Marsland.  All code is written in python.
 
@@ -289,6 +289,26 @@
         which can be used, either directly or in shell scripts, to classify
         text documents automatically, according to Bayesian statistical
         principles.
+
+
+    <label id="JavaBayes">
+    <tag/JavaBayes/
+    <itemize>
+        <item>Web site: <htmlurl
+          url="http://www.cs.cmu.edu/~javabayes/">
+    </itemize>
+
+        The JavaBayes system is a set of tools, containing a
+        graphical editor, a core inference engine and a parser.
+        JavaBayes can produce:
+        <itemize>
+            <item> the marginal distribution for any variable in a network.
+            <item> the expectations for univariate functions (for example,
+                expected value for variables).
+            <item> configurations with maximum a posteriori probability.
+            <item> configurations with maximum a posteriori expectation for
+                univariate functions.
+        </itemize>
 
 
     <label id="Torch5">
