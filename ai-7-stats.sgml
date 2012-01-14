@@ -291,26 +291,6 @@
         principles.
 
 
-    <label id="JavaBayes">
-    <tag/JavaBayes/
-    <itemize>
-        <item>Web site: <htmlurl
-          url="http://www.cs.cmu.edu/~javabayes/">
-    </itemize>
-
-        The JavaBayes system is a set of tools, containing a
-        graphical editor, a core inference engine and a parser.
-        JavaBayes can produce:
-        <itemize>
-            <item> the marginal distribution for any variable in a network.
-            <item> the expectations for univariate functions (for example,
-                expected value for variables).
-            <item> configurations with maximum a posteriori probability.
-            <item> configurations with maximum a posteriori expectation for
-                univariate functions.
-        </itemize>
-
-
     <label id="Torch5">
     <tag/Torch5/
         <itemize>
