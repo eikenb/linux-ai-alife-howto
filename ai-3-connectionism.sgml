@@ -130,22 +130,39 @@
         for those people who are not experienced in CNN theory.
 
 
-      <label id="CONICAL">
-      <tag/CONICAL/
-          <itemize>
-            <item>Web site: <htmlurl
-                    url="http://strout.net/conical/" name="strout.net/conical/">
-          </itemize>
+    <label id="CONICAL">
+    <tag/CONICAL/
+        <itemize>
+          <item>Web site: <htmlurl
+                  url="http://strout.net/conical/" name="strout.net/conical/">
+        </itemize>
 
-          CONICAL is a C++ class library for building simulations common
-          in computational neuroscience. Currently its focus is on
-          compartmental modeling, with capabilities similar to GENESIS and
-          NEURON. A model neuron is built out of compartments, usually
-          with a cylindrical shape. When small enough, these open-ended
-          cylinders can approximate nearly any geometry. Future classes
-          may support reaction-diffusion kinetics and more. A key feature
-          of CONICAL is its cross-platform compatibility; it has been
-          fully co-developed and tested under Unix, DOS, and Mac OS.
+        CONICAL is a C++ class library for building simulations common
+        in computational neuroscience. Currently its focus is on
+        compartmental modeling, with capabilities similar to GENESIS and
+        NEURON. A model neuron is built out of compartments, usually
+        with a cylindrical shape. When small enough, these open-ended
+        cylinders can approximate nearly any geometry. Future classes
+        may support reaction-diffusion kinetics and more. A key feature
+        of CONICAL is its cross-platform compatibility; it has been
+        fully co-developed and tested under Unix, DOS, and Mac OS.
+
+
+    <label id="Encog">
+    <tag/Encog/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://www.heatonresearch.com/">
+        </itemize>
+
+        Encog is an advanced neural network and machine learning framework.
+        Encog contains classes to create a wide variety of networks, as well as
+        support classes to normalize and process data for these neural
+        networks. Encog trains using multithreaded resilient propagation. Encog
+        can also make use of a GPU to further speed processing time. A GUI
+        based workbench is also provided to help model and train neural
+        networks. Encog has been in active development since 2008.  Encog is
+        available for Java, .Net and Silverlight.
 
 
     <label id="FANN">
