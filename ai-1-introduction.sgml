@@ -43,7 +43,7 @@ GNU/Linux specifically in mind.
     <ref id="Pattern">, <ref id="CognitiveFoundry">, <ref id="clasp">,
     <ref id="timbl">, <ref id="MBT">, <ref id="scikits.learn">,
     <ref id="NeuroLab">, <ref id="Biogenesis">, <ref id="brain-simulator">.
-    and <ref id="Encog">.
+    <ref id="Torch5">, and <ref id="Encog">.
 
     <p>Changed the name of the "Traditional" section to
     <ref id="Symbolic Systems (GOFAI)">. Added new section,
@@ -57,8 +57,8 @@ GNU/Linux specifically in mind.
     <item>v2.4 -
 
     <p>New entries: <ref id="Eprover">, <ref id="Player">, <ref id="Logfun">,
-    <ref id="Livingstone2">, <ref id="Quackle">, <ref id="LingPipe">, 
-    <ref id="GATE">, <ref id="Infon Battle Arena">, <ref id="CLARAty">, 
+    <ref id="Livingstone2">, <ref id="Quackle">, <ref id="LingPipe">,
+    <ref id="GATE">, <ref id="Infon Battle Arena">, <ref id="CLARAty">,
     <ref id="Reverend">, <ref id="Shogun">, <ref id="Nanopond">,
     <ref id="Polyworld">, <ref id="Fluidiom">, <ref id="NEAT">,
     <ref id="Framsticks">, <ref id="URBI">, <ref id="RobotFlow">,

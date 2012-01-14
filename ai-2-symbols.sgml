@@ -11,21 +11,21 @@
     been used for such things as medical diagnosis support and credit checking
     systems.
 
-     
+
     <sect1>AI class/code libraries
     <p>
 
     These are libraries of code or classes for use in programming within
     the artificial intelligence field.  They are not meant as stand alone
     applications, but rather as tools for building your own applications.
-    
+
     <descrip>
 
     <label id="ACL2">
     <tag/ACL2/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://www.cliki.net/ACL2" 
+            <item>Web site: <htmlurl
+                url="http://www.cliki.net/ACL2"
                 name="www.cliki.net/ACL2">
         </itemize>
 
@@ -691,11 +691,11 @@
     <label id="ThoughtTreasure">
     <tag/ThoughtTreasure/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://www.signiform.com/tt/htm/tt.htm" 
+            <item>Web site: <htmlurl
+                url="http://www.signiform.com/tt/htm/tt.htm"
                 name="www.signiform.com/tt/htm/tt.htm">
         </itemize>
-        
+
         ThoughtTreasure is a project to create a database of commonsense rules
         for use in any application. It consists of a database of a little over
         100K rules and a C API to integrate it with your applications. Python,
@@ -704,35 +704,36 @@
     <label id="Torch">
     <tag/Torch/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://www.torch.ch/" 
+            <item>Web site: <htmlurl
+                url="http://www.torch.ch/"
                 name="www.torch.ch">
+            <item>Successor: <ref id="Torch5">
         </itemize>
-        
+
         Torch is a machine-learning library, written in C++.  Its aim is to
         provide the state-of-the-art of the best algorithms.  It is, and it
         will be, in development forever.
-  
+
         <itemize>
             <item>Many gradient-based methods, including multi-layered
             perceptrons, radial basis functions, and mixtures of experts.  Many
             small "modules" (Linear module, Tanh module, SoftMax module, ...)
             can be plugged together.
-            
+
             <item>Support Vector Machine, for classification and regression.
-            
+
             <item>Distribution package, includes Kmeans, Gaussian Mixture
             Models, Hidden Markov Models, and Bayes Classifier, and classes for
-            speech recognition with embedded training.  
-            
+            speech recognition with embedded training.
+
             <item>Ensemble models such as Bagging and Adaboost.
 
             <item>Non-parametric models such as K-nearest-neighbors, Parzen
             Regression and Parzen Density Estimator.
-             
+
             <item>
         </itemize>
-        
+
         Torch is an open library whose authors encourage everybody to develop
         new packages to be included in future versions on the official website.
 
