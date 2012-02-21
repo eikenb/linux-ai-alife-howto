@@ -488,6 +488,34 @@
       heterogeneous neighborhood sizes.
 
 
+    <label id="Emergent">
+    <tag/Emergent/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://grey.colorado.edu/emergent/index.php/Main_Page">
+        </itemize>
+
+        Note: this is a descendant of <ref id="PDP++">
+
+        emergent is a comprehensive, full-featured neural network simulator
+        that allows for the creation and analysis of complex, sophisticated
+        models of the brain in the world. With an emphasis on qualitative
+        analysis and teaching, it also supports the workflow of professional
+        neural network researchers. The GUI environment allows users to quickly
+        construct basic networks, modify the input/output patterns,
+        automatically generate the basic programs required to train and test
+        the network, and easily utilize several data processing and network
+        analysis tools. In addition to the basic preset network train and test
+        programs, the high level drag-and-drop programming interface, built on
+        top of a scripting language that has full introspective access to all
+        aspects of networks and the software itself, allows one to write
+        programs that seamlessly weave together the training of a network and
+        evolution of its environment without ever typing out a line of code.
+        Networks and all of their state variables are visually inspected in 3D,
+        allowing for a quick "visual regression" of network dynamics and robot
+        behavior.
+
+
       <label id="GENESIS">
       <tag/GENESIS/
         <itemize>
@@ -652,15 +680,12 @@
     <tag/PDP++/
       <itemize>
         <item>Web site: <htmlurl
-            url="http://www.cnbc.cmu.edu/Resources/PDP++/"
-            name="www.cnbc.cmu.edu/Resources/PDP++/">
-        <item>FTP site (US): <htmlurl
-            url="ftp://cnbc.cmu.edu/pub/pdp++/"
-            name="cnbc.cmu.edu/pub/pdp++/">
+            url="http://archive.cnbc.cmu.edu/Resources/PDP++/PDP++.html">
         <item>FTP mirror (US): <htmlurl
-            url="ftp://grey.colorado.edu/pub/oreilly/pdp++/"
-            name="grey.colorado.edu/pub/oreilly/pdp++/">
+            url="ftp://grey.colorado.edu/pub/oreilly/pdp++/">
       </itemize>
+
+      NOTE: Renamed to <ref id="Emergent">
 
       As the field of Connectionist modeling has grown, so has the need
       for a comprehensive simulation environment for the development and

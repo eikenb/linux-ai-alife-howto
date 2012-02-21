@@ -43,7 +43,7 @@ GNU/Linux specifically in mind.
     <ref id="Pattern">, <ref id="CognitiveFoundry">, <ref id="clasp">,
     <ref id="timbl">, <ref id="MBT">, <ref id="scikits.learn">,
     <ref id="NeuroLab">, <ref id="Biogenesis">, <ref id="brain-simulator">.
-    <ref id="Torch5">, and <ref id="Encog">.
+    <ref id="Torch5">, <ref id="Encog"> and <ref id="Emergent">.
 
     <p>Changed the name of the "Traditional" section to
     <ref id="Symbolic Systems (GOFAI)">. Added new section,
