@@ -10,10 +10,10 @@
 	anything from solving some engineering problem to winning a
 	game.
 
-     
+
     <sect1>EC class/code libraries
     <p>
-    
+
     These are libraries of code or classes for use in programming within
     the evolutionary computation field.  They are not meant as stand alone
     applications, but rather as tools for building your own applications.
@@ -23,7 +23,7 @@
     <label id="ANNEvolve">
     <tag/ANNEvolve/
         <itemize>
-            <item>Web site: <htmlurl 
+            <item>Web site: <htmlurl
                 url="http://annevolve.sourceforge.net/"
                 name="annevolve.sourceforge.net">
         </itemize>
@@ -71,13 +71,13 @@
     <label id="daga">
     <tag/daga/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://garage.cps.msu.edu/software/daga3.2/"    
+            <item>Web site: <htmlurl
+                url="http://garage.cps.msu.edu/software/daga3.2/"
                 name="garage.cps.msu.edu/software/daga3.2/">
         </itemize>
 
 
-        daga is an experimental release of a 2-level genetic algorithm  
+        daga is an experimental release of a 2-level genetic algorithm
         compatible with the GALOPPS GA software. It is a meta-GA which
         dynamically evolves a population of GAs to solve a problem presented to
         the lower-level GAs. When multiple GAs (with different operators,
@@ -85,18 +85,36 @@
         problem, the ones showing better performance have a higher probability
         of surviving and "breeding" to the next macro-generation (i.e.,
         spawning new "daughter"-GAs with characteristics inherited from the
-        parental GA or GAs.  In this way, we try to encourage good  
+        parental GA or GAs.  In this way, we try to encourage good
         problem-solving strategies to spread to the whole population of GAs.
+
+
+    <label id="DEAP">
+    <tag/DEAP/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://deap.googlecode.com">
+        </itemize>
+
+        DEAP is intended to be an easy to use distributed evolutionary
+        algorithm library in the Python language. Its two main components are
+        modular and can be used separately. The first module is a Distributed
+        Task Manager (DTM), which is intended to run on cluster of computers
+        using TCP or a MPI connection. The second part is the Evolutionary
+        Algorithms in Python (EAP) framework. EAP is the evolutionary core of
+        DEAP, it provides data structures, methods and tools to design any kind
+        of evolutionary algorithm. It works in perfect harmony with DTM,
+        allowing easy parallelization of any demanding evolutionary task.
 
 
     <label id="dgpf">
     <tag/dgpf/
         <itemize>
-            <item>Web site: <htmlurl 
+            <item>Web site: <htmlurl
                 url="http://dgpf.sourceforge.net/"
                 name="dgpf.sourceforge.net">
         </itemize>
-      
+
         The Distributed Genetic Programming Framework (DGPF) is a scalable Java
         environment for heuristic, simulation-based search algorithms of any
         kind and Genetic Algorithms in special. We use the broad foundation of
