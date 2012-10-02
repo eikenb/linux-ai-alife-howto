@@ -362,14 +362,14 @@
         wide range of applications. Maude has been influenced in important ways
         by the OBJ3 language, which can be regarded as an equational logic
         sublanguage. Besides supporting equational specification and
-        programming, Maude also supports rewriting logic computation. 
+        programming, Maude also supports rewriting logic computation.
 
 
     <label id="Mercury">
     <tag/Mercury/
         <itemize>
           <item>Web page: <htmlurl
-            url="http://www.cs.mu.oz.au/research/mercury/">
+            url="http://mercurylang.org/">
         </itemize>
 
         Mercury is a new, purely declarative logic programming language.  Like
@@ -380,8 +380,8 @@
         Mercury is designed for the construction of large, reliable, efficient
         software systems by teams of programmers. As a consequence, programming
         in Mercury has a different flavor than programming in Prolog.
-     
-    
+
+
     <label id="Mozart">
     <tag/Mozart/
         <itemize>
