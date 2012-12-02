@@ -584,6 +584,34 @@
         </itemize>
 
 
+    <label id="Nengo">
+    <tag/Nengo/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://www.nengo.ca/">
+        </itemize>
+
+        Nengo (Nengo Neural Simulator) is a graphical and scripting based
+        software package for simulating large-scale neural systems.
+
+        To use it, you define groups of neurons in terms of what they
+        represent, and then form connections between neural groups in terms of
+        what computation should be performed on those representations. Nengo
+        then uses the Neural Engineering Framework (NEF) to solve for the
+        appropriate synaptic connection weights to achieve this desired
+        computation. Nengo also supports various kinds of learning. Nengo helps
+        make detailed spiking neuron models that implement complex high-level
+        cognitive algorithms.
+
+        Among other things, Nengo has been used to implement motor control,
+        visual attention, serial recall, action selection, working memory,
+        attractor networks, inductive reasoning, path integration, and planning
+        with problem solving.
+
+        The Spaun <htmlurl url="http://models.nengo.ca/spaun"> neural simulator
+        is implemented in Nengo and its source is available as well.
+
+
     <label id="NN Generator">
     <tag/Neural Network Generator/
         <itemize>

@@ -43,7 +43,7 @@ GNU/Linux specifically in mind.
     <ref id="Pattern">, <ref id="CognitiveFoundry">, <ref id="clasp">,
     <ref id="timbl">, <ref id="MBT">, <ref id="scikits.learn">,
     <ref id="NeuroLab">, <ref id="Biogenesis">, <ref id="brain-simulator">.
-    <ref id="Torch5">, <ref id="Encog">,
+    <ref id="Torch5">, <ref id="Encog">, <ref id="Nengo">,
     <ref id="DEAP"> and <ref id="Emergent">.
 
     <p>Changed the name of the "Traditional" section to
@@ -64,7 +64,7 @@ GNU/Linux specifically in mind.
     <ref id="Polyworld">, <ref id="Fluidiom">, <ref id="NEAT">,
     <ref id="Framsticks">, <ref id="URBI">, <ref id="RobotFlow">,
     <ref id="Nero">, <ref id="ffnet">, <ref id="Alloy">,
-    <ref id="Pyke">, <ref id="NuPIC">, <ref id="Simbad">, <ref id="Robodeb">, 
+    <ref id="Pyke">, <ref id="NuPIC">, <ref id="Simbad">, <ref id="Robodeb">,
     <ref id="Loom">, <ref id="PowerLoom">, <ref id="tinygp">,
     <ref id="Curry">, <ref id="JGAP">, <ref id="PyCLIPS">,
     and <ref id="STELLA">.
