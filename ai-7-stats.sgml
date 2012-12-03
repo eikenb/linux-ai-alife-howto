@@ -96,7 +96,7 @@
             <item>Web site: <htmlurl
                 url="http://packages.python.org/milk/">
             <item>Web site: <htmlurl
-                url="http://github.com/luispedro/milk">
+                url="https://github.com/luispedro/milk">
         </itemize>
 
         Milk is a machine learning toolkit in Python. It's focus is on

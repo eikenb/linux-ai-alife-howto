@@ -261,20 +261,6 @@
         evolution of connecting neurons between them.
 
 
-    <label id="Neural Networks at your Fingertips">
-    <tag/Neural Networks at your Fingertips/
-        <itemize>
-            <item>Web site: <htmlurl
-                url="http://www.neural-networks-at-your-fingertips.com/"
-                name="www.neural-networks-at-your-fingertips.com">
-        </itemize>
-
-        A set of ANSI C packages that illustrate Adaline networks,
-        back-propagation, the Hopfield model, BAM, Boltzman, CPN, SOM, and
-        ART1. Coded in portable, self-contained ANSI C. With complete example
-        applications from a variety of well-known application domains.
-
-
     <label id="NEURObjects">
     <tag/NEURObjects/
         <itemize>
@@ -474,8 +460,7 @@
       <label id="DDLab">
       <tag/DDLab/
         <itemize>
-         <item>Web site: <htmlurl url="http://www.santafe.edu/&tilde;wuensch/ddlab.html" name="www.santafe.edu/&tilde;wuensch/ddlab.html">
-         <item>FTP site: <htmlurl url="ftp://ftp.santafe.edu/pub/wuensch/" name="ftp.santafe.edu/pub/wuensch/">
+         <item>Web site: <htmlurl url="http://www.ddlab.com/">
         </itemize>
 
       DDLab is an interactive graphics program for research into the
@@ -519,12 +504,7 @@
       <label id="GENESIS">
       <tag/GENESIS/
         <itemize>
-            <item>Web site: <htmlurl
-                url="http://www.genesis-sim.org/GENESIS/"
-                name="www.genesis-sim.org/GENESIS/">
-            <item>FTP site: <htmlurl
-                url="ftp://genesis-sim.org/pub/genesis/"
-                name="genesis-sim.org/pub/genesis/">
+            <item>Web site: <htmlurl url="http://genesis-sim.org/">
         </itemize>
 
       GENESIS (short for GEneral NEural SImulation System) is a
@@ -814,30 +794,6 @@
       example networks and tutorials for many of the architectures.
       ENZO, a supplementary system allows you to evolve your networks with
       genetic algorithms.
-
-
-    <label id="SPRLIB-ANNLIB">
-    <tag/SPRLIB&#47;ANNLIB/
-      <itemize>
-        <item>Web site: <htmlurl url="http://www.ph.tn.tudelft.nl/&tilde;sprlib/" name="www.ph.tn.tudelft.nl/&tilde;sprlib/">
-      </itemize>
-
-      SPRLIB (Statistical Pattern Recognition Library) was developed
-      to support the easy construction and simulation of pattern
-      classifiers. It consist of a library of functions (written in C)
-      that can be called from your own program. Most of the well-known
-      classifiers are present (k-nn, Fisher, Parzen, ....), as well as
-      error estimation and dataset generation routines.
-
-      ANNLIB (Artificial Neural Networks Library) is a neural network
-      simulation library based on the data architecture laid down by
-      SPRLIB. The library contains numerous functions for creating,
-      training and testing feed-forward networks.  Training algorithms
-      include back-propagation, pseudo-Newton, Levenberg-Marquardt,
-      conjugate gradient descent, BFGS.... Furthermore, it is possible
-      - due to the datastructures' general applicability - to build
-      Kohonen maps and other more exotic network architectures using
-      the same data types.
 
 
       <label id="TOOLDIAG">

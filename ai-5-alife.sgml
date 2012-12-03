@@ -1,6 +1,6 @@
 <sect>Alife &amp; Complex Systems
 <label id="Alife &amp; Complex Systems">
-    <p> 
+    <p>
 
     Alife takes yet another approach to exploring the mysteries of
     intelligence.  It has many aspects similar to EC and Connectionism, but
@@ -16,14 +16,13 @@
     just more general in definition (ie.  alife is a type of complex system).
     Usually complex system software takes the form of a simulator.
 
-     
+
     <sect1>Alife &amp; CS class/code libraries
-    <p> 
+    <p>
 
     These are libraries of code or classes for use in programming within
     the artificial life field.  They are not meant as stand alone
     applications, but rather as tools for building your own applications.
-    
 
 
     <descrip>
@@ -32,27 +31,25 @@
     <label id="AgentFarms">
     <tag/AgentFarms/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://www.agentfarms.net" 
-                name="www.agentfarms.net">
+            <item>Web site: <htmlurl
+                url="http://www.agentfarms.net">
         </itemize>
 
         Agent Farms is a system for modelling and simulation of complex,
-        multi-agent based systems. The system can be used for:     
+        multi-agent based systems. The system can be used for:
         <itemize>
          <item>Creating models of multi-agent systems
          <item>Interactive and distributed simulation
          <item>Observation and visualisation of the simulation
          <item>Population modification and migration
         </itemize>
-               
+
 
     <label id="Biome">
     <tag/Biome/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://sourceforge.net/projects/biome/"
-                name="sourceforge.net/projects/biome/">
+            <item>Web site: <htmlurl
+                url="http://sourceforge.net/projects/biome/">
         </itemize>
 
         Biome is a C++ library aimed at individual-based/agent-based
@@ -61,15 +58,14 @@
         oriented design. Currently there is an event based scheduling system, a
         C++ified Mersenne-Twister RNG, several general analysis classes, some
         Qt-based GUI classes, a very basic persistence/database framework (used
-        also for parameter storage) and many other small useful things. 
+        also for parameter storage) and many other small useful things.
 
 
     <label id="CAGE">
     <tag/CAGE/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://www.alcyone.com/software/cage/"
-                name="www.alcyone.com/software/cage/">
+            <item>Web site: <htmlurl
+                url="http://www.alcyone.com/software/cage/">
         </itemize>
 
          CAGE is a fairy generic and complete cellular automaton simulation
@@ -93,11 +89,11 @@
       distinguishing features of Cellang, include support for:
 
       <itemize>
-        <item>any number of dimensions; 
-	    <item>compile time specification of each dimensions size; 
+        <item>any number of dimensions;
+	    <item>compile time specification of each dimensions size;
 	        cell neighborhoods of any size (though bounded at compile time)
-                and shape; 
-	    <item>positional and time dependent neighborhoods; 
+                and shape;
+	    <item>positional and time dependent neighborhoods;
 	    <item>associating multiple values (fields), including arrays,
 	        with each cell;
 	    <item>associating a potentially unbounded number of mobile
@@ -134,27 +130,10 @@
         mechanism
 
 
-    <label id="Jet's Neural Architecture">
-    <tag/Jet's Neural Architecture/
-        <itemize>
-            <item>Web site: <htmlurl 
-                url="http://www.voltar-confed.org/jneural/" 
-                name="www.voltar-confed.org/jneural/">
-        </itemize>
-
-        Jet's Neural Architecture is a C++ framework for doing neural net
-        projects. The goals of this project were to make a fast, flexible
-        neural architecture that isn't stuck to one kind of net and to make
-        sure that end users could easily write useful applications. All the
-        documentation is also easily readable.
-
-
     <label id="MAML">
     <tag/MAML/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://www.maml.hu/" 
-                name="www.maml.hu">
+            <item>Web site: <htmlurl url="http://www.maml.hu/">
         </itemize>
 
         The current version of MAML is basically an extension to Objective-C
@@ -168,13 +147,12 @@
     <label id="MASON">
     <tag/MASON/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://cs.gmu.edu/~eclab/projects/mason/"
-                name="cs.gmu.edu/~eclab/projects/mason/">
+            <item>Web site: <htmlurl
+                url="http://cs.gmu.edu/~eclab/projects/mason/">
         </itemize>
 
         MASON Stands for Multi-Agent Simulator Of Neighborhoods... or
-        Networks... or something... 
+        Networks... or something...
 
         MASON is a fast discrete-event multi-agent simulation library core in
         Java, designed to be the foundation for large custom-purpose Java
@@ -186,14 +164,11 @@
     <label id="SimWorld">
     <tag/SimWorld/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://www.nd.edu/~airolab/simworld/"
-                name="www.nd.edu/~airolab/simworld/">
-            <item>New Web site?: <htmlurl 
-                url="http://hri.cogs.indiana.edu/">
+            <item>Web site: http://www.nd.edu/~airolab/simworld/
+            <item>New Web site?: http://hrilab.tufts.edu/
         </itemize>
 
-        SimWorld is a free artificial life simulation (based on the free 
+        SimWorld is a free artificial life simulation (based on the free
         <ref id="SimAgent"> toolkit developed by Aaron Sloman), which provides
         functionality for running different interacting agents and objects in a
         simulated, continuous environment.  The agents are controlled by rules
@@ -204,11 +179,11 @@
     <label id="Swarm">
     <tag/Swarm/
       <itemize>
-        <item>Web site: <htmlurl 
-            url="http://www.swarm.org/wiki/Swarm_main_page" 
+        <item>Web site: <htmlurl
+            url="http://www.swarm.org/wiki/Swarm_main_page"
             name="www.swarm.org/wiki/Swarm_main_page">
-        <item>FTP site: <htmlurl 
-            url="http://ftp.swarm.org/pub/swarm/" 
+        <item>FTP site: <htmlurl
+            url="http://ftp.swarm.org/pub/swarm/"
             name="ftp.swarm.org/pub/swarm/">
       </itemize>
 
@@ -330,18 +305,16 @@
                 name="http://surf.de.uu.net/zooland/download/packages/bugsx/">
         </itemize>
 
-       
         Display and evolve biomorphs. It is a program which draws the
         biomorphs based on parametric plots of Fourier sine and cosine series
         and let's you play with them using the genetic algorithm.
-       
+
 
     <label id="Creatures Docking Station">
     <tag/Creatures Docking Station/
         <itemize>
-            <item>Linux info: <htmlurl 
-                url="http://sylv.inkwell.com.ru/" 
-                name="sylv.inkwell.com.ru">
+            <item>Linux info: <htmlurl
+                url="http://www.creaturesdockingstation.com/">
         </itemize>
 
         This is a free version of the Creatures3 ALife game. It has fewer
@@ -352,7 +325,7 @@
         pretty nice balance between fun and science, or so I'm told.
 
         (summary written by Steve Grand included below)
-        
+
         The eponymous creatures in this computer game are called Norns, and the
         world's population of them at one stage hovered around the five million
         mark, making them more common than many familiar natural species. Each
@@ -432,26 +405,24 @@
       was originally designed for use with the Swarm agent-based simulation
       framework, but Drone can be used with any simulation program that
       reads parameters from the command line or from an input file.
- 
+
 
     <label id="EcoLab">
     <tag/EcoLab/
       <itemize>
-        <item>Web site: <htmlurl
-                url="http://parallel.hpc.unsw.edu.au/rks/ecolab/"
-                name="parallel.hpc.unsw.edu.au/rks/ecolab/">
+        <item>Web site: <htmlurl url="http://ecolab.sourceforge.net/">
       </itemize>
-     
+
       EcoLab is a system that implements an abstract ecology model. It
       is written as a set of Tcl/Tk commands so that the model
       parameters can easily be changed on the fly by means of editing
       a script. The model itself is written in C++.
-     
+
 
     <label id="Framsticks">
     <tag/Framsticks/
         <itemize>
-            <item>Web site: <htmlurl 
+            <item>Web site: <htmlurl
                 url="http://www.frams.alife.pl/">
         </itemize>
 
@@ -467,10 +438,8 @@
     <label id="Fluidiom">
     <tag/Fluidiom/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://sourceforge.net/projects/fluidiom/">
-            <item>Web site: <htmlurl 
-                url="http://fluidiom.v2.nl/">
+            <item>Web site: <htmlurl
+                url="http://ostatic.com/fluidiom">
         </itemize>
 
         Evolutionary based alife platform. Has a game like feel which makes it
@@ -479,31 +448,31 @@
         It takes a minimalist approach to spatial structure to make a body,
         adds articulation in the form of muscles, and then lets evolution take
         over to see if these bodies can learn to walk, run, crawl, or slither
-        from one place to the other. 
+        from one place to the other.
 
 
     <label id="Game Of Life">
-    <tag/Game Of Life (GOL)/  
+    <tag/Game Of Life (GOL)/
       <itemize>
         <item>FTP site: <htmlurl
             url="http://ibiblio.org/pub/Linux/science/ai/life/"
             name="ibiblio.org/pub/Linux/science/ai/life/">
       </itemize>
-     
+
       GOL is a simulator for conway's game of life (a simple cellular
       automata), and other simple rule sets. The emphasis here is on
       speed and scale, in other words you can setup large and fast
-      simulations.   
+      simulations.
 
 
     <label id="gant">
     <tag/gant/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://gant.sourceforge.net/" 
+            <item>Web site: <htmlurl
+                url="http://gant.sourceforge.net/"
                 name="gant.sourceforge.net">
         </itemize>
-        
+
         This project is an ANSI C++ implementation of the Generalized Langton
         Ant, which lives on a torus.
 
@@ -549,9 +518,8 @@
     <label id="Langton's Ant">
     <tag/Langton's Ant/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://www.theory.org/software/ant/"
-                name="www.theory.org/software/ant/">
+            <item>Web site: <htmlurl
+                url="http://theory.org/software/ant/">
         </itemize>
 
         Langton's Ant is an example of a finite-state cellular automata. The
@@ -563,7 +531,6 @@
         pattern field you start it out on, it eventually builds a "road," which
         is a series of 117 steps that repeat indefinitely, each time leaving
         the ant displaced one pixel vertically and horizontally.
-        
 
 
     <label id="LEE">
@@ -574,21 +541,19 @@
             name="www.informatics.indiana.edu/fil/LEE/">
       </itemize>
 
-     
       LEE (Latent Energy Environments) is both an Alife model and a
       software tool to be used for simulations within the framework of that
       model. We hope that LEE will help understand a broad range of issues
       in theoretical, behavioral, and evolutionary biology. The LEE tool
       described here consists of approximately 7,000 lines of C code and
       runs in both Unix and Macintosh platforms.
-     
+
 
     <label id="MATREM">
     <tag/MATREM/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://www.phys.uu.nl/&tilde;romans/"
-                name="www.phys.uu.nl/&tilde;romans/">
+            <item>Web site: <htmlurl
+                url="http://www.romansland.nl/matrem/">
         </itemize>
 
         Matrem is a computer program that simulates life. It belongs to the
@@ -601,8 +566,8 @@
     <label id="Nanopond">
     <tag/Nanopond/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://www.greythumb.org/wiki/Nanopond">
+            <item>Web site: <htmlurl
+                url="http://adam.ierymenko.name/nanopond.shtml">
         </itemize>
 
         Nanopond is a "corewar style" evolvable instruction set based virtual
@@ -619,7 +584,7 @@
     <label id="Noble Ape">
     <tag/Noble Ape/
         <itemize>
-            <item>Web site: <htmlurl 
+            <item>Web site: <htmlurl
                 url="http://www.nobleape.com/sim/"
                 name="www.nobleape.com/sim/">
         </itemize>
@@ -642,10 +607,8 @@
     <label id="Polyworld">
     <tag/Polyworld/
         <itemize>
-            <item>Web site: <htmlurl 
+            <item>Web site: <htmlurl
                 url="http://sourceforge.net/projects/polyworld">
-            <item>Web site: <htmlurl 
-                url="http://www.beanblossom.in.us/larryy/PolyWorld.html">
         </itemize>
 
         PolyWorld is a computational ecology that I developed to explore issues
@@ -671,12 +634,12 @@
 
 
       <label id="POSES++">
-      <tag/POSES++/  
+      <tag/POSES++/
     	<itemize>
-            <item>Web site: <htmlurl 
+            <item>Web site: <htmlurl
                 url="http://www.gpc.de/e_poses.html">
         </itemize>
-     
+
       The POSES++ software tool supports the development and
       simulation of models.  Regarding the simulation technique models
       are suitable reproductions of real or planned systems for their
@@ -688,12 +651,12 @@
       discontinuous behaviour. Also continuous systems can mostly be
       handled like discrete systems e.g., by quantity discretion and
       batch processing.
-     
+
 
     <label id="Tierra">
     <tag/Tierra/
       <itemize>
-        <item>Web site: <htmlurl 
+        <item>Web site: <htmlurl
             url="http://life.ou.edu/tierra/">
       </itemize>
 

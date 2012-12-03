@@ -18,7 +18,7 @@ including artificial intelligence and artificial life.
 The purpose of this Howto is to provide a source to find out
 about various software packages, code libraries, and anything else
 that will help someone get started working with (and find resources
-for) artificial intelligence, artificial life, etc.  All done with 
+for) artificial intelligence, artificial life, etc.  All done with
 GNU/Linux specifically in mind.
 
 <sect1>What's New
@@ -145,7 +145,7 @@ GNU/Linux specifically in mind.
     <item>v1.3 - Putting a dent in the backlog, I added 30+ new entries today
     and submitted it to the LDP.
     <item>Previous records were in a mixed format with site updates. See the
-    <htmlurl url="http://zhar.net/howto/oldnotes/" name="old notes"> 
+    <htmlurl url="http://zhar.net/howto/oldnotes/" name="old notes">
     section of the master site for them.
 </itemize>
 
@@ -155,18 +155,18 @@ GNU/Linux specifically in mind.
 All this software should be available via the net (ftp || http).  The
 links to where to find it will be provided in the description of each
 package.  There will also be plenty of software not covered on these
-pages (which is usually platform independent) located on one of the 
-resources listed on the <htmlurl url="http://zhar.net/attic/mlp/ai/"
+pages (which is usually platform independent) located on one of the
+resources listed on the <htmlurl url="http://zhar.net/howto/ai_links/"
 name="links section"> of the Master Site (given above).
 
- 
+
 <sect1>Updates and comments
-<p> 
+<p>
 
 If you find any mistakes, know of updates to one of the items below,
 or have problems compiling any of the applications, please mail me at:
-<htmlurl url="mailto:jae@zhar.net" name="jae@zhar.net"> 
-and I'll see what I can do.  
+<htmlurl url="mailto:jae@zhar.net" name="jae@zhar.net">
+and I'll see what I can do.
 
 
 If you know of any AI/Alife applications, class libraries,
@@ -175,9 +175,9 @@ about them. Include your name, ftp and/or http sites where they can be
 found, plus a brief overview/commentary on the software (this info
 would make things a lot easier on me... but don't feel obligated ;).
 
- 
+
 I know that keeping this list up to date and expanding it will take quite
-a bit of work. So please be patient (I do have other projects). I hope you 
+a bit of work. So please be patient (I do have other projects). I hope you
 will find this document helpful.
 
 <sect1>Copyright/License
@@ -186,49 +186,47 @@ Copyright (c) 1996-2009 John A. Eikenberry
 
 LICENSE
 
- This document may be reproduced and distributed in whole or in part, in 
- any medium physical or electronic, provided that this license notice is 
- displayed in the reproduction. Commercial redistribution is permitted and 
- encouraged. Thirty days advance notice, via email to the author, of 
- redistribution is appreciated, to give the authors time to provide updated 
+ This document may be reproduced and distributed in whole or in part, in
+ any medium physical or electronic, provided that this license notice is
+ displayed in the reproduction. Commercial redistribution is permitted and
+ encouraged. Thirty days advance notice, via email to the author, of
+ redistribution is appreciated, to give the authors time to provide updated
  documents.
 
  A. REQUIREMENTS OF MODIFIED WORKS
 
-  All modified documents, including translations, anthologies, and partial 
-  documents, must meet the following requirements: 
+  All modified documents, including translations, anthologies, and partial
+  documents, must meet the following requirements:
 
   <p><itemize>
    <item>The modified version must be labeled as such.
    <item>The person making the modifications must be identified.
    <item>Acknowledgement of the original author must be retained.
    <item>The location of the original unmodified document be identified.
-   <item>The original author's name(s) may not be used to assert or imply 
-        endorsement of the resulting document without the original author's 
+   <item>The original author's name(s) may not be used to assert or imply
+        endorsement of the resulting document without the original author's
         permission.
   </itemize>
 
-  In addition it is requested (not required) that: 
+  In addition it is requested (not required) that:
 
   <itemize>
-    <item>The modifications (including deletions) be noted. 
-    <item>The author be notified by email of the modification in advance of 
-        redistribution, if an email address is provided in the document. 
+    <item>The modifications (including deletions) be noted.
+    <item>The author be notified by email of the modification in advance of
+        redistribution, if an email address is provided in the document.
   </itemize>
 
-   As a special exception, anthologies of LDP documents may include a single 
-   copy of these license terms in a conspicuous location within the anthology 
-   and replace other copies of this license with a reference to the single 
-   copy of the license without the document being considered "modified" for 
-   the purposes of this section. 
+   As a special exception, anthologies of LDP documents may include a single
+   copy of these license terms in a conspicuous location within the anthology
+   and replace other copies of this license with a reference to the single
+   copy of the license without the document being considered "modified" for
+   the purposes of this section.
 
-   Mere aggregation of LDP documents with other documents or programs on the 
-   same media shall not cause this license to apply to those other works. 
+   Mere aggregation of LDP documents with other documents or programs on the
+   same media shall not cause this license to apply to those other works.
 
-   All translations, derivative documents, or modified documents that 
-   incorporate this document may not have more restrictive license terms 
-   than these, except that you may require distributors to make the resulting 
-   document available in source format. 
+   All translations, derivative documents, or modified documents that
+   incorporate this document may not have more restrictive license terms
+   than these, except that you may require distributors to make the resulting
+   document available in source format.
 
-     
-   

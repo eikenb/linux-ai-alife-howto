@@ -207,13 +207,13 @@
         Niching (sharing) and an option for the number of children per
         pair of parents has been added.  More recently, an option for
         the use of a micro-GA has been added.
-       
+
 
     <label id="FREVO">
     <tag/FREVO/
         <itemize>
             <item>Web site: <htmlurl
-                url="http://www.frevotool.tk/">
+                url="http://frevo.sourceforge.net/">
         </itemize>
 
         FREVO is an open-source framework developed in Java to help engineers
@@ -227,20 +227,16 @@
 
 
     <label id="GALib">
-    <tag/GAlib: Matthew's Genetic Algorithms Library/ 
+    <tag/GAlib: Matthew's Genetic Algorithms Library/
     <itemize>
-        <item>Web Site: <htmlurl 
-            url="http://lancet.mit.edu/ga/" 
-            name="lancet.mit.edu/ga/"> 
+        <item>Web Site: <htmlurl
+            url="http://lancet.mit.edu/ga/">
         <item>Download: <htmlurl
-            url="http://lancet.mit.edu/ga/dist/" 
-            name="lancet.mit.edu/ga/dist/">
-        <item>Register GAlib at: <htmlurl 
-            url="http://lancet.mit.edu/ga/Register.html" 
-            name="lancet.mit.edu/ga/Register.html">
+            url="http://lancet.mit.edu/ga/dist/">
+        <item>Register GAlib at: <htmlurl
+            url="http://lancet.mit.edu/ga/Register.html">
      </itemize>
 
-     
       GAlib contains a set of C++ genetic algorithm objects.  The
       library includes tools for using genetic algorithms to do
       optimization in any C++ program using any representation and genetic
@@ -399,13 +395,11 @@
     <itemize>
       <item>FTP site: <htmlurl
         url="ftp://ftp.cs.bham.ac.uk/pub/authors/W.B.Langdon/gp-code/">
-      <item>Documentation (GPdata-icga-95.ps): <htmlurl
-        url="ftp://cs.ucl.ac.uk/genetic/papers/">
      </itemize>
 
-      GPdata-3.0.tar.gz (C++) contains a version of Andy Singleton's 
+      GPdata-3.0.tar.gz (C++) contains a version of Andy Singleton's
       GP-Quick version 2.1 which has been extensively altered to support:
-      <itemize>	
+      <itemize>
         <item>Indexed memory operation (cf. teller)
     	<item>multi tree programs
         <item>Adfs
@@ -413,10 +407,10 @@
         <item>populations partitioned into demes
         <item>(A version of) pareto fitness
       </itemize>
-      This ftp site also contains a small C++ program (ntrees.cc) to 
-      calculate the number of different there are of a given length and 
+      This ftp site also contains a small C++ program (ntrees.cc) to
+      calculate the number of different there are of a given length and
       given function and terminal set.
-     
+
 
     <label id="Java GP - gpjpp">
     <tag/gpjpp Genetic Programming in Java/
@@ -546,12 +540,7 @@
     <label id="PGAPack">
     <tag/PGAPack/ Parallel Genetic Algorithm Library
       <itemize>
-        <item>Web site: <htmlurl 
-            url="http://www-fp.mcs.anl.gov/CCST/research/reports_pre1998/comp_bio/stalk/pgapack.html" 
-            name="www-fp.mcs.anl.gov/CCST/research/reports_pre1998/comp_bio/stalk/pgapack.html">
-        <item>FTP site: <htmlurl 
-            url="ftp://ftp.mcs.anl.gov/pub/pgapack/" 
-            name="ftp.mcs.anl.gov/pub/pgapack/">
+        <item>FTP site: <htmlurl url="ftp://ftp.mcs.anl.gov/pub/pgapack/">
       </itemize>
 
       PGAPack is a general-purpose, data-structure-neutral, parallel
@@ -559,31 +548,31 @@
       desired in a genetic algorithm library, in an integrated, seamless,
       and portable manner. Key features are in PGAPack V1.0 include:
       <itemize>
-        <item>Callable from Fortran or C. 
+        <item>Callable from Fortran or C.
     	<item>Runs on uniprocessors, parallel computers, and workstation networks.
 	    <item>Binary-, integer-, real-, and character-valued native data types. 
-	    <item>Full extensibility to support custom operators and new data types. 
-	    <item>Easy-to-use interface for novice and application users. 
-	    <item>Multiple levels of access for expert users. 
-	    <item>Parameterized population replacement. 
-    	<item>Multiple crossover, mutation, and selection operators. 
-	    <item>Easy integration of hill-climbing heuristics. 
-    	<item>Extensive debugging facilities. 
-	    <item>Large set of example problems. 
+	    <item>Full extensibility to support custom operators and new data types.
+	    <item>Easy-to-use interface for novice and application users.
+	    <item>Multiple levels of access for expert users.
+	    <item>Parameterized population replacement.
+    	<item>Multiple crossover, mutation, and selection operators.
+	    <item>Easy integration of hill-climbing heuristics.
+    	<item>Extensive debugging facilities.
+	    <item>Large set of example problems.
 	    <item>Detailed users guide.
       </itemize>
-     
+
 
       <label id="PIPE">
-      <tag/PIPE/   
+      <tag/PIPE/
        <itemize>
-        <item>FTP site: <htmlurl 
-            url="ftp://ftp.idsia.ch/pub/rafal/" 
+        <item>FTP site: <htmlurl
+            url="ftp://ftp.idsia.ch/pub/rafal/"
             name="ftp.idsia.ch/pub/rafal">
        </itemize>
-     
+
       Probabilistic Incremental Program Evolution (PIPE) is a novel
-      technique for automatic program synthesis. The software is written in C. 
+      technique for automatic program synthesis. The software is written in C.
       It ...
 
       <itemize>
@@ -776,7 +765,6 @@
       priority scheduler; instead, at least, esep provides you with
       another choice to use a more intelligent scheduler, which
       carries out natural competition in an easy and effective way.
-      
 
       Xesep is a graphical user interface to the esep (Evolution
       Scheduling and Evolving Processes). It's intended to show users
@@ -789,14 +777,10 @@
     <label id="Corewars">
     <tag/Corewars/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://corewars.sourceforge.net/" 
-                name="corewars.sourceforge.net/">
             <item>SourceForge site: <htmlurl
-                url="http://sourceforge.net/projects/corewars/"
-                name="sourceforge.net/projects/corewars/">
+                url="http://sourceforge.net/projects/corewars/">
         </itemize>
-        
+
         Corewars is a game which simulates a virtual machine with a number of
         programs. Each program tries to crash the others. The program that 
         lasts the longest time wins. A number of sample programs are provided

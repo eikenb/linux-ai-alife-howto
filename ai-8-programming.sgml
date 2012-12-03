@@ -1,15 +1,15 @@
 <sect>Programming languages
 <label id="Programming languages">
     <p>
-    
+
     While any programming language can be used for artificial
     intelligence/life research, these are programming languages which
     are used extensively for, if not specifically made for, artificial
-    intelligence programming.  
+    intelligence programming.
 
 
     <descrip>
-    
+
     <label id="2APL">
     <tag/2APL/
         <itemize>
@@ -105,23 +105,6 @@
         (compared to functional programming: search, computing with partial
         information; compared to logic programming: more efficient evaluation
         due to the deterministic and demand-driven evaluation of functions). 
-
-
-    <label id="DHARMI">
-    <tag/DHARMI/
-        <itemize>
-            <item>Web site: <htmlurl
-                url="http://megazone.bigpanda.com/&tilde;wolf/DHARMI/"
-                name="http://megazone.bigpanda.com/&tilde;wolf/DHARMI/">
-        </itemize>
-        
-            DHARMI is a high level spatial, tinker-toy like language who's
-            components are transparently administered by a background
-            process called the Habitat. As the name suggests, the language
-            was designed to make modelling prototypes and handle living
-            data. Programs can be modified while running. This is accomplished
-            by blurring the distinction between source code, program,
-            and data.
 
 
     <label id="ECLiPSe">
@@ -301,14 +284,14 @@
         then stand-alone. The size of this executable can be quite small since
         GNU Prolog can avoid to link the code of most unused built-in
         predicates. The performances of GNU Prolog are very encouraging
-        (comparable to commercial systems). 
+        (comparable to commercial systems).
 
         Beside the native-code compilation, GNU Prolog offers a classical
         interactive interpreter (top-level) with a debugger.
 
         The Prolog part conforms to the ISO standard for Prolog with many
         extensions very useful in practice (global variables, OS interface,
-        sockets,...). 
+        sockets,...).
 
         GNU Prolog also includes an efficient constraint solver over Finite
         Domains (FD). This opens contraint logic pogramming to the user
@@ -316,30 +299,14 @@
         logic programming.
 
 
-    <label id="IBAL">
-    <tag/IBAL/
-        <itemize>
-            <item>Web site: <htmlurl 
-                url="http://www.eecs.harvard.edu/&tilde;avi/IBAL/"
-                name="www.eecs.harvard.edu/&tilde;avi/IBAL/">
-        </itemize>
-
-      IBAL (pronounced "eyeball") is a general-purpose language for
-      probabilistic modeling, parameter estimation and decision making. It
-      generalizes Bayesian networks, hidden Markov models, stochastic context
-      free grammars, Markov decision processes, and allows many new
-      possibilities. It also provides a convenient programming-language
-      framework with libraries, automatic type checking and so on.
-
-
     <label id="lush">
     <tag/lush/
         <itemize>
-            <item>Web site: <htmlurl 
+            <item>Web site: <htmlurl
                 url="http://lush.sourceforge.net/"
                 name="lush.sourceforge.net">
         </itemize>
-        
+
         Lush is an object-oriented programming language designed for
         researchers, experimenters, and engineers interested in large-scale
         numerical and graphic applications. Lush is designed to be used in
@@ -347,7 +314,7 @@
         high-level, weakly-typed interpreted language, with the efficiency of a
         strongly-typed, natively-compiled language, and with the easy
         integration of code written in C, C++, or other languages.
- 
+
 
     <label id="Maude">
     <tag/Maude/

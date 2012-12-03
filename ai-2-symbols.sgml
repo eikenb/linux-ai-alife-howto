@@ -111,9 +111,8 @@
     <label id="Aleph">
     <tag/Aleph/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://web.comlab.ox.ac.uk/oucl/research/areas/machlearn/Aleph/"
-                name="web.comlab.ox.ac.uk/oucl/research/areas/machlearn/Aleph/">
+            <item>Web site: <htmlurl
+                url="http://www.cs.ox.ac.uk/activities/machlearn/Aleph/">
         </itemize>
 
         This document provides reference information on A Learning Engine for
@@ -344,15 +343,15 @@
     <label id="LingPipe">
     <tag/LingPipe/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://www.alias-i.com/lingpipe/">
+            <item>Web site: <htmlurl
+                url="http://alias-i.com/lingpipe/">
         </itemize>
-    
+
         LingPipe is a state-of-the-art suite of natural language processing
         tools written in Java that performs tokenization, sentence detection,
         named entity detection, coreference resolution, classification,
         clustering, part-of-speech tagging, general chunking, fuzzy dictionary
-        matching. 
+        matching.
 
 
     <label id="Logfun">
@@ -514,7 +513,7 @@
     <label id="PyCLIPS">
     <tag/PyCLIPS/
         <itemize>
-            <item>Web site: <htmlurl 
+            <item>Web site: <htmlurl
                 url="http://pyclips.sourceforge.net/web/">
         </itemize>
 
@@ -522,27 +521,6 @@
         CLIPS functionality in Python applications. This means that you can
         provide Python with a strong, reliable, widely used and well documented
         inference engine.
-
-
-    <label id="PyIE">
-    <tag/PyIE/
-        <itemize>
-            <item>Subversion repository: <htmlurl
-                url="https://www.dfwpython.org/repo/Projects/PyIE/">
-        </itemize>
-
-	PyIE is a hypothesis based, agenda driven, object oriented inference
-	engine written in Python. Inferencing modes include back chaining,
-	opportunistic forward chaining and explicit forward chaining. The
-	first-class object base supports metaclasses, classes, objects and
-	multiple, dynamic inheritance.  All objects are first class objects and
-	all attributes are slot values, i.e. data members attached to some
-	object.
-
-	PyIE uses a TMS (truth maintenance system) for first level (condition
-	change) non-monotonic reasoning. User defined metaclasses are being
-	explored to support second level (belief change) non-monotonic
-	reasoning.
 
 
     <label id="Pyke">
@@ -602,10 +580,10 @@
     <label id="Reverend">
     <tag/Reverend/
         <itemize>
-            <item>Web site: <htmlurl 
+            <item>Web site: <htmlurl
                 url="http://sourceforge.net/projects/reverend/">
         </itemize>
-    
+
         Reverned is a general purpose Bayesian classifier written in Python. It
         is designed to be easily extended to any application domain.
 
@@ -613,14 +591,11 @@
     <label id="Screamer">
     <tag/Screamer/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://www.cis.upenn.edu/&tilde;screamer-tools/home.html"
-                name="www.cis.upenn.edu/&tilde;screamer-tools/home.html">
-            <item>Latest version is part of CLOCC: <htmlurl 
+            <item>Latest version is part of CLOCC: <htmlurl
                 url="http://clocc.sourceforge.net/"
                 name="clocc.sourceforge.net">
         </itemize>
-     
+
       Screamer is an extension of Common Lisp that adds support for
       nondeterministic programming. Screamer consists of two
       levels. The basic nondeterministic level adds support for
@@ -639,9 +614,8 @@
     <label id="SPASS">
     <tag/SPASS/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://spass.mpi-sb.mpg.de/"
-                name="spass.mpi-sb.mpg.de">
+            <item>Web site: <htmlurl
+                url="http://www.spass-prover.org/">
         </itemize>
 
         SPASS: An Automated Theorem Prover for First-Order Logic with Equality
@@ -651,19 +625,6 @@
         planning, decision procedures, modal logic theorem proving, SPASS may
         offer you the right functionality.
 
-
-    <label id="ThoughtTreasure">
-    <tag/ThoughtTreasure/
-        <itemize>
-            <item>Web site: <htmlurl
-                url="http://www.signiform.com/tt/htm/tt.htm"
-                name="www.signiform.com/tt/htm/tt.htm">
-        </itemize>
-
-        ThoughtTreasure is a project to create a database of commonsense rules
-        for use in any application. It consists of a database of a little over
-        100K rules and a C API to integrate it with your applications. Python,
-        Perl, Java and TCL wrappers are already available.
 
     <label id="Torch">
     <tag/Torch/
@@ -706,26 +667,24 @@
 
     <sect1>AI software kits, applications, etc.
     <p>
-    
+
     These are various applications, software kits, etc. meant for research
     in the field of artificial intelligence. Their ease of use will vary,
     as they were designed to meet some particular research interest more
     than as an easy to use commercial package.
-    
+
     <descrip>
-       
+
       <label id="ASA">
       <tag/ASA - Adaptive Simulated Annealing/
-	    <itemize> 
-            <item>Web site: <htmlurl url="http://www.ingber.com/&num;ASA-CODE" name="www.ingber.com/&num;ASA-CODE">
-        	<item>FTP site: <htmlurl url="ftp://ftp.ingber.com/" name="ftp.ingber.com/">
+	    <itemize>
+            <item>Web site: <htmlurl url="http://www.ingber.com/&num;ASA-CODE">
         </itemize>
 
-       
-	ASA (Adaptive Simulated Annealing) is a powerful global
-	optimization C-code algorithm especially useful for nonlinear and/or
-	stochastic systems.
-	
+
+        ASA (Adaptive Simulated Annealing) is a powerful global
+        optimization C-code algorithm especially useful for nonlinear and/or
+        stochastic systems.
 
         ASA is developed to statistically find the best global fit of a
         nonlinear non-convex cost-function over a D-dimensional space. This
@@ -734,32 +693,30 @@
         The introduction of re-annealing also permits adaptation to changing
         sensitivities in the multi-dimensional parameter-space. This annealing
         schedule is faster than fast Cauchy annealing, where T = T&lowbar;0/k,
-        and much faster than Boltzmann annealing, where T = T&lowbar;0/ln k.  
+        and much faster than Boltzmann annealing, where T = T&lowbar;0/ln k.
 
 
-    <label id="Babylon"> 
+    <label id="Babylon">
     <tag/Babylon/
         <itemize>
-            <item>Archive: <htmlurl 
+            <item>Archive: <htmlurl
                 url="http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/expert/systems/babylon/">
-            <item>(Dead) FTP site: <htmlurl 
-                url="ftp://ftp.gmd.de/gmd/ai-research/Software/Babylon/">
         </itemize>
-     
+
       BABYLON is a modular, configurable, hybrid environment for
       developing expert systems. Its features include objects, rules with
       forward and backward chaining, logic (Prolog) and constraints. BABYLON
       is implemented and embedded in Common Lisp.
-     
-    
+
+
     <label id="cfengine">
     <tag/cfengine/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://www.iu.hio.no/cfengine/" 
+            <item>Web site: <htmlurl
+                url="http://www.iu.hio.no/cfengine/"
                 name="www.iu.hio.no/cfengine/">
         </itemize>
-        
+
         Cfengine, or the configuration engine is a very high level language for
         building expert systems which administrate and configure large computer
         networks. Cfengine uses the idea of classes and a primitive form of
@@ -771,14 +728,14 @@
     <label id="CLIPS">
     <tag/CLIPS/
         <itemize>
-            <item>Web site: <htmlurl 
+            <item>Web site: <htmlurl
                 url="http://clipsrules.sourceforge.net/">
         </itemize>
-      
+
       CLIPS is a productive development and delivery expert system tool
       which provides a complete environment for the construction of rule
-      and/or object based expert systems.  
-      
+      and/or object based expert systems.
+
       CLIPS provides a cohesive tool for handling a wide variety of
       knowledge with support for three different programming paradigms:
       rule-based, object-oriented and procedural.  Rule-based programming
@@ -789,15 +746,15 @@
       other systems or to create new components).  The procedural
       programming capabilities provided by CLIPS are similar to capabilities
       found in languages such as C, Pascal, Ada, and LISP.
-     
+
 
     <label id="EMA-XPS">
     <tag/EMA-XPS - A Hybrid Graphic Expert System Shell/
       <itemize>
-        <item>Web site: <htmlurl 
+        <item>Web site: <htmlurl
                 url="http://ema-xps.org/">
       </itemize>
-     
+
       EMA-XPS is a hybrid graphic expert system shell based on the
       ASCII-oriented shell Babylon 2.3 of the German National Research
       Center for Computer Sciences (GMD). In addition to Babylon's AI-power
@@ -810,10 +767,10 @@
     <label id="Eprover">
     <tag/Eprover/
         <itemize>
-            <item>Web site: <htmlurl 
+            <item>Web site: <htmlurl
                 url="http://www.eprover.org/"
                 name="http://www.eprover.org/">
-            <item>Web site: <htmlurl 
+            <item>Web site: <htmlurl
                 url="http://www4.informatik.tu-muenchen.de/&tilde;schulz/WORK/eprover.html"
                 name="http://www4.informatik.tu-muenchen.de/&tilde;schulz/WORK/eprover.html">
         </itemize>
@@ -893,10 +850,10 @@
       unification grammars (FUGs) introduced by Martin Kay specialized to
       the task of natural language generation. It adds the following
       features to the base formalism:
-      <itemize>	
-        <item>Types and inheritance. 
-	    <item>Extended control facilities (goal freezing, intelligent 
-                    backtracking). 
+      <itemize>
+        <item>Types and inheritance.
+	    <item>Extended control facilities (goal freezing, intelligent
+                    backtracking).
 	    <item>Modular syntax.
       </itemize>
       These extensions allow the development of large grammars which can be
@@ -906,14 +863,14 @@
       generation component in a larger generation system that encapsulates a
       rich knowledge of English syntax. SURGE can also be used as a platform
       for exploration of grammar writing with a generation perspective.
-     
+
 
     <label id="GATE">
     <tag/GATE/
         <itemize>
-            <item>Web site: <htmlurl 
+            <item>Web site: <htmlurl
                 url="http://gate.ac.uk/">
-            <item>Alt site: <htmlurl 
+            <item>Alt site: <htmlurl
                 url="http://sourceforge.net/projects/gate">
         </itemize>
 
@@ -922,26 +879,26 @@
       embedding Human Language Technology.
 
       GATE is made up of three elements:
-      <itemize>	
+      <itemize>
         <item>An architecture describing how language processing systems are
         made up of components.
         <item>A framework (or class library, or SDK), written in Java and
         tested on Linux, Windoze and Solaris.
-        <item>A graphical development environment built on the framework. 
+        <item>A graphical development environment built on the framework.
       </itemize>
 
 
     <label id="Grammar Workbench">
     <tag/The Grammar Workbench/
       <itemize>
-        <item>Web site: ??? <htmlurl 
-                url="http://www.cs.kun.nl/agfl/" 
+        <item>Web site: ??? <htmlurl
+                url="http://www.cs.kun.nl/agfl/"
                 name="www.cs.kun.nl/agfl/">
-      </itemize>     
+      </itemize>
 
-      Seems to be obsolete??? Its gone from the site, though its parent 
-      project is still ongoing. 
-     
+      Seems to be obsolete??? Its gone from the site, though its parent
+      project is still ongoing.
+
       The Grammar Workbench, or GWB for short, is an environment for the
       comfortable development of Affix Grammars in the AGFL-formalism. Its
       purposes are: 
@@ -1126,17 +1083,17 @@
                 name="sitemaker.umich.edu/soar">
       </itemize>
 
-     
+
       Soar has been developed to be a general cognitive architecture.
       We intend ultimately to enable the Soar architecture to:
-      <itemize>	
+      <itemize>
         <item>work on the full range of tasks expected of an
 	    intelligent agent, from highly routine to extremely difficult,
 	    open-ended problems
 	    <item>represent and use appropriate forms of knowledge, such as
 	    procedural, declarative, episodic, and possibly iconic
-	    <item>employ the full range of problem solving methods 
-	    <item>interact with the outside world and 
+	    <item>employ the full range of problem solving methods
+	    <item>interact with the outside world and
 	    <item>learn about all aspects of the tasks and its performance on them. 
       </itemize>
       In other words, our intention is for Soar to support all the
@@ -1145,12 +1102,8 @@
     <label id="TCM">
     <tag/TCM/
     <itemize>
-        <item>Web site: <htmlurl 
-            url="http://wwwhome.cs.utwente.nl/&tilde;tcm/" 
-            name="wwwhome.cs.utwente.nl/&tilde;tcm/">
-        <item>FTP site: <htmlurl 
-            url="ftp://ftp.cs.utwente.nl/pub/tcm/" 
-            name="ftp.cs.utwente.nl/pub/tcm/">
+        <item>Web site: <htmlurl
+            url="http://wwwhome.cs.utwente.nl/&tilde;tcm/">
       </itemize>
 
       TCM (Toolkit for Conceptual Modeling) is our suite of graphical
@@ -1162,19 +1115,19 @@
       editor and a Function Decomposition table editor.  TCM is easy
       to use and performs numerous consistency checks, some of them
       immediately, some of them upon request.
-     
+
 
     <label id="Yale">
     <tag/Yale/
         <itemize>
-            <item>Web site: <htmlurl 
+            <item>Web site: <htmlurl
                 url="http://yale.sf.net/"
                 name="yale.sf.net/">
-            <item>Alt Web site: <htmlurl 
+            <item>Alt Web site: <htmlurl
                 url="http://rapid-i.com/"
                 name="rapid-i.com/">
         </itemize>
-        
+
         YALE (Yet Another Learning Environment) is an environment for machine
         learning experiments. Experiments can be made up of a large number of
         arbitrarily nestable operators and their setup is described by XML
@@ -1183,7 +1136,7 @@
 
 
     <label id="WEKA">
-    <tag/WEKA/ 
+    <tag/WEKA/
       <itemize>
         <item>Web site: <htmlurl
             url="http://www.cs.waikato.ac.nz/&tilde;ml/"

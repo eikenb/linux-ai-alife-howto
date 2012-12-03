@@ -85,6 +85,21 @@
       </itemize>
 
 
+    <label id="DHARMI">
+    <tag/DHARMI/
+        <itemize>
+            <item>Web site: http://megazone.bigpanda.com/&tilde;wolf/DHARMI/
+        </itemize>
+
+          DHARMI is a high level spatial, tinker-toy like language who's
+          components are transparently administered by a background
+          process called the Habitat. As the name suggests, the language
+          was designed to make modelling prototypes and handle living
+          data. Programs can be modified while running. This is accomplished
+          by blurring the distinction between source code, program,
+          and data.
+
+
     <label id="Dunce">
     <tag/Dunce/
         <itemize>
@@ -129,6 +144,20 @@
         their environment. Evo implements biological operators such as genetic
         recombination and mutation to evolve the behavior of agents so that
         they are more adapted to their environment.
+
+
+    <label id="IBAL">
+    <tag/IBAL/
+        <itemize>
+            <item>Web site: http://www.eecs.harvard.edu/&tilde;avi/IBAL/
+        </itemize>
+
+      IBAL (pronounced "eyeball") is a general-purpose language for
+      probabilistic modeling, parameter estimation and decision making. It
+      generalizes Bayesian networks, hidden Markov models, stochastic context
+      free grammars, Markov decision processes, and allows many new
+      possibilities. It also provides a convenient programming-language
+      framework with libraries, automatic type checking and so on.
 
 
       <label id="IDEAL">
@@ -191,6 +220,31 @@
           </itemize>
 
 
+    <label id="Jet's Neural Architecture">
+    <tag/Jet's Neural Architecture/
+        <itemize>
+            <item>Web site: http://www.voltar-confed.org/jneural/
+        </itemize>
+
+        Jet's Neural Architecture is a C++ framework for doing neural net
+        projects. The goals of this project were to make a fast, flexible
+        neural architecture that isn't stuck to one kind of net and to make
+        sure that end users could easily write useful applications. All the
+        documentation is also easily readable.
+
+
+    <label id="Neural Networks at your Fingertips">
+    <tag/Neural Networks at your Fingertips/
+        <itemize>
+            <item>Web site: http://www.neural-networks-at-your-fingertips.com/
+        </itemize>
+
+        A set of ANSI C packages that illustrate Adaline networks,
+        back-propagation, the Hopfield model, BAM, Boltzman, CPN, SOM, and
+        ART1. Coded in portable, self-contained ANSI C. With complete example
+        applications from a variety of well-known application domains.
+
+
     <label id="PAI">
     <tag/PAI/
         <itemize>
@@ -200,6 +254,26 @@
         AI (Programmable Artificial Intelligence) is a program capable of
         having a conversation in its mother tongue, English. Written in
         C++.
+
+
+    <label id="PyIE">
+    <tag/PyIE/
+        <itemize>
+            <item>repo: https://www.dfwpython.org/repo/Projects/PyIE/
+        </itemize>
+
+        PyIE is a hypothesis based, agenda driven, object oriented inference
+        engine written in Python. Inferencing modes include back chaining,
+        opportunistic forward chaining and explicit forward chaining. The
+        first-class object base supports metaclasses, classes, objects and
+        multiple, dynamic inheritance.  All objects are first class objects and
+        all attributes are slot values, i.e. data members attached to some
+        object.
+
+        PyIE uses a TMS (truth maintenance system) for first level (condition
+        change) non-monotonic reasoning. User defined metaclasses are being
+        explored to support second level (belief change) non-monotonic
+        reasoning.
 
 
     <label id="Python ANN">
@@ -287,6 +361,30 @@
       </itemize>
 
 
+    <label id="SPRLIB-ANNLIB">
+    <tag/SPRLIB&#47;ANNLIB/
+      <itemize>
+        <item>Web site: http://www.ph.tn.tudelft.nl/&tilde;sprlib/
+      </itemize>
+
+      SPRLIB (Statistical Pattern Recognition Library) was developed
+      to support the easy construction and simulation of pattern
+      classifiers. It consist of a library of functions (written in C)
+      that can be called from your own program. Most of the well-known
+      classifiers are present (k-nn, Fisher, Parzen, ....), as well as
+      error estimation and dataset generation routines.
+
+      ANNLIB (Artificial Neural Networks Library) is a neural network
+      simulation library based on the data architecture laid down by
+      SPRLIB. The library contains numerous functions for creating,
+      training and testing feed-forward networks.  Training algorithms
+      include back-propagation, pseudo-Newton, Levenberg-Marquardt,
+      conjugate gradient descent, BFGS.... Furthermore, it is possible
+      - due to the datastructures' general applicability - to build
+      Kohonen maps and other more exotic network architectures using
+      the same data types.
+
+
     <label id="Sugal">
     <tag/Sugal/
       <itemize>
@@ -298,6 +396,18 @@
         Algorithms on a common software platform. As such, Sugal supports a
         large number of variants of Genetic Algorithms, and has extensive
         features to support customization and extension.
+
+
+    <label id="ThoughtTreasure">
+    <tag/ThoughtTreasure/
+        <itemize>
+            <item>Web site: http://www.signiform.com/tt/htm/tt.htm
+        </itemize>
+
+        ThoughtTreasure is a project to create a database of commonsense rules
+        for use in any application. It consists of a database of a little over
+        100K rules and a C API to integrate it with your applications. Python,
+        Perl, Java and TCL wrappers are already available.
 
 
     <label id="TIN">
