@@ -8,13 +8,11 @@
 
 <abstract>
 This howto mainly contains information about, and links to,
-various AI related software libraries, applications, etc. 
-that work on the GNU/Linux platform. All of it is (at least) 
-free for personal use. 
+various AI related software libraries, applications, etc.
+that work on the GNU/Linux platform. All of it is (at least)
+free for personal use.
 
-The new master page for this document is 
-<htmlurl url="http://zhar.net/howto/" 
-    name="http://zhar.net/howto/">
+The new master page for this document is <htmlurl url="http://zhar.net/howto/">
 </abstract>
 
 <toc>
