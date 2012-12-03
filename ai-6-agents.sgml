@@ -1,7 +1,7 @@
 <sect>Agents &amp; Robotics
 <label id="Agents &amp; Robotics">
 <label id="Agents">
-    <p> 
+    <p>
 
         Software brains for computers that do stuff. Everythin from fun and
         games to data mining to physical robotics. This is a great hobbiest
@@ -27,11 +27,11 @@
     <label id="3APL">
     <tag/3APL/
         <itemize>
-            <item>Web site: <htmlurl 
+            <item>Web site: <htmlurl
                 url="http://www.cs.uu.nl/3apl/">
-            <item>Wikipedia entry: <htmlurl 
+            <item>Wikipedia entry: <htmlurl
                 url="http://en.wikipedia.org/wiki/3APL">
-            <item>Mobile version: <htmlurl 
+            <item>Mobile version: <htmlurl
                 url="http://www.cs.uu.nl/3apl-m/">
         </itemize>
 
@@ -51,18 +51,18 @@
             <item>FTP site: <htmlurl
                 url="http://www.cpan.org/modules/by-category/23_Miscellaneous_Modules/Agent/">
         </itemize>
-     
+
         The Agent is a prototype for an Information Agent system. It is
         both platform and language independent, as it stores contained
         information in simple packed strings. It can be packed and shipped
         across any network with any format, as it freezes itself in its
         current state.
-       
+
 
     <label id="agentTool">
     <tag/agentTool/
         <itemize>
-            <item>Web site: <htmlurl 
+            <item>Web site: <htmlurl
                 url="http://agenttool.cis.ksu.edu/">
         </itemize>
 
@@ -155,7 +155,9 @@
     <tag/Bee-gent/
         <itemize>
             <item>Web site: <htmlurl
-                url="http://www2.toshiba.co.jp/beegent/index.htm">
+                url="http://www.toshiba.co.jp/rdc/beegent/download/download.htm">
+            <item>FAQ: <htmlurl
+                url="http://www.toshiba.co.jp/rdc/beegent/faq/faq.htm">
         </itemize>
 
         Bee-gent is a new type of development framework in that it is a 100%
@@ -170,7 +172,7 @@
     <label id="Bond">
     <tag/Bond/
         <itemize>
-            <item>Web site: <htmlurl 
+            <item>Web site: <htmlurl
                 url="http://bond.cs.ucf.edu/">
         </itemize>
 
@@ -179,13 +181,13 @@
         directory, persistence, monitoring and security. Bond allows to easily
         build multi agent, distributed applications. Another application of
         Bond will be a Virtual Laboratory supporting data annotation and
-        metacomputing. 
+        metacomputing.
 
 
     <label id="Cougaar">
     <tag/Cougaar/
         <itemize>
-            <item>Web site: <htmlurl 
+            <item>Web site: <htmlurl
                 url="http://www.cougaar.org/">
         </itemize>
 
@@ -203,10 +205,8 @@
       <itemize>
         <item>Web site: <htmlurl
             url="http://agent.cs.dartmouth.edu/software/agent2.0/">
-        <item>FTP site: <htmlurl
-            url="ftp://ftp.cs.dartmouth.edu/pub/agents/">
       </itemize>
-     
+
       A transportable agent is a program that can migrate from machine
       to machine in a heterogeneous network.  The program chooses when and
       where to migrate.  It can suspend its execution at an arbitrary point,
@@ -220,7 +220,7 @@
     <label id="DIET Agents">
     <tag/DIET Agents/
         <itemize>
-            <item>Web site: <htmlurl 
+            <item>Web site: <htmlurl
                 url="http://diet-agents.sourceforge.net">
         </itemize>
 
@@ -267,10 +267,10 @@
     <label id="Hive">
     <tag/Hive/
         <itemize>
-            <item>Web site: <htmlurl 
+            <item>Web site: <htmlurl
                 url="http://hive.sourceforge.net/">
         </itemize>
-        
+
         Hive is a Java software platform for creating distributed applications.
         Using Hive, programmers can easily create systems that connect and use
         data from all over the Internet. At its heart, Hive is an environment
@@ -281,27 +281,25 @@
     <label id="ICM">
     <tag/ICM/
         <itemize>
-            <item>Web site (bad link?): <htmlurl 
-                url="http://www.nar.fujitsulabs.com/">
-            <item>SourceForge site: <htmlurl 
+            <item>SourceForge site: <htmlurl
                 url="http://sourceforge.net/projects/networkagent/">
         </itemize>
 
         The Inter-Agent Communication Model (ICM) is a communication mechanism
         that can be used for sending messages between agents in an asynchronous
         fashion. Its intended application area is as a transportation mechanism
-        for agent communication languages (ACLs), such as KQML and FIPA's ACL.  
+        for agent communication languages (ACLs), such as KQML and FIPA's ACL.
 
 
     <label id="Jacomma">
     <tag/Jacomma/
         <itemize>
-            <item>Web site: <htmlurl 
+            <item>Web site: <htmlurl
                 url="http://jacomma.sourceforge.net/">
-            <item>SourceForge site: <htmlurl 
+            <item>SourceForge site: <htmlurl
                 url="http://sourceforge.net/projects/jacomma/">
         </itemize>
-        
+
         Jacomma is an agent development platform/framework for developing
         distributed, mobile, and reactive information agents with heterogeneous
         communication capabilities, in Java and JPython.
@@ -518,31 +516,31 @@
         intelligence and agent technologies. It executes recipes (sequences of
         actions) to perform tasks. It is easy to specify a new action using XML
         and to implement it using Python.  Recipes can be built and debugged
-        using a graphical interface. 
+        using a graphical interface.
 
 
     <label id="NeL">
     <tag/NeL/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://www.nevrax.org/" 
+            <item>Web site: <htmlurl
+                url="http://www.nevrax.org/"
                 name="www.nevrax.org">
         </itemize>
 
         NeL is actually a game development library (for massive multi-player
-        games), but I'm including it here as it (will) include a fairly 
+        games), but I'm including it here as it (will) include a fairly
         sizable AI library. Here's a blurb from the whitepaper:
 
         The purpose of the AI library is to provide a pragmatic approach to
         creating a distributed agents platform. Its focus is agents; individual
         entities that communicate regardless of location, using an
-        action-reaction model. 
+        action-reaction model.
 
 
     <label id="OAA">
     <tag/OAA/
         <itemize>
-            <item>Web site: <htmlurl 
+            <item>Web site: <htmlurl
                 url="http://www.ai.sri.com/&tilde;oaa/"
                 name="www.ai.sri.com/&tilde;oaa/">
         </itemize>
@@ -552,7 +550,7 @@
         tasks assigned by human or non-human participants in the community.
         Distributed cooperation and high-level communication are two ideas
         central to the foundation of the OAA.
-        
+
         It defines an interagent communication language and supports multiple
         platforms and programming languages.
 
@@ -602,7 +600,7 @@
     <label id="OpenSteer">
     <tag/OpenSteer/
         <itemize>
-            <item>Web site: <htmlurl 
+            <item>Web site: <htmlurl
                 url="http://opensteer.sourceforge.net/"
                 name="opensteer.sourceforge.net">
         </itemize>
@@ -617,7 +615,7 @@
     <tag/ORTS/
         <itemize>
             <item>Web site: <htmlurl
-                url="http://www.cs.ualberta.ca/~mburo/orts/">
+                url="https://skatgame.net/mburo/orts/">
         </itemize>
 
         ORTS is a programming environment for studying real-time AI problems
@@ -647,29 +645,11 @@
         increasing performance.
 
 
-    <label id="OSCAR">
-    <tag/OSCAR/
-        <itemize>
-            <item>Web site: <htmlurl 
-                url="http://oscarhome.soc-sci.arizona.edu/ftp/OSCAR-web-page/oscar.html"
-                name="oscarhome.soc-sci.arizona.edu/ftp/OSCAR-web-page/oscar.html">
-        </itemize>
-
-        The goal of the OSCAR project is the formulation of a general theory of
-        rationality and its implementation in an artificial rational agent. The
-        function of artificial agents is to draw conclusions and make decisions
-        on the basis of information supplied to them. OSCAR is a fully
-        implemented architecture for rational agents, based upon a general
-        purpose defeasible reasoner.  OSCAR is written in Common Lisp and is
-        free for educational and research purposes.
-
-
     <label id="Penguin!">
     <tag/Penguin!/
     <itemize>
-      <item>FTP site: <htmlurl 
-        url="http://www.cpan.org/modules/by-category/23_Miscellaneous_Modules/Penguin/FSG/"
-        name="http://www.cpan.org/modules/by-category/23_Miscellaneous_Modules/Penguin/FSG/">
+      <item>FTP site: <htmlurl
+        url="http://www.cpan.org/modules/by-category/23_Miscellaneous_Modules/Penguin/FSG/">
     </itemize>
 
       Penguin is a Perl 5 module. It provides you with a set of functions which
@@ -897,7 +877,7 @@ name="www.csee.umbc.edu/tkqml/">
                 url="http://www.marcush.net/IRS/"
                 name="http://www.marcush.net/IRS/">
         </itemize>
-        
+
         UMPRS supports top-down, goal-based reasoning and selects goals and
         plans based on maximal priority. Execution of multiple simultaneous
         goals are supported, with suspension and resumption capabilities for
@@ -907,27 +887,6 @@ name="www.csee.umbc.edu/tkqml/">
         atomic (i.e., non-interruptable) blocks, n-branch deterministic
         conditional execution, explicit failure-handling section, and C++
         primitive function definition.
-
-
-    <label id="ViSe">
-    <tag/Virtual Secretary Project (ViSe)/ (Tcl/Tk)  
-    <itemize>
-        <item>Web site: <htmlurl
-            url="http://www.vise.cs.uit.no/vise/"
-            name="www.vise.cs.uit.no/vise/">
-    </itemize>
-     
-      The motivation of the Virtual Secretary project is to construct
-      user-model-based intelligent software agents, which could in
-      most cases replace human for secretarial tasks, based on modern
-      mobile computing and computer network. The project includes two
-      different phases: the first phase (ViSe1) focuses on information
-      filtering and process migration, its goal is to create a secure
-      environment for software agents using the concept of user
-      models; the second phase (ViSe2) concentrates on agents'
-      intelligent and efficient cooperation in a distributed
-      environment, its goal is to construct cooperative agents for
-      achieving high intelligence. (Implemented in Tcl/TclX/Tix/Tk)
 
 
     <label id="WebMate">
@@ -967,29 +926,10 @@ name="www.csee.umbc.edu/tkqml/">
 
       </itemize>
 
-
-    <label id="Zeus">
-    <tag/Zeus/
-        <itemize>
-            <item>Web site: <htmlurl
-                url="http://more.btexact.com/projects/agents/zeus/"
-                name="more.btexact.com/projects/agents/zeus/">
-        </itemize>
-        
-            The construction of multi-agent systems involves long development
-            times and requires solutions to some considerable technical 
-            difficulties. This has motivated the development of the ZEUS
-            toolkit, which provides a library of software components and tools
-            that facilitate the rapid design, development and deployment of 
-            agent system
-
-
-
   </descrip>
 
-
-
     <sect1>Robotics and Simulators
+
     <label id="Robotics and Simulators">
     <p>
 
@@ -1059,7 +999,7 @@ name="www.csee.umbc.edu/tkqml/">
     <label id="CLARAty">
     <tag/CLARAty/
         <itemize>
-            <item>Web site: <htmlurl 
+            <item>Web site: <htmlurl
                 url="http://claraty.jpl.nasa.gov/man/overview/">
         </itemize>
 
@@ -1068,19 +1008,19 @@ name="www.csee.umbc.edu/tkqml/">
         multiple implementations of any given functionality. Examples of such
         capabilities include pose estimation, navigation, locomotion and
         planning. In addition to supporting multiple algorithms, it provides
-        adaptations to multiple robotic platforms. 
+        adaptations to multiple robotic platforms.
 
         This is a public release of the some of the code used in the Mars rover
         projects at NASA. It is under a free for non-commercial use licence and
         consists of large number of modules and algorithms along with extensive
-        documentation.        
+        documentation.
 
 
     <label id="GNU Robots">
     <tag/GNU Robots/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://www.gnu.org/software/robots/"> 
+            <item>Web site: <htmlurl
+                url="http://www.gnu.org/software/robots/">
         </itemize>
 
         GNU Robots is a game/diversion where you construct a program for a
@@ -1094,8 +1034,10 @@ name="www.csee.umbc.edu/tkqml/">
     <label id="Infon Battle Arena">
     <tag/Infon Battle Arena/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://infon.dividuum.de/trac/wiki">
+            <item>Web site: <htmlurl
+                url="http://infon.dividuum.de/">
+            <item>Web site: <htmlurl
+                url="https://github.com/dividuum/infon">
         </itemize>
 
         Infon Battle Arena is a networked multiplayer real-time programming
@@ -1109,12 +1051,11 @@ name="www.csee.umbc.edu/tkqml/">
     <tag/Khepera Simulator/
       <itemize>
         <item>Web site: <htmlurl
-                url="http://diwww.epfl.ch/lami/team/michel/khep-sim/index.html"
-                name="diwww.epfl.ch/lami/team/michel/khep-sim/">
+                url="http://diwww.epfl.ch/w3lami/team/michel/khep-sim/">
       </itemize>
 
         Khepera Simulator is a public domain software package written by
-        <htmlurl url="http://diwww.epfl.ch/lami/team/michel/" name="Olivier
+        <htmlurl url="http://diwww.epfl.ch/w3lami/team/michel/" name="Olivier
         MICHEL"> during the preparation of his Ph.D. thesis, at the Laboratoire
         I3S, URA 1376 of CNRS and University of Nice-Sophia Antipolis, France.
         It allows to write your own controller for the mobile robot Khepera
@@ -1123,7 +1064,7 @@ name="www.csee.umbc.edu/tkqml/">
         a Khepera robot, it can drive the real robot using the same control
         algorithm. It is mainly oriented toward to researchers studying
         autonomous agents.
-     
+
 
     <label id="MRPT">
     <tag/MRPT/
@@ -1142,7 +1083,7 @@ name="www.csee.umbc.edu/tkqml/">
     <label id="Nero">
     <tag/Nero/
         <itemize>
-            <item>Web site: <htmlurl 
+            <item>Web site: <htmlurl
                 url="http://www.nerogame.org/">
         </itemize>
 
@@ -1165,7 +1106,9 @@ name="www.csee.umbc.edu/tkqml/">
     <tag/Orca/
         <itemize>
             <item>Web site: <htmlurl
-                url="http://orca-robotics.sourceforge.net/orca/">
+                url="http://orca-robotics.sourceforge.net/">
+            <item>Web site: <htmlurl
+                url="https://github.com/naderman/orca-robotics">
         </itemize>
 
 	Orca is an open-source framework for developing component-based robotic
@@ -1178,9 +1121,9 @@ name="www.csee.umbc.edu/tkqml/">
     <label id="Player">
     <tag/Player/
         <itemize>
-            <item>Web site: <htmlurl 
+            <item>Web site: <htmlurl
                 url="http://playerstage.sourceforge.net/">
-            <item>Player wiki: <htmlurl 
+            <item>Player wiki: <htmlurl
                 url="http://playerstage.sourceforge.net/wiki/Player">
         </itemize>
 
@@ -1200,14 +1143,14 @@ name="www.csee.umbc.edu/tkqml/">
                 url="http://realtimebattle.sourceforge.net/">
         </itemize>
 
-        RealTimeBattle is a programming game, in which robots controlled by 
-        programs are fighting each other. The goal is to destroy the enemies, 
-        using the radar to examine the environment and the cannon to shoot. 
+        RealTimeBattle is a programming game, in which robots controlled by
+        programs are fighting each other. The goal is to destroy the enemies,
+        using the radar to examine the environment and the cannon to shoot.
 
         <itemize>
-            <item>Game progresses in real time, with the robot programs 
+            <item>Game progresses in real time, with the robot programs
                 running as child processes to RealTimeBattle.
-            <item>The robots communicate with the main program using the 
+            <item>The robots communicate with the main program using the
                 standard input and output.
             <item>Robots can be constructed in almost any programming language.
             <item>Maximum number of robots can compete simultaneously.
@@ -1218,15 +1161,14 @@ name="www.csee.umbc.edu/tkqml/">
             <item>Highly configurable.
         </itemize>
 
-     
+
     <label id="Robocode">
     <tag/Robocode/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://robocode.sourceforge.net/"
-                name="robocode.sourceforge.net">
+            <item>Web site: <htmlurl
+                url="http://robocode.sourceforge.net/">
         </itemize>
-        
+
         A java based robot combat programming game. It provides a simple API
         and class framework. It is designed as a means of learning Java and is
         easy to start using while not constraining the programmer from more
@@ -1237,7 +1179,7 @@ name="www.csee.umbc.edu/tkqml/">
     <label id="Robodeb">
     <tag/Robodeb/
         <itemize>
-            <item>Web site: <htmlurl 
+            <item>Web site: <htmlurl
                 url="http://www.transterpreter.org/robodeb/">
         </itemize>
 
@@ -1248,17 +1190,17 @@ name="www.csee.umbc.edu/tkqml/">
          portable and flexible runtime for the language. This combination is
          critical, as it provides a principled interface to the Player/Stage
          API, a set of widely used libraries for controlling the Pioneer3
-         robotics platform. 
+         robotics platform.
 
 
     <label id="RobotFlow">
     <tag/RobotFlow/
         <itemize>
-            <item>Web site: <htmlurl 
+            <item>Web site: <htmlurl
                 url="http://robotflow.sourceforge.net/">
         </itemize>
 
-        RobotFlow is a mobile robotics tookit based on the  
+        RobotFlow is a mobile robotics tookit based on the
         <htmlurl url="http://flowdesigner.sourceforge.net" name="FlowDesigner">
         project. FlowDesigner is a data-flow oriented architecture, similar to
         Simulink (Matlab) or Labview that is free (LGPL) and versatile. The
@@ -1271,7 +1213,7 @@ name="www.csee.umbc.edu/tkqml/">
     <label id="RoboTournament">
     <tag/RoboTournament/
         <itemize>
-            <item>Web site: <htmlurl 
+            <item>Web site: <htmlurl
                 url="http://robotournament.sourceforge.net/">
         </itemize>
 
@@ -1286,9 +1228,7 @@ name="www.csee.umbc.edu/tkqml/">
     <tag/ROS/
         <itemize>
             <item>Web site: <htmlurl
-                url="http://pr.willowgarage.com/wiki/ROS">
-            <item>Web site: <htmlurl
-                url="http://ros.sourceforge.net/">
+                url="http://www.ros.org/wiki/">
         </itemize>
 
 	ROS is an operating system for your robot. It provides the services you
@@ -1302,7 +1242,7 @@ name="www.csee.umbc.edu/tkqml/">
     <label id="Simbad">
     <tag/Simbad/
         <itemize>
-            <item>Web site: <htmlurl 
+            <item>Web site: <htmlurl
                 url="http://simbad.sourceforge.net/">
         </itemize>
 
@@ -1317,18 +1257,16 @@ name="www.csee.umbc.edu/tkqml/">
         Simbad enables programmers to write their own robot controller, modify
         the environment and use the available sensors. Don't think of it as a
         finite product but merely as an opened framework to test your own
-        ideas. 
+        ideas.
 
 
     <label id="SimRobot">
     <tag/SimRobot/
       <itemize>
         <item>Web site: <htmlurl
-                url="http://www.informatik.uni-bremen.de/simrobot/"
-                name="www.informatik.uni-bremen.de/&tilde;simrobot/"> 
-        <item>FTP site: <htmlurl 
-                url="ftp://ftp.uni-bremen.de/pub/ZKW/INFORM/simrobot/"
-                name="ftp.uni-bremen.de/pub/ZKW/INFORM/simrobot/">
+                url="http://www.informatik.uni-bremen.de/simrobot/">
+        <item>FTP site: <htmlurl
+                url="ftp://ftp.uni-bremen.de/pub/ZKW/INFORM/simrobot/">
       </itemize>
 
       SimRobot is a program for simulation of sensor based robots in a
@@ -1338,16 +1276,16 @@ name="www.csee.umbc.edu/tkqml/">
         <item>Simulation of robot kinematics
             <item>Hierarchically built scene definition via a simple definition
                 language
-            <item>Various sensors built in: camera, facette eye, distance 
+            <item>Various sensors built in: camera, facette eye, distance
                 measurement, light sensor, etc.
             <item>Objects defined as polyeders
             <item>Emitter abstractly defined; can be interpreted e.g. as
                 light or sound
             <item>Camera images computed according to the raytracing or
                 Z-buffer algorithms known from computer graphics
-            <item>Specific sensor/motor software interface for communicating 
+            <item>Specific sensor/motor software interface for communicating
                 with the simulation
-            <item>Texture mapping onto the object surfaces: bitmaps in various 
+            <item>Texture mapping onto the object surfaces: bitmaps in various
                 formats
             <item>Comprehensive visualization of the scene: wire frame w/o
                 hidden lines, sensor and actor values
@@ -1355,19 +1293,18 @@ name="www.csee.umbc.edu/tkqml/">
                 and operation in the environment
             <item>Collision detection
             <item>Extendability with user defined object types
-            <item>Possible socket communication to e.g. the Khoros image 
+            <item>Possible socket communication to e.g. the Khoros image
                 processing software
       </itemize>
-    
+
 
     <label id="TclRobots">
     <tag/TclRobots/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://www.nyx.net/&tilde;tpoindex/"
-                name="www.nyx.net/&tilde;tpoindex/">
+            <item>Web site: <htmlurl
+                url="http://www.nyx.net/&tilde;tpoindex/">
         </itemize>
-     
+
         TclRobots is a programming game, similar to 'Core War'.  To play
         TclRobots, you must write a Tcl program that controls a robot.  The
         robot's mission is to survive a battle with other robots.  Two, three,
@@ -1390,8 +1327,8 @@ name="www.csee.umbc.edu/tkqml/">
     <label id="URBI">
     <tag/URBI/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://www.urbiforge.com/">
+            <item>Web site: <htmlurl
+                url="http://www.urbiforge.org/">
         </itemize>
 
         URBI is a Universal Real-time Behavior Interface and gives you a simple
@@ -1409,12 +1346,10 @@ name="www.csee.umbc.edu/tkqml/">
     <label id="VWORLD">
     <tag/VWORLD/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://zhar.net/projects/vworld/" 
-                name="zhar.net/projects/vworld/">
+            <item>Web site: <htmlurl
+                url="http://zhar.net/projects/vworld/">
       </itemize>
 
-     
       Vworld is a simulated environment for research with autonomous
       agents written in prolog. It is currently in something of an
       beta stage. It works well with SWI-prolog, but should work with

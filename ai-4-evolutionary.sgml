@@ -473,20 +473,18 @@
         designed to be highly modular so that more adventurous users can easily
         plug-in custom genetic operators and other sub-components.
 
-        
+
     <label id="lil-gp">
     <tag/lil-gp/
       <itemize>
         <item>Web site: <htmlurl
-            url="http://garage.cps.msu.edu/software/lil-gp/"> 
-        <item>FTP site: <htmlurl 
-            url="ftp://garage.cps.msu.edu/pub/GA/lilgp/">
+            url="http://garage.cse.msu.edu/software/lil-gp/">
       </itemize>
 
-    <tag/patched lil-gp */  
+    <tag/patched lil-gp */
        	<itemize>
             <item>Web site: <htmlurl
-            url="http://cs.gmu.edu/~sean/research/lil-gp-patch/">
+            url="http://cs.gmu.edu/&tilde;sean/research/lil-gp-patch/">
         </itemize>
 
       lil-gp is a generic 'C' genetic programming tool. It was written
@@ -494,17 +492,17 @@
       number of options including:
       <itemize>
 	    <item> Generic 'C' program that runs on UNIX workstations
-	    <item> Support for multiple population experiments, using 
-                arbitrary and user settable topologies for exchange, for 
-                a single processor (i.e., you can do multiple population gp 
+	    <item> Support for multiple population experiments, using
+                arbitrary and user settable topologies for exchange, for
+                a single processor (i.e., you can do multiple population gp
                 experiments on your PC).
-	    <item> lil-gp manipulates trees of function pointers which are 
-                allocated in single, large memory blocks for speed and to 
+	    <item> lil-gp manipulates trees of function pointers which are
+                allocated in single, large memory blocks for speed and to
                 avoid swapping.
       </itemize>
-      * The patched lil-gp kernel is strongly-typed, with modifications on 
+      * The patched lil-gp kernel is strongly-typed, with modifications on
       multithreading, coevolution, and other tweaks and features.
-     
+
 
     <label id="Lithos">
     <tag/Lithos/
@@ -645,25 +643,11 @@
         </itemize>
 
 
-    <label id="pygene">
-    <tag/pygene/
-        <itemize>
-            <item>Web site: <htmlurl 
-                url="http://www.freenet.org.nz/python/pygene/"
-                name="www.freenet.org.nz/python/pygene/">
-        </itemize>
-        
-        pygene is a simple and easily understandable library for genetic
-        algorithms and genetic programming in python. Includes examples
-        such as the travelling salesman problem.
-
-
     <label id="pygp">
     <tag/pygp/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://pygp.sourceforge.net/"
-                name="pygp.sourceforge.net/">
+            <item>Web site: <htmlurl
+                url="http://sourceforge.net/projects/pygp/files/">
         </itemize>
 
         Your basic genetic algorithm package for python.
@@ -672,7 +656,7 @@
     <label id="tinygp">
     <tag/tinygp/
         <itemize>
-            <item>Web site: <htmlurl 
+            <item>Web site: <htmlurl
                 url="http://www.laserpirate.com/as3tinygp/">
         </itemize>
 
@@ -782,31 +766,17 @@
         </itemize>
 
         Corewars is a game which simulates a virtual machine with a number of
-        programs. Each program tries to crash the others. The program that 
+        programs. Each program tries to crash the others. The program that
         lasts the longest time wins. A number of sample programs are provided
-        and new programs can be written by the player. Screenshots are 
+        and new programs can be written by the player. Screenshots are
         available at the Corewars homepage.
-
-
-    <label id="Grany-3">
-    <tag/Grany-3/
-        <itemize>
-            <item>Web site: <htmlurl 
-                url="http://zarb.org/~gc/html/grany.html"
-                name="zarb.org/~gc/html/grany.html">
-        </itemize>
-
-        Grany-3 is a full-featured cellular automaton simulator, made in C++
-        with Gtk--, flex++/bison++, doxygen and gettext, useful to granular
-        media physicists. 
 
 
     <label id="JCASim">
     <tag/JCASim/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://www.jweimar.de/jcasim/"
-                name="www.jweimar.de/jcasim/">
+            <item>Web site: <htmlurl
+                url="http://www.jweimar.de/jcasim/">
         </itemize>
 
         JCASim is a general-purpose system for simulating cellular automata in

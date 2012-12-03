@@ -1,4 +1,5 @@
 <sect>Symbolic Systems (GOFAI)
+
 <label id="Symbolic Systems (GOFAI)">
     <p>
 
@@ -81,7 +82,7 @@
 	<item>AND/OR breadth tree search.</item>
         </itemize>
 
-    
+
         This library has a corresponding book, "<htmlurl
         url="http://www.neiu.edu/~kwtracy/ooai-book/"
         name="Object-Oriented Artificial Intelligence, Using C++">".
@@ -212,8 +213,8 @@
     <label id="FFLL">
     <tag/FFLL/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://ffll.sourceforge.net/" 
+            <item>Web site: <htmlurl
+                url="http://ffll.sourceforge.net/"
                 name="ffll.sourceforge.net">
         </itemize>
 
@@ -242,14 +243,12 @@
     <label id="Fuzzy sets for Ada">
     <tag/Fuzzy sets for Ada/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://www.dmitry-kazakov.de/ada/fuzzy.htm"
-                name="www.dmitry-kazakov.de/ada/fuzzy.htm">
-            <item>Freshmeat: <htmlurl 
-                url="http://freshmeat.net/projects/fuzzy/"
-                name="freshmeat.net/projects/fuzzy/">
+            <item>Web site: <htmlurl
+                url="http://www.dmitry-kazakov.de/ada/fuzzy.htm">
+            <item>Freshmeat: <htmlurl
+                url="http://freshmeat.net/projects/fuzzy/">
         </itemize>
-        
+
         Fuzzy sets for Ada is a library providing implementations of confidence
         factors with the operations not, and, or, xor, +, and *, classical
         fuzzy sets with the set-theoretic operations and the operations of the
@@ -823,8 +822,7 @@
     <label id="FreeHAL">
     <tag/FreeHAL/
         <itemize>
-            <item>Web site: <htmlurl
-                url="http://en.freehal.org/">
+            <item>Web site: <htmlurl url="https://freehal.net">
         </itemize>
 
         FreeHAL is a self-learning conversation simulator which uses semantic
@@ -838,14 +836,10 @@
     <label id="FUF-SURGE">
     <tag/FUF and SURGE/
       <itemize>
-        <item>Web site: <htmlurl 
-                url="http://www.cs.bgu.ac.il/research/projects/surge/index.htm" 
-                name="www.cs.bgu.ac.il/research/projects/surge/index.htm">
-        <item>FTP site: <htmlurl 
-                url="ftp://ftp.cs.bgu.ac.il/pub/fuf/" 
-                name="ftp.cs.bgu.ac.il/pub/fuf/">
+        <item>Web site: <htmlurl
+                url="http://www.cs.bgu.ac.il/surge/index.html">
       </itemize>
-     
+
       FUF is an extended implementation of the formalism of functional
       unification grammars (FUGs) introduced by Martin Kay specialized to
       the task of natural language generation. It adds the following
@@ -978,8 +972,8 @@
     <label id="LISA">
     <tag/LISA/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://lisa.sourceforge.net/" 
+            <item>Web site: <htmlurl
+                url="http://lisa.sourceforge.net/"
                 name="lisa.sourceforge.net">
         </itemize>
 
@@ -993,8 +987,8 @@
     <label id="Livingstone2">
     <tag/Livingstone2/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://ic.arc.nasa.gov/projects/L2/doc/">
+            <item>Web site: <htmlurl
+                url="http://ti.arc.nasa.gov/opensource/projects/livingstone2/">
         </itemize>
 
         Livingstone2 (L2) is a reusable artificial intelligence (AI) software
@@ -1007,9 +1001,8 @@
     <label id="NICOLE">
     <tag/NICOLE/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://nicole.sourceforge.net/" 
-                name="nicole.sourceforge.net">
+            <item>Web site: <htmlurl
+                url="http://nicole.sourceforge.net/">
         </itemize>
 
         NICOLE (Nearly Intelligent Computer Operated Language Examiner) is a
@@ -1022,16 +1015,15 @@
         stored in it's database. Each new sentence that has been typed in, and
         NICOLE doesn't know about, is included into NICOLE's database, thus
         extending the knowledge base of NICOLE.
-    
+
 
     <label id="Otter">
     <tag/Otter: An Automated Deduction System/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://www-unix.mcs.anl.gov/AR/otter/"
-                name="www-unix.mcs.anl.gov/AR/otter/">
+            <item>Web site: <htmlurl
+                url="http://www-unix.mcs.anl.gov/AR/otter/">
         </itemize>
-     
+
       Our current automated deduction system  Otter is designed to prove
       theorems stated in first-order logic with equality.  Otter's
       inference rules are based on resolution and paramodulation, and it

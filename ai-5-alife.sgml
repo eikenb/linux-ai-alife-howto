@@ -215,35 +215,14 @@
     <label id="Achilles">
     <tag/Achilles/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://achilles.sourceforge.net/" 
-                name="achilles.sourceforge.net">
+            <item>Web site: <htmlurl
+                url="http://achilles.sourceforge.net/">
         </itemize>
 
         Achilles is an evolution simulation based on Larry Yaeger's PolyWorld.
         It uses Hebbian neural networks, and an extremely simplified physical
         model that allows virtual organisms to interact freely in a simulated
-        environment. 
-
-
-    <label id="AntWars">
-    <tag/AntWars/
-        <itemize>
-            <item>Web site: <htmlurl 
-                url="http://ant-wars.net/">
-        </itemize>
-        
-         Ant Wars is a competition which pits clever programs against each
-         other to do battle and compete for food in virtual worlds. Each
-         contestant is a species of ant, which can visualize only the world
-         immediately around him and pheromones left by fellow and enemy ants.
-         Using this information, the ant brain (a simple state machine) must
-         guide the ant towards collecting food at his home ant hill, while
-         fending off or attacking enemies.
-
-         Clever use of pheromones and subtle behaviors can create large scale
-         tactics such as raiding, defense, harvesting, and scouting when many
-         ants cooperate. 
+        environment.
 
 
     <label id="Avida">
@@ -296,13 +275,12 @@
         simulate realistic creatures, and an OpenGL display engine so you can
         visualize your simulated worlds.
 
-       
+
     <label id="BugsX">
     <tag/BugsX/
         <itemize>
             <item>FTP site: <htmlurl
-                url="http://surf.de.uu.net/zooland/download/packages/bugsx/"
-                name="http://surf.de.uu.net/zooland/download/packages/bugsx/">
+                url="https://github.com/porridge/bugsx">
         </itemize>
 
         Display and evolve biomorphs. It is a program which draws the
@@ -371,7 +349,7 @@
     <label id="dblife-dblifelib">
     <tag/dblife &amp; dblifelib/
     <itemize>
-      <item>FTP site: <htmlurl 
+      <item>FTP site: <htmlurl
             url="http://ibiblio.org/pub/Linux/science/ai/life/"
             name="ibiblio.org/pub/Linux/science/ai/life/">
     </itemize>
@@ -381,12 +359,12 @@
       that:-).  But it IS meant to allow the easy editing and viewing of
       Life objects and has some powerful features.  The related dblifelib
       package is a library of Life objects to use with the program.
-      
+
       <it>dblifelib:</it> This is a library of interesting Life objects,
       including oscillators, spaceships, puffers, and other weird things.
       The related dblife package contains a Life program which can read the
       objects in the Library.
-     
+
 
     <label id="Drone">
     <tag/Drone/
@@ -700,13 +678,11 @@
 
     <label id="XLIFE">
     <tag/XLIFE/
-    <itemize>
-      <item>FTP site: <htmlurl
-                url="http://surf.de.uu.net/zooland/download/packages/xlife/"
-                name="surf.de.uu.net/zooland/download/packages/xlife/">
-    </itemize>
+      <itemize>
+        <item>FTP site: <htmlurl
+                url="http://linux.maruhn.com/sec/xlife.html">
+      </itemize>
 
-     
       This program will evolve patterns for John Horton Conway's game
       of Life.  It will also handle general cellular automata with the
       orthogonal neighborhood and up to 8 states (it's possible to recompile
@@ -714,16 +690,15 @@
       sample patterns are provided for the 8-state automaton of E. F. Codd,
       the Wireworld automaton, and a whole class of `Prisoner's Dilemma'
       games.
-     
 
-      <label id="Xtoys">
-      <tag/Xtoys/   
+
+    <label id="Xtoys">
+    <tag/Xtoys/
       <itemize>
-        <item>Web site: <htmlurl 
-            url="http://thy.phy.bnl.gov/www/xtoys/xtoys.html" 
-            name="thy.phy.bnl.gov/www/xtoys/xtoys.html">
+        <item>Web site: <htmlurl
+            url="http://thy.phy.bnl.gov/www/xtoys/xtoys.html">
       </itemize>
-     
+
       xtoys contains a set of cellular automata simulators for X windows.
       Programs included are:
       <itemize>
@@ -732,12 +707,9 @@
     	<item> xautomalab ---  a totalistic cellular automaton simulator,
 	    <item> xsand --- for the Bak, Tang, Wiesenfeld sandpile model,
     	<item> xwaves --- demonstrates three different wave equations,
-    	<item> schrodinger --- play with the Scrodinger equation in an 
+    	<item> schrodinger --- play with the Scrodinger equation in an
             adjustable potential.
       </itemize>
 
   </descrip>
 
-     
-     
-    

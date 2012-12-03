@@ -110,9 +110,7 @@
     <label id="NLTK">
     <tag/NLTK/
         <itemize>
-            <item>Web site: <htmlurl
-                url="http://www.nltk.org/"
-                name="www.nltk.org">
+            <item>Web site: <htmlurl url="http://nltk.org/">
         </itemize>
 
         NLTK, the Natural Language Toolkit, is a suite of Python libraries and
@@ -225,10 +223,10 @@
     <tag/scikits.learn/
         <itemize>
             <item>Web site: <htmlurl
-                url="http://scikit-learn.sourceforge.net/">
+                url="http://scikit-learn.org/stable/">
         </itemize>
 
-        scikits.learn is a Python module integrating classic machine learning
+        scikits-learn is a Python module integrating classic machine learning
         algorithms in the tightly-knit world of scientific Python packages
         (numpy, scipy, matplotlib). It aims to provide simple and efficient
         solutions to learning problems that are accessible to everybody and
