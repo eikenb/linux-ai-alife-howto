@@ -610,6 +610,28 @@
       extensions to Common Lisp such as CLOS, CLIM and Iterate.
 
 
+    <label id="SimpleAI">
+    <tag/SimpleAI/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="https://github.com/simpleai-team/simpleai">
+        </itemize>
+
+        Python library that implements many of the artificial intelligence
+        algorithms described on the book "Artificial Intelligence, a Modern
+        Approach", from Stuart Russel and Peter Norvig. Emphasis on creating a
+        stable, modern, and maintainable version. We are testing the majority
+        of the lib, it's available via pip install, has a standard repo and lib
+        architecture, well documented, respects the python pep8 guidelines,
+        provides only working code (no placeholders for future things), etc.
+        Even the internal code is written with readability in mind, not only
+        the external API.
+
+        There is also <htmlurl url="https://code.google.com/p/aima-python/">
+        which implements these algorithms as well. Though it hasn't seen
+        activity in a while.
+
+
     <label id="SPASS">
     <tag/SPASS/
         <itemize>
