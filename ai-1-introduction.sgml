@@ -31,7 +31,7 @@ GNU/Linux specifically in mind.
 
     <p>Deleted the section on "Programming languages". I moved the couple of
     agent-oriented domain specific languages, <ref id="2APL"> and <ref
-    id="April">, into the sections relevant to the work. I removed the rest as
+    id="APRIL">, into the sections relevant to the work. I removed the rest as
     they were all just general purpose languages.
 
     <p>Changed my Copyright/License to <htmlurl
