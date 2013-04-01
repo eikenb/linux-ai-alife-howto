@@ -24,6 +24,23 @@
 
     <descrip>
 
+    <label id="2APL">
+    <tag/2APL/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://apapl.sourceforge.net/">
+        </itemize>
+
+        2APL (pronounced as double-a-p-l) is an agent-oriented programming
+        language that facilitates the implementation of multi-agent systems. At
+        the multi-agent level, it provides programming constructs to specify a
+        multi-agent system in terms of a set of individual agents, a set of
+        environments in which they can perform actions, and the access relation
+        between the individual agents and the environments. At the individual
+        agent level, it provides programming constructs to implement cognitive
+        agents based on the BDI architecture.
+
+
     <label id="3APL">
     <tag/3APL/
         <itemize>
@@ -81,7 +98,7 @@
         <item>Web site: <htmlurl
                 url="http://www.trl.ibm.com/aglets/index_e.htm">
       </itemize>
-     
+
       An aglet is a Java object that can move from one host on the
       Internet to another.  That is, an aglet that executes on one host can
       suddenly halt execution, dispatch to a remote host, and resume
@@ -95,12 +112,12 @@
       is simple, flexible, and stable. Application developers can write
       platform-independent aglets and expect them to run on any host that
       supports J-AAPI.
-     
+
 
     <label id="AJA">
     <tag/AJA/
         <itemize>
-            <item>Web site: <htmlurl 
+            <item>Web site: <htmlurl
                 url="http://home.arcor.de/michal.badonsky/AJA/">
         </itemize>
 
@@ -115,12 +132,12 @@
     <label id="A.L.I.C.E.">
     <tag/A.L.I.C.E./
         <itemize>
-            <item>Web site: <htmlurl 
+            <item>Web site: <htmlurl
                 url="http://www.alicebot.org/">
 	    <item>Other AIML implementations:
 		<htmlurl url="http://pyaiml.sourceforge.net/">
         </itemize>
-        
+
         The ALICE software implements AIML (Artificial Intelligence Markup
         Language), a non-standard evolving markup language for creating chat
         robots. The primary design feature of AIML is minimalism. Compared with
@@ -130,13 +147,31 @@
         implying that it obeys certain grammatical meta-rules. The choice of
         XML syntax permits integration with other tools such as XML editors.
         Another motivation for XML is its familiar look and feel, especially to
-        people with HTML experience.  
+        people with HTML experience.
+
+
+    <label id="APRIL">
+    <tag/APRIL/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://sourceforge.net/projects/networkagent/">
+        </itemize>
+
+        APRIL is a symbolic programming language that is designed for writing
+        mobile, distributed and agent-based systems especially in an Internet
+        environment. It has advanced features such as a macro sub-language,
+        asynchronous message sending and receiving, code mobility, pattern
+        matching, higher-order functions and strong typing. The language is
+        compiled to byte-code which is then interpreted by the APRIL
+        runtime-engine.  APRIL now requires the InterAgent Communications Model
+        (ICM) to be installed before it can be installed. [Ed. ICM can be found
+        at the same web site]
 
 
     <label id="Ara">
     <tag/Ara/
       <itemize>
-        <item>Web site: <htmlurl 
+        <item>Web site: <htmlurl
             url="http://wwwagss.informatik.uni-kl.de/Projekte/Ara/index_e.html">
       </itemize>
 

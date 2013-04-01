@@ -26,8 +26,18 @@ GNU/Linux specifically in mind.
 
 <itemize>
 
-    <item>v3.1 - In Progress
+    <item>v3.1 -
     <p>New entries: <ref id="SimpleAI">.
+
+    <p>Deleted the section on "Programming languages". I moved the couple of
+    agent-oriented domain specific languages, <ref id="2APL"> and <ref
+    id="April">, into the sections relevant to the work. I removed the rest as
+    they were all just general purpose languages.
+
+    <p>Changed my Copyright/License to <htmlurl
+    url="http://creativecommons.org/publicdomain/zero/1.0/" name="CC0">. That
+    is no copyright, it is Public Domain. I no longer wish to take part in
+    copyright; <htmlurl url="http://questioncopyright.org/">
 
 
     <item>v3.0 -
@@ -107,7 +117,7 @@ GNU/Linux specifically in mind.
         <ref id="OpenSteer">, <ref id="Pyro">, <ref id="Robocode">,
         <ref id="Trend"> and <ref id="Open BEAGLE">.
 
-    <item>v2.1 - 
+    <item>v2.1 -
 
     <p>New entries: <ref id="NLTK">, <ref id="NEURObjects">, <ref id="KANREN">,
         <ref id="Neural Networks at your Fingertips">, <ref id="SimWorld">,
@@ -124,15 +134,15 @@ GNU/Linux specifically in mind.
         <ref id="ECLiPSe">, <ref id="lush">, and <ref id="pygp">
 
     <item>v1.9 - One new entry (<ref id="Bond">) and fixed the link below
-    to the dynamic list (now defunct). 
+    to the dynamic list (now defunct).
 
     <item>v1.8 - Cleaned up bad links, finding new ones where possible and
     eliminating those that seem to have disappeared. Quite a few new entries as
     well.
 
     <p>New entries: <ref id="Torch">, <ref id="Aleph">, <ref id="AI Kernel">,
-        <ref id="OpenCyc">, <ref id="HTK">, <ref id="FFLL">, <ref id="JCK">, 
-        <ref id="Joone">, <ref id="scnANNlib">, <ref id="GAUL">, 
+        <ref id="OpenCyc">, <ref id="HTK">, <ref id="FFLL">, <ref id="JCK">,
+        <ref id="Joone">, <ref id="scnANNlib">, <ref id="GAUL">,
         <ref id="Cougaar">, and <ref id="RoboTournament">
 
     <item>v1.7 - Another 9 new entries, a bunch of links fixed, and a few items
@@ -187,51 +197,11 @@ will find this document helpful.
 
 <sect1>Copyright/License
 <p>
-Copyright (c) 1996-2009 John A. Eikenberry
 
-LICENSE
+<htmlurl url="http://creativecommons.org/publicdomain/zero/1.0/" name="CC0">
 
- This document may be reproduced and distributed in whole or in part, in
- any medium physical or electronic, provided that this license notice is
- displayed in the reproduction. Commercial redistribution is permitted and
- encouraged. Thirty days advance notice, via email to the author, of
- redistribution is appreciated, to give the authors time to provide updated
- documents.
+<p>
+To the extent possible under law, John Eikenberry has waived all copyright and
+related or neighboring rights to . This work is published from: United States.
 
- A. REQUIREMENTS OF MODIFIED WORKS
-
-  All modified documents, including translations, anthologies, and partial
-  documents, must meet the following requirements:
-
-  <p><itemize>
-   <item>The modified version must be labeled as such.
-   <item>The person making the modifications must be identified.
-   <item>Acknowledgement of the original author must be retained.
-   <item>The location of the original unmodified document be identified.
-   <item>The original author's name(s) may not be used to assert or imply
-        endorsement of the resulting document without the original author's
-        permission.
-  </itemize>
-
-  In addition it is requested (not required) that:
-
-  <itemize>
-    <item>The modifications (including deletions) be noted.
-    <item>The author be notified by email of the modification in advance of
-        redistribution, if an email address is provided in the document.
-  </itemize>
-
-   As a special exception, anthologies of LDP documents may include a single
-   copy of these license terms in a conspicuous location within the anthology
-   and replace other copies of this license with a reference to the single
-   copy of the license without the document being considered "modified" for
-   the purposes of this section.
-
-   Mere aggregation of LDP documents with other documents or programs on the
-   same media shall not cause this license to apply to those other works.
-
-   All translations, derivative documents, or modified documents that
-   incorporate this document may not have more restrictive license terms
-   than these, except that you may require distributors to make the resulting
-   document available in source format.
 
