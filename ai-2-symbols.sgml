@@ -504,9 +504,9 @@
         ultra-lightweight worlds to support hypothetical reasoning.
 
         To implement PowerLoom we developed a new programming language called
-        <ref id="STELLA">, which is a Strongly Typed, Lisp-like LAnguage that
-        can be translated into Lisp, C++ and Java. PowerLoom is written in
-        STELLA and therefore available in Common-Lisp, C++ and Java versions. 
+        STELLA, which is a Strongly Typed, Lisp-like LAnguage that can be
+        translated into Lisp, C++ and Java. PowerLoom is written in STELLA and
+        therefore available in Common-Lisp, C++ and Java versions.
 
 
     <label id="PyCLIPS">

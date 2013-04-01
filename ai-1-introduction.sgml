@@ -73,16 +73,15 @@ GNU/Linux specifically in mind.
     <item>v2.4 -
 
     <p>New entries: <ref id="Eprover">, <ref id="Player">, <ref id="Logfun">,
-    <ref id="Livingstone2">, <ref id="Quackle">, <ref id="LingPipe">,
-    <ref id="GATE">, <ref id="Infon Battle Arena">, <ref id="CLARAty">,
-    <ref id="Reverend">, <ref id="Shogun">, <ref id="Nanopond">,
-    <ref id="Polyworld">, <ref id="Fluidiom">, <ref id="NEAT">,
-    <ref id="Framsticks">, <ref id="URBI">, <ref id="RobotFlow">,
-    <ref id="Nero">, <ref id="ffnet">, <ref id="Alloy">,
-    <ref id="Pyke">, <ref id="NuPIC">, <ref id="Simbad">, <ref id="Robodeb">,
-    <ref id="Loom">, <ref id="PowerLoom">, <ref id="tinygp">,
-    <ref id="Curry">, <ref id="JGAP">, <ref id="PyCLIPS">,
-    and <ref id="STELLA">.
+    <ref id="Livingstone2">, <ref id="Quackle">, <ref id="LingPipe">, <ref
+    id="GATE">, <ref id="Infon Battle Arena">, <ref id="CLARAty">, <ref
+    id="Reverend">, <ref id="Shogun">, <ref id="Nanopond">, <ref
+    id="Polyworld">, <ref id="Fluidiom">, <ref id="NEAT">, <ref
+    id="Framsticks">, <ref id="URBI">, <ref id="RobotFlow">, <ref id="Nero">,
+    <ref id="ffnet">, Alloy (removed), <ref id="Pyke">, <ref id="NuPIC">, <ref
+    id="Simbad">, <ref id="Robodeb">, <ref id="Loom">, <ref id="PowerLoom">,
+    <ref id="tinygp">, Curry (removed), <ref id="JGAP">, <ref id="PyCLIPS">,
+    and STELLA (removed).
 
     <p>I chopped the Agents section into two sub-sections, one for <ref
     id="Software Agents"> and one for <ref id="Robotics and Simulators">. I
@@ -94,15 +93,14 @@ GNU/Linux specifically in mind.
 
     <item>v2.3 -
 
-    <p>New entries: <ref id="Yampa">, <ref id="pygene">, <ref id="Push">,
-    <ref id="ANNEvolve">, <ref id="dgpf">, <ref id="Golly">,
-    <ref id="IBAL">, <ref id="3APL">, <ref id="OSCAR">,
-    and <ref id="RobocodeNG">.
+    <p>New entries: <ref id="Yampa">, <ref id="pygene">, Push (removed), <ref
+    id="ANNEvolve">, <ref id="dgpf">, <ref id="Golly">, <ref id="IBAL">, <ref
+    id="3APL">, <ref id="OSCAR">, and <ref id="RobocodeNG">.
 
-    <p>Updated information for some entries including <ref id="Yale">,
-    <ref id="Joone">, <ref id="Drone">, <ref id="Biome">, <ref id="ECLiPSe">,
-    <ref id="Xtoys">, <ref id="GECO">,
-    <ref id="Creatures Docking Station"> and others.
+    <p>Updated information for some entries including <ref id="Yale">, <ref
+    id="Joone">, <ref id="Drone">, <ref id="Biome">, ECLiPSe (removed), <ref
+    id="Xtoys">, <ref id="GECO">, <ref id="Creatures Docking Station"> and
+    others.
 
     <p>I also changed the MIA section to <ref id="Missing &amp; Dead"> which now
     groups into subsections entries with bad links that I can't find
@@ -130,8 +128,8 @@ GNU/Linux specifically in mind.
     entries (please let me know if you know of a new home for them).
 
     <p>New entries: <ref id="Yale">, <ref id="DIET Agents">, <ref id="JASA">,
-        <ref id="Jason">, <ref id="Noble Ape">, <ref id="Maude">,
-        <ref id="ECLiPSe">, <ref id="lush">, and <ref id="pygp">
+        <ref id="Jason">, <ref id="Noble Ape">, Maude (removed),
+        ECLiPSe (removed), lush (removed), and <ref id="pygp">
 
     <item>v1.9 - One new entry (<ref id="Bond">) and fixed the link below
     to the dynamic list (now defunct).
