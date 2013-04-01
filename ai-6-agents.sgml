@@ -885,12 +885,12 @@ name="www.csee.umbc.edu/tkqml/">
       An agent is a process that may migrate through a computer network
       in order to satisfy requests made by clients. Agents are an attractive
       way to describe network-wide computations.
-      
+
       The TACOMA project focuses on operating system support for agents and
       how agents can be used to solve problems traditionally addressed by
       operating systems. We have implemented a series of prototype systems
       to support agents.
-      
+
       TACOMA Version 1.2 is based on UNIX and TCP. The system supports
       agents written in C, Tcl/Tk, Perl, Python, and Scheme (Elk). It is
       implemented in C. This TACOMA version has been in public domain since
@@ -903,7 +903,7 @@ name="www.csee.umbc.edu/tkqml/">
       and Java. We are now in the process of evaluating this application,
       and plan to build a new StormCast version to be completed by June
       1997.
-     
+
 
     <label id="UMPRS Agent">
     <tag/UMPRS Agent/
