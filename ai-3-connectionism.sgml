@@ -275,6 +275,20 @@
         used scipy.optimize (http://scipy.org).
 
 
+    <label id="NuPIC">
+    <tag/NuPIC/
+        <itemize>
+            <item>Web site: http://www.numenta.org/
+            <item>Web site: https://github.com/numenta/nupic
+        </itemize>
+
+        The Numenta Platform for Intelligent Computing (NuPIC) is built around
+        Cortical learning algorithms, a new variation of HTM networks
+        (Hierarchical Temporal Memory). Based on Jeff Hawkins idea as laid out
+        in his On Intelligence book. NuPIC consists of the Numenta Tools
+        Framework and the Numenta Runtime Engine.
+
+
     <label id="Pulcinella">
     <tag/Pulcinella/
 	<itemize>

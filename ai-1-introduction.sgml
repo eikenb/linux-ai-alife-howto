@@ -27,7 +27,10 @@ GNU/Linux specifically in mind.
 <itemize>
 
     <item>v3.1 -
+
     <p>New entries: <ref id="SimpleAI">.
+
+    <p>Resurfaced MIA entry: <ref id="NuPIC">.
 
     <p>Deleted the section on "Programming languages". I moved the couple of
     agent-oriented domain specific languages, <ref id="2APL"> and <ref
@@ -198,8 +201,8 @@ will find this document helpful.
 
 <htmlurl url="http://creativecommons.org/publicdomain/zero/1.0/" name="CC0">
 
-<p>
-To the extent possible under law, John Eikenberry has waived all copyright and
-related or neighboring rights to . This work is published from: United States.
+<p> To the extent possible under law, John Eikenberry has waived all copyright
+and related or neighboring rights to this work. This work is published from:
+United States.
 
 

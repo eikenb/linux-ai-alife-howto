@@ -605,20 +605,6 @@
         Platform agents. It is implemented in Java.
 
 
-    <label id="NuPIC">
-    <tag/NuPIC/
-        <itemize>
-            <item>Web site: http://www.numenta.com/
-        </itemize>
-
-        The Numenta Platform for Intelligent Computing (NuPIC) is built around
-        HTM networds (Hierarchical Temporal Memory). Based on Jeff Hawkins idea
-        as laid out in his On Intelligence book. NuPIC consists of the Numenta
-        Tools Framework and the Numenta Runtime Engine.
-
-        Free for non-commercial use.
-
-
     <label id="PDKB">
     <tag/PDKB/
         <itemize>
