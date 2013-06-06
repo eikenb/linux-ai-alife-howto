@@ -531,6 +531,25 @@
         </itemize>
 
 
+    <label id="lens">
+    <tag/lens/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://tedlab.mit.edu/~dr/Lens/">
+        </itemize>
+
+        Lens is an efficient, yet flexible, neural network simulator that runs
+        on a variety of platforms, is able to handle large, complex
+        simulations, but is also reasonably easy for novices to operate. Lens
+        has three main design objectives:
+
+        <itemize>
+          <item>Speed: Both in performance and development time.
+          <item>Flexibility: Hundreds of scriptable functions and components.
+          <item>Customizability: Modular code to allow for easy extensions.
+        </itemize>
+
+
     <label id="Nengo">
     <tag/Nengo/
         <itemize>
@@ -697,6 +716,19 @@
 
       With these three object types, you can very quickly define knowledge
       about a set of objects, and query them for logical conclusions.
+
+
+    <label id="Simbrain">
+    <tag/Simbrain/
+        <itemize>
+            <item>Web site: <htmlurl url="http://www.simbrain.net/">
+        </itemize>
+
+        SIMBRAIN is a free tool for building, running, and analyzing
+        neural-networks (computer simulations of brain circuitry). Simbrain
+        aims to be as visual and easy-to-use as possible. Unique features of
+        Simbrain include its integrated "world components" and its ability to
+        represent a network's state space. Simbrain is written in Java.
 
 
     <label id="SNNS">
