@@ -26,7 +26,7 @@
     <label id="Baysian Modeling">
     <tag/Software for Flexible Bayesian Modeling/
       <itemize>
-        <item>Web site: <htmlurl url="http://www.cs.utoronto.ca/&tilde;radford/fbm.software.html" name="www.cs.utoronto.ca/&tilde;radford/fbm.software.html">
+        <item>Web site: <htmlurl url="http://www.cs.utoronto.ca/&tilde;radford/fbm.software.html">
       </itemize>
 
       This software implements flexible Bayesian models for regression
@@ -40,7 +40,7 @@
     <label id="BELIEF">
       <tag/BELIEF/
       <itemize>
-        <item>Web site: <htmlurl url="http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/reasonng/probabl/belief/" name="www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/reasonng/probabl/belief/">
+        <item>Web site: <htmlurl url="http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/reasonng/probabl/belief/">
       </itemize>
 
 
@@ -61,8 +61,7 @@
     <tag/bpnn.py/
         <itemize>
             <item>Web site: <htmlurl
-                url="http://arctrix.com/nas/python/bpnn.py"
-                name="http://arctrix.com/nas/python/bpnn.py">
+                url="http://arctrix.com/nas/python/bpnn.py">
         </itemize>
 
         A simple back-propogation ANN in Python.
@@ -71,8 +70,7 @@
     <label id="brain">
     <tag/brain/
         <itemize>
-            <item>Web site: <htmlurl
-                url="http://harthur.github.com/brain/">
+            <item>Web site: <htmlurl url="http://harthur.github.com/brain/">
         </itemize>
 
         Brain is a lightweight JavaScript library for  neural networks. It
@@ -82,8 +80,7 @@
     <label id="brain-simulator">
     <tag/brain-simulator/
         <itemize>
-            <item>Web site: <htmlurl
-                url="http://www.briansimulator.org/">
+            <item>Web site: <htmlurl url="http://www.briansimulator.org/">
         </itemize>
 
         Brian is a clock-driven simulator for spiking neural networks. It is
@@ -133,8 +130,7 @@
     <label id="CONICAL">
     <tag/CONICAL/
         <itemize>
-          <item>Web site: <htmlurl
-                  url="http://strout.net/conical/" name="strout.net/conical/">
+          <item>Web site: <htmlurl url="http://strout.net/conical/">
         </itemize>
 
         CONICAL is a C++ class library for building simulations common
@@ -151,8 +147,7 @@
     <label id="Encog">
     <tag/Encog/
         <itemize>
-            <item>Web site: <htmlurl
-                url="http://www.heatonresearch.com/">
+            <item>Web site: <htmlurl url="http://www.heatonresearch.com/">
         </itemize>
 
         Encog is an advanced neural network and machine learning framework.
@@ -168,8 +163,7 @@
     <label id="FANN">
     <tag/FANN/
         <itemize>
-            <item>Web site: <htmlurl
-                url="http://leenissen.dk/fann/">
+            <item>Web site: <htmlurl url="http://leenissen.dk/fann/">
         </itemize>
 
         Fast Artificial Neural Network Library is a free open source neural
@@ -187,8 +181,7 @@
     <label id="ffnet">
     <tag/ffnet/
         <itemize>
-            <item>Web site: <htmlurl
-                url="http://ffnet.sourceforge.net/">
+            <item>Web site: <htmlurl url="http://ffnet.sourceforge.net/">
         </itemize>
 
         ffnet is a fast and easy-to-use feed-forward neural network training
@@ -219,9 +212,7 @@
     <label id="Matrix Class">
     <tag/Matrix Class/
         <itemize>
-	    <item>FTP site: <htmlurl
-                url="ftp://ftp.cs.ucla.edu/pub/"
-                name="ftp.cs.ucla.edu/pub/">
+	    <item>FTP site: <htmlurl url="ftp://ftp.cs.ucla.edu/pub/">
         </itemize>
 
         A simple, fast, efficient C++ Matrix class designed for
@@ -292,9 +283,7 @@
     <label id="Pulcinella">
     <tag/Pulcinella/
 	<itemize>
-        <item>Web site: <htmlurl
-            url="http://iridia.ulb.ac.be/pulcinella/"
-            name="iridia.ulb.ac.be/pulcinella/">
+        <item>Web site: <htmlurl url="http://iridia.ulb.ac.be/pulcinella/">
     </itemize>
 
       Pulcinella is written in CommonLisp, and appears as a library of
@@ -313,8 +302,7 @@
     <tag/scnANNlib/
         <itemize>
             <item>Web site: <htmlurl
-                url="http://www.sentinelchicken.org/projects/scnANNlib/"
-                name="www.sentinelchicken.org/projects/scnANNlib/">
+                url="http://www.sentinelchicken.org/projects/scnANNlib/">
         </itemize>
 
         SCN Artificial Neural Network Library provides a programmer with a
@@ -384,8 +372,7 @@
     <tag/Various (C++) Neural Networks/
      <itemize>
         <item>Web site: <htmlurl
-            url="http://www.dontveter.com/nnsoft/nnsoft.html"
-            name="www.dontveter.com/nnsoft/nnsoft.html">
+            url="http://www.dontveter.com/nnsoft/nnsoft.html">
     </itemize>
 
       Example neural net codes from the book, <htmlurl
@@ -424,7 +411,7 @@
       <label id="Aspirin-MIGRANES">
       <tag/Aspirin - MIGRAINES/ (am6.tar.Z on ftp site)
       <itemize>
-	    <item>FTP site: <htmlurl url="ftp://sunsite.unc.edu/pub/academic/computer-science/neural-networks/programs/Aspirin/" name="sunsite.unc.edu/pub/academic/computer-science/neural-networks/programs/Aspirin/">
+	    <item>FTP site: <htmlurl url="ftp://sunsite.unc.edu/pub/academic/computer-science/neural-networks/programs/Aspirin/">
       </itemize>
 
 
@@ -526,8 +513,7 @@
     <tag/Jbpe/
         <itemize>
             <item>Web site: <htmlurl
-                url="http://cs.felk.cvut.cz/&tilde;koutnij/studium/jbpe.html"
-                name="cs.felk.cvut.cz/&tilde;koutnij/studium/jbpe.html">
+                url="http://cs.felk.cvut.cz/&tilde;koutnij/studium/jbpe.html">
         </itemize>
 
         Jbpe is a back-propagation neural network editor/simulator.
@@ -548,8 +534,7 @@
     <label id="Nengo">
     <tag/Nengo/
         <itemize>
-            <item>Web site: <htmlurl
-                url="http://www.nengo.ca/">
+            <item>Web site: <htmlurl url="http://www.nengo.ca/">
         </itemize>
 
         Nengo (Nengo Neural Simulator) is a graphical and scripting based
@@ -577,8 +562,7 @@
     <tag/Neural Network Generator/
         <itemize>
             <item>FTP site: <htmlurl
-                url="ftp://ftp.idsia.ch/pub/rafal/"
-                name="ftp.idsia.ch/pub/rafal">
+                url="ftp://ftp.idsia.ch/pub/rafal/">
         </itemize>
 
       The Neural Network Generator is a genetic algorithm for the
@@ -598,9 +582,7 @@
       <label id="NEURON">
       <tag/NEURON/
         <itemize>
-            <item>Web site: <htmlurl
-                url="http://www.neuron.yale.edu/"
-                name="www.neuron.yale.edu/">
+            <item>Web site: <htmlurl url="http://www.neuron.yale.edu/">
         </itemize>
 
       NEURON is an extensible nerve modeling and simulation
@@ -662,7 +644,7 @@
       <label id="RNS">
       <tag/RNS/
     	<itemize>
-            <item>Web site: <htmlurl url="http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/neural/systems/rns/" name="www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/neural/systems/rns/">
+            <item>Web site: <htmlurl url="http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/neural/systems/rns/">
         </itemize>
 
       RNS (Recurrent Network Simulator) is a simulator for recurrent
@@ -690,7 +672,7 @@
     <tag/Semantic Networks in Python/
       <itemize>
         <item>Web site: <htmlurl
-        url="http://strout.net/info/coding/python/ai/index.html" name="strout.net/info/coding/python/ai/index.html">
+            url="http://strout.net/info/coding/python/ai/index.html">
       </itemize>
 
       The semnet.py module defines several simple classes for
@@ -738,11 +720,9 @@
       <tag/TOOLDIAG/
         <itemize>
             <item>Web site: <htmlurl
-                url="http://www.inf.ufes.br/&tilde;thomas/home/soft.html"
-                name="www.inf.ufes.br/&tilde;thomas/home/soft.html">
+                url="http://www.inf.ufes.br/&tilde;thomas/home/soft.html">
             <item>Alt site: <htmlurl
-                url="http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/neural/systems/tooldiag/0.html"
-                name="http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/neural/systems/tooldiag/0.html">
+                url="http://www.cs.cmu.edu/afs/cs/project/ai-repository/ai/areas/neural/systems/tooldiag/0.html">
         </itemize>
 
       TOOLDIAG is a collection of methods for statistical pattern
@@ -757,9 +737,7 @@
     <label id="XNBC">
     <tag/XNBC/
         <itemize>
-            <item>Web site: <htmlurl
-                url="http://www.b3e.jussieu.fr/xnbc/"
-                name="www.b3e.jussieu.fr/xnbc/">
+            <item>Web site: <htmlurl url="http://www.b3e.jussieu.fr/xnbc/">
         </itemize>
 
 	XNBC v8 is a simulation tool for the neuroscientists interested in
