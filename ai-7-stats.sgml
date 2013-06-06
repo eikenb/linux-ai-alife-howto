@@ -324,19 +324,19 @@
         principles.
 
 
-    <label id="Torch5">
-    <tag/Torch5/
+    <label id="Torch">
+    <tag/Torch/
         <itemize>
-            <item>Web site: <htmlurl
-                url="http://torch5.sourceforge.net/">
+            <item>Web site: <htmlurl url="http://www.torch.ch/">
+            <item>Old versions:
+            <htmlurl url="http://torch5.sourceforge.net/" name="Torch5">
+            <htmlurl url="http://www.torch.ch/torch3/" name="Torch3">
         </itemize>
 
-        Torch5 provides a matlab-like environment for state-of-the-art machine
+        Torch provides a Matlab-like environment for state-of-the-art machine
         learning algorithms. It is easy to use and provides a very efficient
-        implementation, thanks to a easy and fast scripting language (Lua) and
-        a underlying C++ implementation. It is distributed under a BSD license.
-
-        This is the successor to the <ref id="Torch" name="Torch3"> project.
+        implementation, thanks to an easy and fast scripting language (Lua) and
+        a underlying C implementation.
 
 
     <label id="Vowpal Wabbit">
@@ -351,7 +351,7 @@
         <itemize>
           <item>flexible input data specification
           <item>speedy learning
-          <item>scalability (bounded memory footprint, suitable for 
+          <item>scalability (bounded memory footprint, suitable for
                 distributed computation)
           <item>feature pairing
         </itemize>

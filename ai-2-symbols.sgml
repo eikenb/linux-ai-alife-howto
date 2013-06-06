@@ -647,42 +647,6 @@
         offer you the right functionality.
 
 
-    <label id="Torch">
-    <tag/Torch/
-        <itemize>
-            <item>Web site: <htmlurl
-                url="http://www.torch.ch/"
-                name="www.torch.ch">
-            <item>Successor: <ref id="Torch5">
-        </itemize>
-
-        Torch is a machine-learning library, written in C++.  Its aim is to
-        provide the state-of-the-art of the best algorithms.  It is, and it
-        will be, in development forever.
-
-        <itemize>
-            <item>Many gradient-based methods, including multi-layered
-            perceptrons, radial basis functions, and mixtures of experts.  Many
-            small "modules" (Linear module, Tanh module, SoftMax module, ...)
-            can be plugged together.
-
-            <item>Support Vector Machine, for classification and regression.
-
-            <item>Distribution package, includes Kmeans, Gaussian Mixture
-            Models, Hidden Markov Models, and Bayes Classifier, and classes for
-            speech recognition with embedded training.
-
-            <item>Ensemble models such as Bagging and Adaboost.
-
-            <item>Non-parametric models such as K-nearest-neighbors, Parzen
-            Regression and Parzen Density Estimator.
-
-            <item>
-        </itemize>
-
-        Torch is an open library whose authors encourage everybody to develop
-        new packages to be included in future versions on the official website.
-
   </descrip>
 
 
