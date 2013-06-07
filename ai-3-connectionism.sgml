@@ -269,8 +269,8 @@
     <label id="NuPIC">
     <tag/NuPIC/
         <itemize>
-            <item>Web site: http://www.numenta.org/
-            <item>Web site: https://github.com/numenta/nupic
+            <item>Web site: <htmlurl url="http://www.numenta.org/">
+            <item>Web site: <htmlurl url="https://github.com/numenta/nupic">
         </itemize>
 
         The Numenta Platform for Intelligent Computing (NuPIC) is built around
