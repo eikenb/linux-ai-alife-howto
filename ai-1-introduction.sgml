@@ -28,7 +28,7 @@ GNU/Linux specifically in mind.
 
     <item>v3.2 -
 
-    <p>New entries: <ref id="Simbrain">, <ref id="lens">.
+    <p>New entries: <ref id="Simbrain">, <ref id="lens">, <ref id="Mahout">.
 
     <item>v3.1 -
 
@@ -42,9 +42,8 @@ GNU/Linux specifically in mind.
     they were all just general purpose languages.
 
     <p>Changed my Copyright/License to <htmlurl
-    url="http://creativecommons.org/publicdomain/zero/1.0/" name="CC0">. That
-    is no copyright, it is Public Domain. I no longer wish to take part in
-    copyright; <htmlurl url="http://questioncopyright.org/">
+    url="http://creativecommons.org/publicdomain/zero/1.0/" name="CC0">.
+    Public Domain. See <htmlurl url="http://questioncopyright.org/">.
 
 
     <item>v3.0 -

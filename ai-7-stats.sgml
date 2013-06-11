@@ -74,6 +74,34 @@
         </itemize>
 
 
+    <label id="Mahout">
+    <tag/Mahout/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="https://mahout.apache.org/">
+        </itemize>
+
+        Mahout's goal is to build scalable machine learning libraries.
+        Scalable to reasonably large data sets. Our core algorithms for
+        clustering, classification and batch based collaborative filtering are
+        implemented on top of Apache Hadoop using the map/reduce paradigm.
+        However we do not restrict contributions to Hadoop based
+        implementations: Contributions that run on a single node or on a
+        non-Hadoop cluster are welcome as well. The core libraries are highly
+        optimized to allow for good performance also for non-distributed
+        algorithms.
+
+        Currently Mahout supports mainly four use cases: Recommendation mining
+        takes users' behavior and from that tries to find items users might
+        like.  Clustering takes e.g. text documents and groups them into groups
+        of topically related documents. Classification learns from exisiting
+        categorized documents what documents of a specific category look like
+        and is able to assign unlabelled documents to the (hopefully) correct
+        category.  Frequent itemset mining takes a set of item groups (terms in
+        a query session, shopping cart content) and identifies, which
+        individual items usually appear together.
+
+
     <label id="Maximum Entropy Toolkit">
     <tag/Maximum Entropy Toolkit/
         <itemize>
