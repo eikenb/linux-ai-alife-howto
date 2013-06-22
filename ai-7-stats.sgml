@@ -49,6 +49,25 @@
         toolkits.
 
 
+    <label id="dlib">
+    <tag/dlib/
+        <itemize>
+            <item>Web site: <htmlurl url="http://dlib.net/ml.html">
+        </itemize>
+
+        Dlib's machine learning library. A major design goal of this portion of
+        the library is to provide a highly modular and simple architecture for
+        dealing with kernel algorithms. Towards this end, dlib takes a generic
+        programming approach using C++ templates. In particular, each algorithm
+        is parameterized to allow a user to supply either one of the predefined
+        dlib kernels (e.g. RBF operating on column vectors), or a new user
+        defined kernel. Moreover, the implementations of the algorithms are
+        totally separated from the data on which they operate. This makes the
+        dlib implementation generic enough to operate on any kind of data, be
+        it column vectors, images, or some other form of structured data. All
+        that is necessary is an appropriate kernel.
+
+
     <label id="Elefant">
     <tag/Elefant/
         <itemize>

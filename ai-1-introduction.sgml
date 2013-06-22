@@ -28,7 +28,8 @@ GNU/Linux specifically in mind.
 
     <item>v3.2 -
 
-    <p>New entries: <ref id="Simbrain">, <ref id="lens">, <ref id="Mahout">.
+    <p>New entries: <ref id="Simbrain">, <ref id="lens">, <ref id="Mahout">,
+    <ref id="dlib">.
 
     <item>v3.1 -
 
@@ -63,7 +64,7 @@ GNU/Linux specifically in mind.
     <ref id="Pattern">, <ref id="CognitiveFoundry">, <ref id="clasp">,
     <ref id="timbl">, <ref id="MBT">, <ref id="scikits.learn">,
     <ref id="NeuroLab">, <ref id="Biogenesis">, <ref id="brain-simulator">.
-    <ref id="Torch5">, <ref id="Encog">, <ref id="Nengo">,
+    <ref id="Torch">, <ref id="Encog">, <ref id="Nengo">,
     <ref id="DEAP"> and <ref id="Emergent">.
 
     <p>Changed the name of the "Traditional" section to
