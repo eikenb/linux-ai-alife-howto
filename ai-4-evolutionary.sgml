@@ -390,6 +390,16 @@
         saleman problem).
 
 
+    <label id="genetics">
+    <tag/genetics/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="https://github.com/Lucretiel/genetics">
+        </itemize>
+
+        A python library for writing genetic algorithms.
+
+
     <label id="GPdata">
     <tag/GPdata/
     <itemize>
