@@ -137,6 +137,22 @@
         many other fields.
 
 
+    <label id="MBT">
+    <tag/MBT/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://ilk.uvt.nl/mbt/">
+        </itemize>
+
+        MBT is a memory-based tagger-generator and tagger in one. The
+        tagger-generator part can generate a sequence tagger on the basis of a
+        training set of tagged sequences; the tagger part can tag new
+        sequences. MBT can, for instance, be used to generate part-of-speech
+        taggers or chunkers for natural language processing. It has also been
+        used for named-entity recognition, information extraction in
+        domain-specific texts, and disfluency chunking in transcribed speech.
+
+
     <label id="Milk">
     <tag/Milk/
         <itemize>
@@ -152,6 +168,18 @@
         performs feature selection. These classifiers can be combined in many
         ways to form different classification systems. For unsupervised
         learning, milk supports k-means clustering and affinity propagation.
+
+
+    <label id="MLAP book samples">
+    <tag/MLAP book samples/
+        <itemize>
+            <item>Web site: <htmlurl
+               url="http://seat.massey.ac.nz/personal/s.r.marsland/MLBook.html">
+        </itemize>
+
+        Not a library per-say, but a whole slew of example machine learning
+        algorithms from the book "Machine Learning: An Algorithmic Perspective"
+        by Stephen Marsland.  All code is written in python.
 
 
     <label id="NLTK">
@@ -236,34 +264,6 @@
         built around neural networks in the kernel and all of the training
         methods accept a neural network as the to-be-trained instance. This
         makes PyBrain a powerful tool for real-life tasks.
-
-
-    <label id="MBT">
-    <tag/MBT/
-        <itemize>
-            <item>Web site: <htmlurl
-                url="http://ilk.uvt.nl/mbt/">
-        </itemize>
-
-        MBT is a memory-based tagger-generator and tagger in one. The
-        tagger-generator part can generate a sequence tagger on the basis of a
-        training set of tagged sequences; the tagger part can tag new
-        sequences. MBT can, for instance, be used to generate part-of-speech
-        taggers or chunkers for natural language processing. It has also been
-        used for named-entity recognition, information extraction in
-        domain-specific texts, and disfluency chunking in transcribed speech.
-
-
-    <label id="MLAP book samples">
-    <tag/MLAP book samples/
-        <itemize>
-            <item>Web site: <htmlurl
-               url="http://seat.massey.ac.nz/personal/s.r.marsland/MLBook.html">
-        </itemize>
-
-        Not a library per-say, but a whole slew of example machine learning
-        algorithms from the book "Machine Learning: An Algorithmic Perspective"
-        by Stephen Marsland.  All code is written in python.
 
 
     <label id="scikits.learn">
