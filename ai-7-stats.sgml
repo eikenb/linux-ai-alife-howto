@@ -316,13 +316,28 @@
         and Python.
 
 
+    <label id="TextBlob">
+    <tag/TextBlob/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="https://textblob.readthedocs.org/en/latest/">
+            <item>Web site: <htmlurl
+                url="https://github.com/sloria/textblob">
+        </itemize>
+
+        TextBlob is a Python library for processing textual data. It provides a
+        simple API for diving into common natural language processing (NLP)
+        tasks such as part-of-speech tagging, noun phrase extraction, sentiment
+        analysis, translation, and more.
+
+
     <label id="timbl">
     <tag/timbl/
         <itemize>
             <item>Web site: <htmlurl
                 url="http://ilk.uvt.nl/timbl/">
         </itemize>
-        
+
         The Tilburg Memory Based Learner, TiMBL, is a tool for NLP research,
         and for many other domains where classification tasks are learned from
         examples.  It is an efficient implementation of k-nearest neighbor
@@ -348,7 +363,7 @@
 
 
   </descrip>
-  
+
   <sect1>Applications
   <p>
 
