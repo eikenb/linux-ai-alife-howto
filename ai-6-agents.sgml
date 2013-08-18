@@ -268,10 +268,10 @@
     <label id="FishMarket">
     <tag/FishMarket/
         <itemize>
-            <item>Web site: <htmlurl 
+            <item>Web site: <htmlurl
                 url="http://www.iiia.csic.es/Projects/fishmarket/newindex.html">
         </itemize>
-        
+
         FM - The FishMarket project conducted at the Artificial Intelligence
         Research Institute (IIIA-CSIC) attempts to contribute in that direction
         by developing FM, an agent-mediated electronic auction house which has
@@ -291,7 +291,7 @@
     <label id="Grasshopper">
     <tag/Grasshopper/
         <itemize>
-            <item>Web site: <htmlurl 
+            <item>Web site: <htmlurl
                 url="http://www.grasshopper.de/">
         </itemize>
 
@@ -356,7 +356,7 @@
             <item>Web site: <htmlurl
                 url="http://sharon.cselt.it/projects/jade/">
         </itemize>
-        
+
         JADE (Java Agent DEvelopment Framework) is a software framework fully
         implemented in Java language. It simplifies the implementation of
         multi-agent systems through a middle-ware that claims to comply with
@@ -374,7 +374,7 @@
             <item>Web site: <htmlurl
                 url="http://www.marcush.net/IRS/irs_downloads.html">
         </itemize>
-        
+
         JAM supports both top-down, goal-based reasoning and bottom-up
         data-driven reasoning. JAM selects goals and plans based on maximal
         priority if metalevel reasoning is not used, or user-developed
@@ -388,7 +388,7 @@
         supported, with suspension and resumption capabilities for each goal
         (i.e., intention) thread. JAM plans have explicit precondition and
         runtime attributes that restrict their applicability, a postcondition
-        attribute, and a plan attributes section for specifying 
+        attribute, and a plan attributes section for specifying
         plan/domain-specific plan features. Available plan constructs include:
         sequencing, iteration, subgoaling, atomic (i.e., non-interruptable)
         plan segments, n-branch deterministic and non-deterministic conditional
@@ -403,9 +403,9 @@
     <label id="JASA">
     <tag/JASA/
         <itemize>
-            <item>Web site: <htmlurl 
+            <item>Web site: <htmlurl
                 url="http://www.csc.liv.ac.uk/~sphelps/jasa">
-            <item>Alt Web site: <htmlurl 
+            <item>Alt Web site: <htmlurl
                 url="http://sourceforge.net/projects/jasa/">
         </itemize>
 
@@ -421,7 +421,7 @@
     <label id="Jason">
     <tag/Jason/
         <itemize>
-            <item>Web site: <htmlurl 
+            <item>Web site: <htmlurl
                 url="http://jason.sourceforge.net/">
         </itemize>
 
@@ -460,35 +460,26 @@
         </itemize>
 
         <itemize>
-        
             <item>Improved, easier-to-use interface to JATLite features
             including KQML message parsing, receiving, and sending.
-            
             <item>Extensible architecture for message handling and agent
-            "thread of control" management 
-            
+            "thread of control" management
             <item>Useful functions for parsing of simple KQML message content
-            
             <item>JATLiteBean supports automatic advertising of agent
-            capabilities to facilitator agents 
-        
+            capabilities to facilitator agents
             <item>Automatic, optional, handling of the "forward" performative
-        
             <item>Generic configuration file parser
-        
             <item>KQML syntax checker
-        
         </itemize>
-     
+
 
     <label id="Java Agent Template">
     <tag/Java(tm) Agent Template/
       <itemize>
         <item>Web site: <htmlurl
-                url="http://www-cdr.stanford.edu/ABE/JavaAgent.html"
-                name="www-cdr.stanford.edu/ABE/JavaAgent.html">
+                url="http://www-cdr.stanford.edu/ABE/JavaAgent.html">
       </itemize>
-     
+
       The JAT provides a fully functional template, written entirely in
       the Java language, for constructing software agents which communicate
       peer-to-peer with a community of other agents distributed over the
@@ -507,9 +498,8 @@
     <label id="lyntin">
     <tag/lyntin/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://lyntin.sourceforge.net/" 
-                name="lyntin.sourceforge.net/">
+            <item>Web site: <htmlurl
+                url="http://lyntin.sourceforge.net/">
         </itemize>
 
         Lyntin is an extensible Mud client and framework for the creation of
@@ -522,8 +512,7 @@
     <tag/Mole/
       <itemize>
         <item>Web site: <htmlurl
-            url="http://mole.informatik.uni-stuttgart.de/"
-            name="mole.informatik.uni-stuttgart.de/">
+            url="http://mole.informatik.uni-stuttgart.de/">
       </itemize>
 
       Mole is an agent system supporting mobile agents programmed in
@@ -536,14 +525,13 @@
       communicating with dedicated agents representing these
       services. Agents are able to use services provided by other
       agents and to provide services as well.
-     
+
 
     <label id="Narval">
     <tag/Narval/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://www.logilab.org/" 
-                name="www.logilab.org">
+            <item>Web site: <htmlurl
+                url="http://www.logilab.org/" >
         </itemize>
 
         Narval is the acronym of "Network Assistant Reasoning with a Validating
@@ -558,8 +546,7 @@
     <tag/NeL/
         <itemize>
             <item>Web site: <htmlurl
-                url="http://www.nevrax.org/"
-                name="www.nevrax.org">
+                url="http://www.nevrax.org/">
         </itemize>
 
         NeL is actually a game development library (for massive multi-player
@@ -576,8 +563,7 @@
     <tag/OAA/
         <itemize>
             <item>Web site: <htmlurl
-                url="http://www.ai.sri.com/&tilde;oaa/"
-                name="www.ai.sri.com/&tilde;oaa/">
+                url="http://www.ai.sri.com/&tilde;oaa/">
         </itemize>
 
         The Open Agent Architecture is a framework in which a community of
@@ -612,7 +598,7 @@
             <item>Web site: <htmlurl
                 url="http://www.opencog.org/">
         </itemize>
-        
+
         The Open Cognition Framework (OpenCog) is software for the
         collaborative development of safe and beneficial Artificial General
         Intelligence.
@@ -628,7 +614,7 @@
           process scheduler,
           <item>a built-in LISP-like programming language, and
           <item>other components to support artificial intelligence research
-          and development. 
+          and development.
         </itemize>
 
 
@@ -636,8 +622,7 @@
     <tag/OpenSteer/
         <itemize>
             <item>Web site: <htmlurl
-                url="http://opensteer.sourceforge.net/"
-                name="opensteer.sourceforge.net">
+                url="http://opensteer.sourceforge.net/">
         </itemize>
 
         OpenSteer is a C++ library to help build steering behaviors for
@@ -702,18 +687,17 @@
       update, distance machine administration, content-based
       information propagation, Internet-wide shared-data applications,
       network application builders, and so on.
-     
+
 
     <label id="Ps-i">
     <tag/Ps-i/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://ps-i.sourceforge.net/"
-                name="ps-i.sourceforge.net">
+            <item>Web site: <htmlurl
+                url="http://ps-i.sourceforge.net/">
         </itemize>
 
         Ps-i is an environment for running agent-based simulations. It is
-        cross-platform, with binaries available for Win32. Features include: 
+        cross-platform, with binaries available for Win32. Features include:
 
         <itemize>
         <item>declarative language for model specification</item>
@@ -733,9 +717,8 @@
     <label id="Pyro">
     <tag/Pyro/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://pyrorobotics.org/"
-                name="http://pyrorobotics.org/">
+            <item>Web site: <htmlurl
+                url="http://pyrorobotics.org/">
         </itemize>
 
         Pyro is a library, environment, graphical user interface, and low-level
@@ -761,7 +744,7 @@
         analysis tool. It includes a move generator, simulator, and Qt-based
         user interface and can be used with any board layout, alphabet,
         lexicon, and tile distribution.
-        
+
 
     <label id="Recast">
     <tag/Recast/
@@ -800,8 +783,7 @@
     <tag/Remembrance Agents/
         <itemize>
             <item>Web site: <htmlurl
-                url="http://www.remem.org/"
-                name="www.remem.org">
+                url="http://www.remem.org/">
         </itemize>
 
         Remembrance Agents are a set of applications that watch over a user's
@@ -819,9 +801,8 @@
     <label id="SimAgent">
     <tag/SimAgent/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://www.cs.bham.ac.uk/research/projects/poplog/packages/simagent.html"
-                name="www.cs.bham.ac.uk/research/projects/poplog/packages/simagent.html">
+            <item>Web site: <htmlurl
+                url="http://www.cs.bham.ac.uk/research/projects/poplog/packages/simagent.html">
         </itemize>
 
         The SimAgent toolkit provides a range of resources for research and
@@ -837,12 +818,10 @@
     <label id="spyse">
     <tag/spyse/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://spyse.sf.net/"
-                name="spyse.sf.net">
-            <item>Alt Web site: <htmlurl 
-                url="http://zope.org/Members/drapmeyer/spyse"
-                name="zope.org/Members/drapmeyer/spyse">
+            <item>Web site: <htmlurl
+                url="http://spyse.sf.net/">
+            <item>Alt Web site: <htmlurl
+                url="http://zope.org/Members/drapmeyer/spyse">
         </itemize>
 
         spyse is a development framework and platform for building multi-agent
@@ -866,10 +845,9 @@
     <label id="TKQML">
     <tag/TKQML/
         <itemize>
-            <item>Web site: <htmlurl url="http://www.csee.umbc.edu/tkqml/"
-name="www.csee.umbc.edu/tkqml/"> 
+            <item>Web site: <htmlurl url="http://www.csee.umbc.edu/tkqml/">
         </itemize>
-        
+
         TKQML is a KQML application/addition to Tcl/Tk, which allows Tcl
         based systems to communicate easily with a powerful agent
         communication language.
@@ -878,8 +856,7 @@ name="www.csee.umbc.edu/tkqml/">
     <label id="Tocoma Project">
     <tag/The Tocoma Project/
       <itemize>
-        <item>Web site: <htmlurl url="http://www.tacoma.cs.uit.no/"
-        name="www.tacoma.cs.uit.no/">
+        <item>Web site: <htmlurl url="http://www.tacoma.cs.uit.no/">
       </itemize>
 
       An agent is a process that may migrate through a computer network
@@ -927,15 +904,14 @@ name="www.csee.umbc.edu/tkqml/">
     <label id="WebMate">
     <tag/WebMate/
         <itemize>
-            <item>Web site: <htmlurl 
+            <item>Web site: <htmlurl
               url="http://www.cs.cmu.edu/&tilde;softagents/webmate/">
         </itemize>
 
-     
       WebMate is a personal agent for World-Wide Web browsing and
       searching. It accompanies you when you travel on the internet
-      and provides you what you want. 
-      
+      and provides you what you want.
+
       Features include:
       <itemize>
 
@@ -990,28 +966,26 @@ name="www.csee.umbc.edu/tkqml/">
     <label id="BattleBots">
     <tag/BattleBots/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://www.bluefire.nu/battlebots/" 
-                name="www.bluefire.nu/battlebots/">
+            <item>Web site: <htmlurl
+                url="http://www.bluefire.nu/battlebots/">
         </itemize>
 
         AI programming game where you design the bot by selecting hardware and
         programming its CPU, then competing with other bots. Competitions can
-        have teams and special rules for a game. 
+        have teams and special rules for a game.
 
         The hardware for use in your bot includes weapons, engine, scanners,
         CPU, etc. The programming lauguage is dependent on the CPU type and is
-        similar to an assembly language. 
+        similar to an assembly language.
 
 
     <label id="Cadaver">
     <tag/Cadaver/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://www.erikyyy.de/cadaver/" 
-                name="www.erikyyy.de/cadaver/">
+            <item>Web site: <htmlurl
+                url="http://www.erikyyy.de/cadaver/">
         </itemize>
-        
+
         Cadaver is a simulated world of cyborgs and nature in realtime.  The
         battlefield consists of forests, grain, water, grass, carcass (of
         course) and lots of other things. The game server manages the game and
@@ -1020,7 +994,7 @@ name="www.csee.umbc.edu/tkqml/">
         order cyborgs to harvest grain, attack enemies or cut forest.  The game
         is not intended to be played by humans!  There is too much to control.
         Only for die-hards: Just telnet to the server and you can enter
-        commands by hand.  Instead the idea is that you write artificial  
+        commands by hand.  Instead the idea is that you write artificial
         intelligence clients to beat the other artificial intelligences.  You
         can choose a language (and operating system) of your choice to do that
         task.  It is enough to write a program that communicates on standard
@@ -1042,7 +1016,7 @@ name="www.csee.umbc.edu/tkqml/">
 	open-source collection of software for mobile robot control. CARMEN is
 	modular software designed to provide basic navigation primatives
 	including: base and sensor control, logging, obstacle avoidance,
-	localization, path planning, and mapping. 
+	localization, path planning, and mapping.
 
 
     <label id="CLARAty">
@@ -1415,9 +1389,8 @@ name="www.csee.umbc.edu/tkqml/">
     <label id="Yampa">
     <tag/Yampa/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://www.haskell.org/yampa/"
-                name="http://www.haskell.org/yampa/">
+            <item>Web site: <htmlurl
+                url="http://www.haskell.org/yampa/">
         </itemize>
 
         FRP system with robotics library and graphical interactive robotics
@@ -1452,6 +1425,4 @@ name="www.csee.umbc.edu/tkqml/">
 	projects.
 
 
-
     </descrip>
-   
