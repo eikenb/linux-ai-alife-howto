@@ -973,6 +973,20 @@ name="www.csee.umbc.edu/tkqml/">
 
     <descrip>
 
+    <label id="ARIA">
+    <tag/ARIA/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://robots.mobilerobots.com/wiki/ARIA">
+        </itemize>
+
+    ARIA is an object oriented toolkit for controlling MobileRobots/ActivMedia
+    mobile robots and their accessories, and for creating robot control
+    applications. It is a C++ library with Python and Java bindings. It also
+    provides many cross-platform and high-level tools for multimedia,
+    networking, and other useful tasks.
+
+
     <label id="BattleBots">
     <tag/BattleBots/
         <itemize>
