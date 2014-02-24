@@ -178,6 +178,23 @@
         graphical user interface is also available for the library.
 
 
+    <label id="FCNN">
+    <tag/FCNN/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://fcnn.sourceforge.net/">
+        </itemize>
+
+        FCNN (Fast Compressed Neural Networks) is a free open source C++
+        library for artificial neural network computations. It is easy to use
+        and extend, written in modern C++ and is very fast (to author's best
+        knowledge it is the fastest freely available neural network library).
+        All FCNN classes are templated to support both single and double
+        precision computations.  Internal representation of network in FCNN
+        differs from all other libraries allowing true code modularisation with
+        simultaneous speed improvements.
+
+
     <label id="ffnet">
     <tag/ffnet/
         <itemize>
