@@ -219,6 +219,24 @@
         version 3.
 
 
+    <label id="OpenCV">
+    <tag/OpenCV/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://opencv.org/">
+        </itemize>
+
+        OpenCV (Open Source Computer Vision Library) is an open source computer
+        vision and machine learning software library. OpenCV was built to
+        provide a common infrastructure for computer vision applications and to
+        accelerate the use of machine perception in the commercial products.
+
+        Example applications of the OpenCV library are Human-Computer
+        Interaction (HCI); Object Identification, Segmentation and Recognition;
+        Face Recognition; Gesture Recognition; Motion Tracking, Ego Motion,
+        Motion Understanding; Structure From Motion (SFM); and Mobile Robotics.
+
+
     <label id="peach">
     <tag/peach/
         <itemize>
