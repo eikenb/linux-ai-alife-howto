@@ -1073,6 +1073,32 @@
         autonomous agents.
 
 
+    <label id="MORSE">
+    <tag/MORSE/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://www.openrobots.org/wiki/morse/">
+        </itemize>
+
+        MORSE is an generic simulator for academic robotics. It focuses on
+        realistic 3D simulation of small to large environments, indoor or
+        outdoor, with one to tenths of autonomous robots.
+
+        MORSE can be entirely controlled from the command-line. Simulation
+        scenes are generated from simple Python scripts.
+
+        MORSE comes with a set of standard sensors (cameras, laser scanner,
+        GPS, odometry,...), actuators (speed controllers, high-level waypoints
+        controllers, generic joint controllers) and robotic bases (quadrotors,
+        ATRV, Pioneer3DX, generic 4 wheel vehicle, PR2,...). New ones can
+        easily be added.
+
+        MORSE rendering is based on the Blender Game Engine. The OpenGL-based
+        Game Engine supports shaders, provides advanced lightning options,
+        supports multi-texturing, and use the state-of-the-art Bullet library
+        for physics simulation.
+
+
     <label id="MRPT">
     <tag/MRPT/
         <itemize>
