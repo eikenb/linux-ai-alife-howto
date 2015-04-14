@@ -39,10 +39,10 @@
     <label id="AI Kernel">
     <tag/AI Kernel/
         <itemize>
-            <item>Web site: <htmlurl 
+            <item>Web site: <htmlurl
                 url="http://aikernel.sourceforge.net/"
                 name="aikernel.sourceforge.net">
-            <item>Sourceforge site: <htmlurl 
+            <item>Sourceforge site: <htmlurl
                 url="http://sourceforge.net/projects/aikernel/"
                 name="sourceforge.net/projects/aikernel/">
         </itemize>
@@ -52,34 +52,33 @@
         multi tasking between installed cells.
 
 
-      <label id="AI Search II">
-      <tag/AI Search II/
-    <itemize>
-	    <item>WEB site: <htmlurl
-            url="http://homepages.neiu.edu/~kwtracy/ooai-book/">
-    </itemize>
+    <label id="AI Search II">
+    <tag/AI Search II/
+        <itemize>
+            <item>WEB site: <htmlurl
+                url="http://homepages.neiu.edu/~kwtracy/ooai-book/">
+        </itemize>
 
-	Basically, the library offers the programmer a set of search
-	algorithms that may be used to solve all kind of different
-	problems. The idea is that when developing problem solving software
-	the programmer should be able to concentrate on the representation of
-	the problem to be solved and should not need to bother with the
-	implementation of the search algorithm that will be used to actually
-	conduct the search. This idea has been realized by the implementation
-	of a set of search classes that may be incorporated in other software
-	through <bf>C++</bf>'s features of derivation and inheritance.  The
-	following search algorithms have been implemented:
-	
+        Basically, the library offers the programmer a set of search
+        algorithms that may be used to solve all kind of different
+        problems. The idea is that when developing problem solving software
+        the programmer should be able to concentrate on the representation of
+        the problem to be solved and should not need to bother with the
+        implementation of the search algorithm that will be used to actually
+        conduct the search. This idea has been realized by the implementation
+        of a set of search classes that may be incorporated in other software
+        through <bf>C++</bf>'s features of derivation and inheritance.  The
+        following search algorithms have been implemented:
 
         <itemize>
-	<item>depth-first tree and graph search.</item>
-	<item>breadth-first tree and graph search.</item>
-	<item>uniform-cost tree and graph search.</item>
-	<item>best-first search.</item>
-	<item>bidirectional depth-first tree and graph search.</item>
-	<item>bidirectional breadth-first tree and graph search.</item>
-	<item>AND/OR depth tree search.</item>
-	<item>AND/OR breadth tree search.</item>
+          <item>depth-first tree and graph search.</item>
+          <item>breadth-first tree and graph search.</item>
+          <item>uniform-cost tree and graph search.</item>
+          <item>best-first search.</item>
+          <item>bidirectional depth-first tree and graph search.</item>
+          <item>bidirectional breadth-first tree and graph search.</item>
+          <item>AND/OR depth tree search.</item>
+          <item>AND/OR breadth tree search.</item>
         </itemize>
 
 
@@ -144,7 +143,7 @@
                 url="http://clocc.sourceforge.net/"
                 name="clocc.sourceforge.net">
      </itemize>
-     
+
       The CIL (Chess In Lisp) foundation is a Common Lisp
       implementaion of all the core functions needed for development
       of chess applications.  The main purpose of the CIL project is
@@ -171,7 +170,7 @@
         learning. clasp can be applied as an ASP solver (on LPARSE output
         format), as a SAT solver (on simplified DIMACS/CNF format), or as a PB
         solver (on OPB format).
-    
+
 
     <label id="ConceptNet">
     <tag/ConceptNet/
@@ -181,18 +180,18 @@
             <item>Old Web site: <htmlurl
                 url="http://web.media.mit.edu/~hugo/conceptnet/">
         </itemize>
-        
-	ConceptNet aims to give computers access to common-sense knowledge, the
-	kind of information that ordinary people know but usually leave
-	unstated. The data in ConceptNet was collected from ordinary people who
-	contributed it over the Web. ConceptNet represents this data in the
-	form of a semantic network, and makes it available to be used in
-	natural language processing and intelligent user interfaces.
 
-	This API provides Python code with access to both ConceptNet 3 and the
-	development database that will become ConceptNet 4, and the natural
-	language tools necessary to work with it. It uses Django for
-	interacting with the database.
+        ConceptNet aims to give computers access to common-sense knowledge, the
+        kind of information that ordinary people know but usually leave
+        unstated. The data in ConceptNet was collected from ordinary people who
+        contributed it over the Web. ConceptNet represents this data in the
+        form of a semantic network, and makes it available to be used in
+        natural language processing and intelligent user interfaces.
+
+        This API provides Python code with access to both ConceptNet 3 and the
+        development database that will become ConceptNet 4, and the natural
+        language tools necessary to work with it. It uses Django for
+        interacting with the database.
 
 
     <label id="ERESYE">
@@ -231,13 +230,13 @@
                 url="http://staff.washington.edu/jon/flip/www/">
         </itemize>
 
-	Flip is a logical framework written in Python. A logical framework is a
-	library for defining logics and writing applications such as theorem
-	provers. The checker can use different logics; Flip comes with several.
-	You can add another logic, or add axioms and derived rules, by writing
-	a module in Python. Python is both the object language and the
-	metalanguage. Formulas, inference rules, and entire proofs are Python
-	expressions. Prover commands are Python functions.
+        Flip is a logical framework written in Python. A logical framework is a
+        library for defining logics and writing applications such as theorem
+        provers. The checker can use different logics; Flip comes with several.
+        You can add another logic, or add axioms and derived rules, by writing
+        a module in Python. Python is both the object language and the
+        metalanguage. Formulas, inference rules, and entire proofs are Python
+        expressions. Prover commands are Python functions.
 
 
     <label id="Fuzzy sets for Ada">
@@ -263,8 +262,8 @@
     <label id="HTK">
     <tag/HTK/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://htk.eng.cam.ac.uk/" 
+            <item>Web site: <htmlurl
+                url="http://htk.eng.cam.ac.uk/"
                 name="htk.eng.cam.ac.uk">
         </itemize>
 
@@ -281,7 +280,7 @@
     <label id="JCK">
     <tag/JCK/
         <itemize>
-            <item>Web site: <htmlurl 
+            <item>Web site: <htmlurl
                 url="http://www.pms.informatik.uni-muenchen.de/software/jack/"
                 name="www.pms.informatik.uni-muenchen.de/software/jack/">
         </itemize>
@@ -295,7 +294,7 @@
                      A high-level language to write constraint solvers.
             <item>
              - JASE: Java Abstract Search Engine.
-                     A generic search engine for JCHR to solve constraint 
+                     A generic search engine for JCHR to solve constraint
                      problems.
             <item>
              - VisualCHR:
@@ -307,7 +306,7 @@
     <label id="KANREN">
     <tag/KANREN/
         <itemize>
-            <item>Web site: <htmlurl 
+            <item>Web site: <htmlurl
                 url="http://kanren.sourceforge.net/"
                 name="kanren.sourceforge.net">
         </itemize>
@@ -319,12 +318,12 @@
         and iterative deepening strategies. The system achieves high
         performance and expressivity without cuts.
 
-    
+
     <label id="LK">
     <tag/LK/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://www.cs.utoronto.ca/&tilde;neto/research/lk/" 
+            <item>Web site: <htmlurl
+                url="http://www.cs.utoronto.ca/&tilde;neto/research/lk/"
                 name="www.cs.utoronto.ca/&tilde;neto/research/lk/">
         </itemize>
 
@@ -332,7 +331,7 @@
         Traveling Salesman Problem and for the minimum weight perfect matching
         problem. It is tuned for 2-d geometric instances, and has been applied
         to certain instances with up to a million cities. Also included are
-        instance generators and Perl scripts for munging TSPLIB instances. 
+        instance generators and Perl scripts for munging TSPLIB instances.
 
         This implementation introduces ``efficient cluster compensation'', an
         experimental algorithmic technique intended to make the Lin-Kernighan
@@ -356,7 +355,7 @@
     <label id="Logfun">
     <tag/Logfun/
         <itemize>
-            <item>Web site: <htmlurl 
+            <item>Web site: <htmlurl
                 url="http://www.irisa.fr/lande/ferre/logfun/">
         </itemize>
 
@@ -382,7 +381,7 @@
     <label id="Loom">
     <tag/Loom/
         <itemize>
-            <item>Web site: <htmlurl 
+            <item>Web site: <htmlurl
                 url="http://www.isi.edu/isd/LOOM/">
         </itemize>
 
@@ -413,20 +412,20 @@
     <label id="maxent">
     <tag/maxent/
         <itemize>
-            <item>Python/C++ version: <htmlurl 
+            <item>Python/C++ version: <htmlurl
                 url="http://homepages.inf.ed.ac.uk/lzhang10/maxent_toolkit.html"
                 name="http://homepages.inf.ed.ac.uk/lzhang10/maxent_toolkit.html">
-            <item>Java version: <htmlurl 
+            <item>Java version: <htmlurl
                 url="http://maxent.sourceforge.net/"
                 name="maxent.sourceforge.net">
          </itemize>
 
-	The Maximum Entropy Toolkit provides a set of tools and library for
-	constructing maximum entropy (maxent) models in either Python or C++.
-	Maxent Entropy Model is a general purpose machine learning framework
-	that has proved to be highly expressive and powerful in statistical
-	natural language processing, statistical physics, computer vision and
-	many other fields.
+        The Maximum Entropy Toolkit provides a set of tools and library for
+        constructing maximum entropy (maxent) models in either Python or C++.
+        Maxent Entropy Model is a general purpose machine learning framework
+        that has proved to be highly expressive and powerful in statistical
+        natural language processing, statistical physics, computer vision and
+        many other fields.
 
         It features conditional maximum entropy models, L-BFGS and GIS
         parameter estimation, Gaussian Prior smoothing, a C++ API, a Python
@@ -434,11 +433,11 @@
         Java version is also available.
 
 
-    <label id="Nyquist"> 
+    <label id="Nyquist">
     <tag/Nyquist/
-	<itemize> 
+        <itemize>
             <item>Web site: <htmlurl
-                url="http://www-2.cs.cmu.edu/~music/nyquist/" 
+                url="http://www-2.cs.cmu.edu/~music/nyquist/"
                 name="www-2.cs.cmu.edu/~music/nyquist/">
         </itemize>
 
@@ -452,14 +451,14 @@
         these interdisciplinary efforts is the creation of interactive
         performances that couple human musical improvisation with
         intelligent computer agents in real-time.
-     
+
 
     <label id="OpenCyc">
     <tag/OpenCyc/
         <itemize>
-            <item>Web site: <htmlurl 
+            <item>Web site: <htmlurl
                 url="http://www.opencyc.org/">
-            <item>Alt Web site: <htmlurl 
+            <item>Alt Web site: <htmlurl
                 url="http://sourceforge.net/projects/opencyc/">
         </itemize>
 
@@ -486,7 +485,7 @@
     <label id="PowerLoom">
     <tag/PowerLoom/
         <itemize>
-            <item>Web site: <htmlurl 
+            <item>Web site: <htmlurl
                 url="http://www.isi.edu/isd/LOOM/PowerLoom/">
         </itemize>
 
@@ -525,7 +524,7 @@
     <label id="Pyke">
     <tag/Pyke/
         <itemize>
-            <item>Web site: <htmlurl 
+            <item>Web site: <htmlurl
                 url="http://pyke.sourceforge.net/">
         </itemize>
 
@@ -567,13 +566,13 @@
                 url="http://code.google.com/p/python-dlp/">
         </itemize>
 
-	    python-dlp aims to be a contemporary expert system based on the
-	    Semantic Web technologies. Traditionally, expert systems are an
-	    application of computing and artificial intelligence with the aim
-	    of supporting software that attempts to reproduce the deterministic
-	    behavior of one or more human experts in a specific problem domain. 
-	    It utilizes the efficient RETE_UL algorithm as the 'engine' for the
-	    expert system
+        python-dlp aims to be a contemporary expert system based on the
+        Semantic Web technologies. Traditionally, expert systems are an
+        application of computing and artificial intelligence with the aim
+        of supporting software that attempts to reproduce the deterministic
+        behavior of one or more human experts in a specific problem domain.
+        It utilizes the efficient RETE_UL algorithm as the 'engine' for the
+        expert system
 
 
     <label id="Reverend">
@@ -662,7 +661,7 @@
 
       <label id="ASA">
       <tag/ASA - Adaptive Simulated Annealing/
-	    <itemize>
+        <itemize>
             <item>Web site: <htmlurl url="http://www.ingber.com/&num;ASA-CODE">
         </itemize>
 
@@ -779,27 +778,27 @@
       constructed on the fly by combining various parameterized primitive
       evaluation functions, or can be selected from a set of predefined
       heuristics. Supported term orderings are several parameterized instances
-      of Knuth-Bendix-Ordering (KBO) and Lexicographic Path Ordering (LPO). 
-  
+      of Knuth-Bendix-Ordering (KBO) and Lexicographic Path Ordering (LPO).
+
 
     <label id="Fool-Fox">
     <tag/FOOL &amp; FOX/
     <itemize>
-      <item>Web site: <htmlurl 
-                url="http://rhaug.de/fool/" 
+      <item>Web site: <htmlurl
+                url="http://rhaug.de/fool/"
                 name="rhaug.de/fool/">
-      <item>FTP site: <htmlurl 
-                url="ftp://ftp.informatik.uni-oldenburg.de/pub/fool/" 
+      <item>FTP site: <htmlurl
+                url="ftp://ftp.informatik.uni-oldenburg.de/pub/fool/"
                 name="ftp.informatik.uni-oldenburg.de/pub/fool/">
     </itemize>
 
-     
+
       FOOL stands for the Fuzzy Organizer OLdenburg. It is a result from
       a project at the University of Oldenburg. FOOL is a graphical user
       interface to develop fuzzy rulebases.  FOOL will help you to invent
       and maintain a database that specifies the behavior of a
       fuzzy-controller or something like that.
-      
+
 
       FOX is a small but powerful fuzzy engine which reads this database,
       reads some input values and calculates the new control value.
@@ -832,9 +831,9 @@
       features to the base formalism:
       <itemize>
         <item>Types and inheritance.
-	    <item>Extended control facilities (goal freezing, intelligent
+        <item>Extended control facilities (goal freezing, intelligent
                     backtracking).
-	    <item>Modular syntax.
+        <item>Modular syntax.
       </itemize>
       These extensions allow the development of large grammars which can be
       processed efficiently and can be maintained and understood more
@@ -881,24 +880,24 @@
 
       The Grammar Workbench, or GWB for short, is an environment for the
       comfortable development of Affix Grammars in the AGFL-formalism. Its
-      purposes are: 
-      <itemize>	
-        <item>to allow the user to input, inspect and modify a grammar; 
-    	<item>to perform consistency checks on the grammar; 
-	    <item>to compute grammar properties; 
-	    <item>to generate example sentences; 
-	    <item>to assist in performing grammar transformations. 
+      purposes are:
+      <itemize>
+        <item>to allow the user to input, inspect and modify a grammar;
+        <item>to perform consistency checks on the grammar;
+        <item>to compute grammar properties;
+        <item>to generate example sentences;
+        <item>to assist in performing grammar transformations.
       </itemize>
-     
-    
+
+
     <label id="GSM Suite">
     <tag/GSM Suite/
-        <itemize> 
-            <item>Alt site: <htmlurl 
-                url="http://www.ibiblio.org/pub/Linux/apps/graphics/draw/" 
+        <itemize>
+            <item>Alt site: <htmlurl
+                url="http://www.ibiblio.org/pub/Linux/apps/graphics/draw/"
                 name="www.ibiblio.org/pub/Linux/apps/graphics/draw/">
         </itemize>
-  
+
       The GSM Suite is a set of programs for using Finite State
       Machines in a graphical fashion. The suite consists of programs
       that edit, compile, and print state machines. Included in the
@@ -912,8 +911,8 @@
     <label id="Isabelle">
     <tag/Isabelle/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://isabelle.in.tum.de/" 
+            <item>Web site: <htmlurl
+                url="http://isabelle.in.tum.de/"
                 name="isabelle.in.tum.de">
         </itemize>
 
@@ -931,29 +930,29 @@
     <label id="Jess">
     <tag/Jess, the Java Expert System Shell/
         <itemize>
-            <item>Web site: <htmlurl 
-                url="http://herzberg.ca.sandia.gov/jess/" 
+            <item>Web site: <htmlurl
+                url="http://herzberg.ca.sandia.gov/jess/"
                 name="herzberg.ca.sandia.gov/jess/">
         </itemize>
- 
+
       Jess is a clone of the popular CLIPS expert system shell written
       entirely in Java. With Jess, you can conveniently give your
       applets the ability to 'reason'. Jess is compatible with all
       versions of Java starting with version 1.0.2. Jess implements
       the following constructs from CLIPS: defrules, deffunctions,
-      defglobals, deffacts, and deftemplates.  
+      defglobals, deffacts, and deftemplates.
 
 
     <label id="learn">
     <tag/learn/
     <itemize>
-        <item>Web site: <htmlurl 
-            url="http://www.ibiblio.org/pub/Linux/apps/cai/" 
+        <item>Web site: <htmlurl
+            url="http://www.ibiblio.org/pub/Linux/apps/cai/"
             name="www.ibiblio.org/pub/Linux/apps/cai/">
     </itemize>
-      
-      Learn is a vocable learning program with memory model. 
-     
+
+      Learn is a vocable learning program with memory model.
+
 
     <label id="LISA">
     <tag/LISA/
@@ -1017,14 +1016,14 @@
       completion, weighting, and strategies for directing and restricting
       searches for proofs.   Otter can also be used as a symbolic
       calculator and has an embedded equational programming system.
-     
+
 
       <label id="PVS">
       <tag/PVS/
         <itemize>
             <item>Web site: <htmlurl url="http://pvs.csl.sri.com/" name="pvs.csl.sri.com/">
         </itemize>
-     
+
       PVS is a verification system: that is, a specification language
       integrated with support tools and a theorem prover. It is
       intended to capture the state-of-the-art in mechanized formal
@@ -1037,11 +1036,11 @@
     <label id="SNePS">
     <tag/SNePS/
       <itemize>
-        <item>Web site: <htmlurl 
-                url="http://www.cse.buffalo.edu/sneps/" 
+        <item>Web site: <htmlurl
+                url="http://www.cse.buffalo.edu/sneps/"
                 name="www.cse.buffalo.edu/sneps/">
       </itemize>
-     
+
       The long-term goal of The SNePS Research Group is the design and
       construction of a natural-language-using computerized cognitive
       agent, and carrying out the research in artificial intelligence,
@@ -1050,13 +1049,13 @@
       representation, reasoning, and natural-language understanding
       and generation. The group is widely known for its development of
       the SNePS knowledge representation/reasoning system, and Cassie,
-      its computerized cognitive agent.  
-     
+      its computerized cognitive agent.
+
 
     <label id="Soar">
     <tag/Soar/
       <itemize>
-        <item>Web site: <htmlurl 
+        <item>Web site: <htmlurl
                 url="http://sitemaker.umich.edu/soar"
                 name="sitemaker.umich.edu/soar">
       </itemize>
@@ -1066,13 +1065,13 @@
       We intend ultimately to enable the Soar architecture to:
       <itemize>
         <item>work on the full range of tasks expected of an
-	    intelligent agent, from highly routine to extremely difficult,
-	    open-ended problems
-	    <item>represent and use appropriate forms of knowledge, such as
-	    procedural, declarative, episodic, and possibly iconic
-	    <item>employ the full range of problem solving methods
-	    <item>interact with the outside world and
-	    <item>learn about all aspects of the tasks and its performance on them. 
+        intelligent agent, from highly routine to extremely difficult,
+        open-ended problems
+        <item>represent and use appropriate forms of knowledge, such as
+        procedural, declarative, episodic, and possibly iconic
+        <item>employ the full range of problem solving methods
+        <item>interact with the outside world and
+        <item>learn about all aspects of the tasks and its performance on them.
       </itemize>
       In other words, our intention is for Soar to support all the
       capabilities required of a general intelligent agent.
@@ -1120,8 +1119,7 @@
             url="http://www.cs.waikato.ac.nz/&tilde;ml/"
             name="lucy.cs.waikato.ac.nz/&tilde;ml/">
       </itemize>
-    
-     
+
       WEKA (Waikato Environment for Knowledge Analysis) is an
       state-of-the-art facility for applying machine learning
       techniques to practical problems. It is a comprehensive software
@@ -1131,9 +1129,9 @@
       support a "simplicity-first" methodology, which allows users to
       experiment interactively with simple machine learning tools
       before looking for more complex solutions.
-     
+
 
   </descrip>
-     
-     
-    
+
+
+

@@ -1407,8 +1407,8 @@
         simulator.
 
         Functional reactive programming, or FRP, is a paradigm for programming
-        hybrid systems ­ i.e., systems containing a combination of both
-        continuous and discrete components ­ in a high-level, declarative way.
+        hybrid systems - i.e., systems containing a combination of both
+        continuous and discrete components - in a high-level, declarative way.
         The key ideas in FRP are its notions of continuous, time-varying
         values, and time-ordered sequences of discrete events. Yampa is an
         instantiation of FRP as a domain-specific language embedded in Haskell.
