@@ -52,13 +52,13 @@
         multi tasking between installed cells.
 
 
-      <label id="AI Search II"> 
+      <label id="AI Search II">
       <tag/AI Search II/
     <itemize>
 	    <item>WEB site: <htmlurl
-            url="http://www.neiu.edu/~kwtracy/ooai-book/">
+            url="http://homepages.neiu.edu/~kwtracy/ooai-book/">
     </itemize>
-       
+
 	Basically, the library offers the programmer a set of search
 	algorithms that may be used to solve all kind of different
 	problems. The idea is that when developing problem solving software
