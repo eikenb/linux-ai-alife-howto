@@ -93,6 +93,23 @@
         </itemize>
 
 
+    <label id="goml">
+    <tag/goml/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="https://github.com/cdipaolo/goml">
+        </itemize>
+
+        goml (pronounced like the data format 'toml') is a batteries included
+        machine learning library written entirely in Golang. It lets you create
+        models of data stored as float64's, persist them to disk, and predict
+        other values from them. The coolest part, among many cool parts, is
+        that you can train most models in an on-line fashion, learning in a
+        'reactive' manner while waiting for further data on channels! Most
+        models can also be trained in batch settings, using either stochastic
+        or batch gradient descent.
+
+
     <label id="Mahout">
     <tag/Mahout/
         <itemize>
@@ -348,6 +365,26 @@
 
         SHOGUN is implemented in C++ and interfaces to Matlab(tm), R, Octave
         and Python.
+
+
+    <label id="TensorFlow">
+    <tag/TensorFlow/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://tensorflow.org/">
+        </itemize>
+
+        TensorFlow is an open source software library for numerical
+        computation using data flow graphs. Nodes in the graph represent
+        mathematical operations, while the graph edges represent the
+        multidimensional data arrays (tensors) communicated between them. The
+        flexible architecture allows you to deploy computation to one or more
+        CPUs or GPUs in a desktop, server, or mobile device with a single API.
+        TensorFlow was originally developed by researchers and engineers
+        working on the Google Brain Team within Google's Machine Intelligence
+        research organization for the purposes of conducting machine learning
+        and deep neural networks research, but the system is general enough to
+        be applicable in a wide variety of other domains as well.
 
 
     <label id="TextBlob">

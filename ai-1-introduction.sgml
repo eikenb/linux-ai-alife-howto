@@ -30,7 +30,8 @@ GNU/Linux specifically in mind.
 
     <p>New entries: <ref id="Simbrain">, <ref id="lens">, <ref id="Mahout">,
     <ref id="dlib">, <ref id="genetics">, <ref id="TextBlob">, <ref id="ARIA">,
-    <ref id="FCNN">, <ref id="mlpack">, <ref id="MORSE">
+    <ref id="FCNN">, <ref id="mlpack">, <ref id="MORSE">, <ref id="goml">,
+    <ref id="TensorFlow">
 
     <item>v3.1 -
 
