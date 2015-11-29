@@ -220,6 +220,21 @@
         and as a platform for prototyping and building research systems.
 
 
+    <label id="MLlib">
+    <tag/MLlib/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="https://spark.apache.org/docs/latest/mllib-guide.html">
+        </itemize>
+
+        MLlib is Spark's machine learning (ML) library. Its goal is to make
+        practical machine learning scalable and easy. It consists of common
+        learning algorithms and utilities, including classification,
+        regression, clustering, collaborative filtering, dimensionality
+        reduction, as well as lower-level optimization primitives and
+        higher-level pipeline APIs.
+
+
     <label id="mlpack">
     <tag/mlpack/
         <itemize>
@@ -365,6 +380,24 @@
 
         SHOGUN is implemented in C++ and interfaces to Matlab(tm), R, Octave
         and Python.
+
+
+    <label id="SystemML">
+    <tag/SystemML/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://systemml.apache.org/">
+            <item>Web site: <htmlurl
+                url="https://github.com/apache/incubator-systemml">
+        </itemize>
+
+        SystemML provides declarative large-scale machine learning (ML) that
+        aims at flexible specification of ML algorithms and automatic
+        generation of hybrid runtime plans ranging from single node, in-memory
+        computations, to distributed computations on Apache Hadoop and Apache
+        Spark. SystemML's distinguishing characteristics are: (1) algorithm
+        customizability, (2) multiple execution modes, including Standalone,
+        Hadoop Batch, and Spark Batch, and (3) automatic optimization.
 
 
     <label id="TensorFlow">
