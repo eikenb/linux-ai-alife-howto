@@ -108,6 +108,24 @@
         </itemize>
 
 
+    <label id="chainer">
+    <tag/chainer/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://chainer.org/">
+        </itemize>
+
+        Chainer's goad is to bridge the gap between algorithms and
+        implementations of deep learning. Chainer is a flexible framework for
+        neural networks which enables writing complex architectures simply and
+        intuitively. Chainer adopts a "Define-by-Run" scheme, i.e., the network
+        is defined on-the-fly via the actual forward computation. More
+        precisely, Chainer stores the history of computation instead of
+        programming logic. This strategy enables to fully leverage the power of
+        programming logic in Python. For example, Chainer does not need any
+        magic to introduce conditionals and loops into the network definitions.
+
+
     <label id="CNNs">
     <tag/CNNs/
         <itemize>
@@ -347,6 +365,32 @@
         layers, each with an arbitrary number of nodes. Facilities exist for
         training with momentum, and there are plans to gracefully extend the
         functionality of the library in later releases.
+
+
+    <label id="theano">
+    <tag/theano/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://www.deeplearning.net/software/theano/">
+        </itemize>
+
+        Theano is a Python library that allows you to define, optimize, and
+        evaluate mathematical expressions involving multi-dimensional arrays
+        efficiently. Theano features:
+
+        <itemize>
+            <item>tight integration with NumPy - Use numpy.ndarray in
+            Theano-compiled functions.
+            <item>transparent use of a GPU - Perform data-intensive
+            calculations up to 140x faster than with CPU.(float32 only)
+            <item>efficient symbolic differentiation - Theano does your
+            derivatives for function with one or many inputs.
+            <item>speed and stability optimizations - Get the right answer for
+            log(1+x) even when x is really tiny.
+            <item>dynamic C code generation - Evaluate expressions faster.
+            <item>extensive unit-testing and self-verification - Detect and
+            diagnose many types of errors.
+          </itemize>
 
 
     <label id="UTCS">
