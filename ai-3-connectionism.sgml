@@ -263,6 +263,31 @@
         of AI applications that revolve around the core framework.
 
 
+    <label id="Keras">
+    <tag/Keras/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="https://github.com/fchollet/keras">
+        </itemize>
+
+        Keras is a minimalist, highly modular neural networks library, written
+        in Python and capable of running on top of either TensorFlow or Theano.
+        It was developed with a focus on enabling fast experimentation. Being
+        able to go from idea to result with the least possible delay is key to
+        doing good research.
+
+        Use Keras if you need a deep learning library that:
+
+        <itemize>
+            <item>allows for easy and fast prototyping (through total
+            modularity, minimalism, and extensibility).
+            <item>supports both convolutional networks and recurrent networks,
+            as well as combinations of the two.
+            <item>supports arbitrary connectivity schemes (including
+            multi-input and multi-output training).
+            <item>runs seamlessly on CPU and GPU.
+        </itemize>
+
     <label id="Matrix Class">
     <tag/Matrix Class/
         <itemize>

@@ -32,7 +32,7 @@ GNU/Linux specifically in mind.
     <ref id="dlib">, <ref id="genetics">, <ref id="TextBlob">, <ref id="ARIA">,
     <ref id="FCNN">, <ref id="mlpack">, <ref id="MORSE">, <ref id="goml">,
     <ref id="TensorFlow">, <ref id="MLlib">, <ref id="SystemML">,
-    <ref id="CNTK">, <ref id="chainer">, <ref id="theano">
+    <ref id="CNTK">, <ref id="chainer">, <ref id="theano">, <ref id="Keras">
 
     <item>v3.1 -
 
