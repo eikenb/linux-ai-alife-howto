@@ -251,6 +251,24 @@
         version 3.
 
 
+    <label id="OpenAI Gym">
+    <tag/OpenAI Gym/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="https://gym.openai.com/">
+            <item>Web site: <htmlurl
+                url="https://github.com/openai/gym">
+        </itemize>
+
+        A toolkit for developing and comparing reinforcement learning
+        algorithms. It supports teaching agents everything from walking to
+        playing games like Pong or Go.
+
+        It provides the environment; you provide the algorithm. You can write
+        your agent using your existing numerical computation library, such as
+        TensorFlow or Theano.
+
+
     <label id="OpenCV">
     <tag/OpenCV/
         <itemize>
@@ -330,6 +348,35 @@
         built around neural networks in the kernel and all of the training
         methods accept a neural network as the to-be-trained instance. This
         makes PyBrain a powerful tool for real-life tasks.
+
+
+    <label id="RL-Glue">
+    <tag/RL-Glue/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://glue.rl-community.org/wiki/Main_Page">
+        </itemize>
+
+        RL-Glue provides a standard interface that allows you to connect
+        agents, environments, and experiment programs together, even if they
+        are written in different languages. This has a number of benefits, such
+        as:
+
+        <itemize>
+            <item>Program agents and environments in the language of your
+            choice
+            <item>Re-use agents and environments that have been created by
+            other members of the reinforcement learning community
+            <item>Easily share your own agents and environments, making it
+            easier for people to compare and build on your work
+            <item>Teach a class that involves reinforcement learning,
+            leveraging all of the "boring" plumbing provided by RL-Glue
+            <item>Extend your crazy simulator/game/problem to work with
+            RL-Glue, making it accessible to the rest of the reinforcement
+            learning community
+            <item>Run reinforcement learning agents on your robot, in the
+            language of your choice
+        </itemize>
 
 
     <label id="scikits.learn">
