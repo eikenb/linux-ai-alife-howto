@@ -93,6 +93,20 @@
         </itemize>
 
 
+    <label id="fastText">
+    <tag/fastText/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="https://github.com/facebookresearch/fastText">
+        </itemize>
+
+        FastText is a library for fast text representation and classification.
+        It supports both text classification and learning word vector
+        representations through techniques like bag of words and subword
+        information. Based on the skip-gram model, words are represented as bag
+        of character n-grams with vectors representing each character n-gram.
+
+
     <label id="goml">
     <tag/goml/
         <itemize>
