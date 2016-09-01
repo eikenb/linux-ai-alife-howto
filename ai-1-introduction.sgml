@@ -33,7 +33,8 @@ GNU/Linux specifically in mind.
     <ref id="FCNN">, <ref id="mlpack">, <ref id="MORSE">, <ref id="goml">,
     <ref id="TensorFlow">, <ref id="MLlib">, <ref id="SystemML">,
     <ref id="CNTK">, <ref id="chainer">, <ref id="theano">, <ref id="Keras">,
-    <ref id="OpenAI Gym">, <ref id="RL-Glue">, <ref id="fastText">
+    <ref id="OpenAI Gym">, <ref id="RL-Glue">, <ref id="fastText">,
+    <ref id="DeepMask-SharpMask">
 
     <item>v3.1 -
 

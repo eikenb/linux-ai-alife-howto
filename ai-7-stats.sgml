@@ -49,6 +49,32 @@
         toolkits.
 
 
+    <label id="DeepMask-SharpMask">
+    <tag/DeppMask-SharpMask/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="https://github.com/facebookresearch/deepmask">
+        </itemize>
+
+        This repository contains a Torch implementation for both the DeepMask
+        and SharpMask object proposal algorithms.
+
+        DeepMask is trained with two objectives: given an image patch, one
+        branch of the model outputs a class-agnostic segmentation mask, while
+        the other branch outputs how likely the patch is to contain an object.
+        At test time, DeepMask is applied densely to an image and generates a
+        set of object masks, each with a corresponding objectness score. These
+        masks densely cover the objects in an image and can be used as a first
+        step for object detection and other tasks in computer vision.
+
+        SharpMask is an extension of DeepMask which generates higher-fidelity
+        masks using an additional top-down refinement step. The idea is to
+        first generate a coarse mask encoding in a feedforward pass, then
+        refine this mask encoding in a top-down pass using features at
+        successively lower layers. This result in masks that better adhere to
+        object boundaries.
+
+
     <label id="dlib">
     <tag/dlib/
         <itemize>
