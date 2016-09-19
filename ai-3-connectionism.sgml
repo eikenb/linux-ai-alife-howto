@@ -330,6 +330,22 @@
         evolution of connecting neurons between them.
 
 
+    <label id="NEUGO">
+    <tag/NEUGO/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="https://github.com/wh1t3w01f/neugo">
+        </itemize>
+
+        NEUGO is a simple neural network framework in Go. You can use this
+        framework for fast prototyping that involves neural networks, simply by
+        two steps: configure and run. This framework does NOT include
+        implementation of training methods; I had <ref id="EAGO"> in mind when
+        I started this project. <ref id="EAGO"> will train the neural nets
+        through its NE (NeuroEvolution) package.
+
+
+
     <label id="NeuroLab">
     <tag/NeuroLab/
         <itemize>

@@ -44,6 +44,18 @@
         All of the ANNEvolve software is implemented in C and Python.
 
 
+    <label id="EAGO">
+    <tag/EAGO/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="https://github.com/wh1t3w01f/eago">
+        </itemize>
+
+        EAGO is a simple framework for evolutionary computation (EC) in Go. You
+        can use this framework to run any kind of EC experiment, simply by two
+        steps: configure and run.
+
+
     <label id="EAP">
     <tag/EAP/
         <itemize>
