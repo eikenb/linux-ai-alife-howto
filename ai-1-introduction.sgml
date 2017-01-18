@@ -35,7 +35,7 @@ GNU/Linux specifically in mind.
     <ref id="CNTK">, <ref id="chainer">, <ref id="theano">, <ref id="Keras">,
     <ref id="OpenAI Gym">, <ref id="RL-Glue">, <ref id="fastText">,
     <ref id="DeepMask-SharpMask">, <ref id="NEUGO">, <ref id="EAGO">,
-    <ref id="dynet">, <ref id="Universe">
+    <ref id="dynet">, <ref id="Universe">, <ref id="PyTorch">
 
     <item>v3.1 -
 

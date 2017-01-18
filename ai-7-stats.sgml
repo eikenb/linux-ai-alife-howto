@@ -390,6 +390,27 @@
         makes PyBrain a powerful tool for real-life tasks.
 
 
+    <label id="PyTorch">
+    <tag/PyTorch/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://pytorch.org/">
+        </itemize>
+
+        PyTorch is a python package that provides two high-level features:
+        <itemize>
+            <item>Tensor computation (like numpy) with strong GPU acceleration
+            <item>Deep Neural Networks built on a tape-based autograd system
+        </itemize>
+
+        It is a deep learning research platform that provides a numpy like
+        ndarray (tensor) that can utilize GPUs and is meant to be used as a
+        framework. It provides a unique, dynamic way of building neural
+        networks using reverse-mode auto-differentiation that sort of works
+        like using and replaying a tape recorder. It is designed to be fast and
+        flexible for a large variety of research problems.
+
+
     <label id="RL-Glue">
     <tag/RL-Glue/
         <itemize>
