@@ -238,6 +238,26 @@
         and methods or to connect an external simulation tool.
 
 
+    <label id="gago">
+    <tag/gago/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="https://github.com/MaxHalford/gago">
+        </itemize>
+
+        Gago is intented to be a toolkit where one may run many kinds of
+        genetic algorithms, with different evolution models and various genetic
+        operators.
+        <itemize>
+            <item>Generate random solutions.
+            <item>Evaluate the solutions.
+            <item>Sort the solutions according to their evaluation score.
+            <item>Apply genetic operators following a model.
+            <item>Repeat from step 2 until the stopping criterion is not
+                satisfied.
+        </itemize>
+
+
     <label id="GALib">
     <tag/GAlib: Matthew's Genetic Algorithms Library/
     <itemize>
