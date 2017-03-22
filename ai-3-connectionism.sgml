@@ -426,6 +426,21 @@
         functionality of the library in later releases.
 
 
+    <label id="TensorFlow">
+    <tag/TensorFlow/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="https://www.tensorflow.org/">
+        </itemize>
+
+        TensorFlow is an open source software library for numerical computation
+        using data flow graphs. Nodes in the graph represent mathematical
+        operations, while the graph edges represent the multidimensional data
+        arrays (tensors) communicated between them. The flexible architecture
+        allows you to deploy computation to one or more CPUs or GPUs in a
+        desktop, server, or mobile device with a single API.
+
+
     <label id="theano">
     <tag/theano/
         <itemize>
@@ -885,6 +900,25 @@
       comes with example networks and tutorials for many of the architectures.
       ENZO, a supplementary system allows you to evolve your networks with
       genetic algorithms.
+
+
+    <label id="SyntaxNet">
+    <tag/SyntaxNet/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="https://github.com/tensorflow/models/tree/master/syntaxnet">
+        </itemize>
+
+        SyntaxNet, an open-source neural network framework implemented in
+        TensorFlow that provides a foundation for Natural Language
+        Understanding (NLU) systems. SyntaxNet is a framework for what's known
+        in academic circles as a syntactic parser, which is a key first
+        component in many NLU systems. Given a sentence as input, it tags each
+        word with a part-of-speech (POS) tag that describes the word's
+        syntactic function, and it determines the syntactic relationships
+        between words in the sentence, represented in the dependency parse
+        tree. These syntactic relationships are directly related to the
+        underlying meaning of the sentence in question.
 
 
       <label id="TOOLDIAG">
