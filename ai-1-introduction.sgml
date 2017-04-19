@@ -36,7 +36,7 @@ GNU/Linux specifically in mind.
     <ref id="OpenAI Gym">, <ref id="RL-Glue">, <ref id="fastText">,
     <ref id="DeepMask-SharpMask">, <ref id="NEUGO">, <ref id="EAGO">,
     <ref id="dynet">, <ref id="Universe">, <ref id="PyTorch">, <ref id="gago">,
-    <ref id="TensorFlow">, <ref id="SyntaxNet">
+    <ref id="TensorFlow">, <ref id="SyntaxNet">, <ref id="Caffe2">
 
     <item>v3.1 -
 

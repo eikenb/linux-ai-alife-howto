@@ -17,6 +17,20 @@
 
   <descrip>
 
+    <label id="Caffe2">
+    <tag/Caffe2/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://caffe2.ai/">
+        </itemize>
+
+        Caffe2 aims to provide an easy and straightforward way for you to
+        experiment with deep learning and leverage community contributions of
+        new models and algorithms. You can bring your creations to scale using
+        the power of GPUs in the cloud or to the masses on mobile with Caffe2's
+        cross-platform libraries.
+
+
     <label id="CognitiveFoundry">
     <tag/CognitiveFoundry/
         <itemize>
