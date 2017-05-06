@@ -252,6 +252,20 @@
       the message reaches the intended recipient.
 
 
+    <label id="delbot">
+    <tag/delbot/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="https://github.com/shaildeliwala/delbot">
+        </itemize>
+
+        Delbot is an attempt to build a assistant-bot like Apple Siri or Ask
+        Google. It has a voice interface and uses natural lanauge processing to
+        searches news and knowledge sources, and summarizes and reads out
+        content to you. It is written in Python and uses <ref id="spaCy"> (also
+        free software) for NLP.
+
+
     <label id="DIET Agents">
     <tag/DIET Agents/
         <itemize>
