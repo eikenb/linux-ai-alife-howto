@@ -319,6 +319,25 @@
         performance and expressivity without cuts.
 
 
+    <label id="Limbo">
+    <tag/Limbo/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="https://github.com/schwering/limbo">
+        </itemize>
+
+        Limbo is a reasoning system for a first-order logic of limited belief.
+        Limited belief allows for decidable reasoning in first-order knowledge
+        bases, and in the propositional case it is even tractable.
+
+        Limbo provides a logical language to represent and reason about
+        (possibly incomplete) knowledge and belief. This logical language is a
+        first-order modal dialect: it features functions and equality, standard
+        names to designate distinct objects, first-order variables and
+        quantification, sorts, and modal operators for knowledge and
+        conditional belief.
+
+
     <label id="LK">
     <tag/LK/
         <itemize>
