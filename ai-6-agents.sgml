@@ -712,21 +712,6 @@
         </itemize>
 
 
-    <label id="Pyro">
-    <tag/Pyro/
-        <itemize>
-            <item>Web site: <htmlurl
-                url="http://pyrorobotics.org/">
-        </itemize>
-
-        Pyro is a library, environment, graphical user interface, and low-level
-        drivers to explore AI and robotics using the Python language. It works
-        with many real robotics platforms and simulators. Extensive algorithms
-        including behavior-based, vision (motion tracking, blobs, etc.),
-        learning (back-propagation, self-organizing maps, etc.), evolutionary,
-        and more.
-
-
     <label id="Quackle">
     <tag/Quackle/
         <itemize>

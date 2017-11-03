@@ -37,7 +37,7 @@ GNU/Linux specifically in mind.
     <ref id="DeepMask-SharpMask">, <ref id="NEUGO">, <ref id="EAGO">,
     <ref id="dynet">, <ref id="Universe">, <ref id="PyTorch">, <ref id="gago">,
     <ref id="TensorFlow">, <ref id="SyntaxNet">, <ref id="Caffe2">,
-    <ref id="Limbo">, <ref id="spaCy">, <ref id="delbot">
+    <ref id="Limbo">, <ref id="spaCy">, <ref id="delbot">, <ref id="Pyro">
 
     <item>v3.1 -
 
@@ -127,7 +127,7 @@ GNU/Linux specifically in mind.
     the MIA (missing) section. I also removed one duplicate entry.
 
     <p>New entries: <ref id="MASON">, <ref id="spyse">, <ref id="AntWars">,
-        <ref id="OpenSteer">, <ref id="Pyro">, <ref id="Robocode">,
+        <ref id="OpenSteer">, Pyro (since removed), <ref id="Robocode">,
         <ref id="Trend"> and <ref id="Open BEAGLE">.
 
     <item>v2.1 -

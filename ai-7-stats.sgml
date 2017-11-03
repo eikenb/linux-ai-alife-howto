@@ -404,6 +404,30 @@
         makes PyBrain a powerful tool for real-life tasks.
 
 
+    <label id="Pyro">
+    <tag/Pyro/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://pyro.ai/">
+        </itemize>
+
+        Pyro is a universal probabilistic programming language (PPL) written in
+        Python and supported by PyTorch on the backend. Pyro enables flexible
+        and expressive deep probabilistic modeling, unifying the best of modern
+        deep learning and Bayesian modeling. It was designed with these key
+        principles:
+
+        <itemize>
+            <item>Universal: Pyro can represent any computable probability
+                distribution.
+            <item>Scalable: Pyro scales to large data sets with little overhead.
+            <item>Minimal: Pyro is implemented with a small core of powerful,
+                composable abstractions.
+            <item>Flexible: Pyro aims for automation when you want it, control
+                when you need it.
+        </itemize>
+
+
     <label id="PyTorch">
     <tag/PyTorch/
         <itemize>
