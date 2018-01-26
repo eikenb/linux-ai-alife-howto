@@ -17,20 +17,6 @@
 
   <descrip>
 
-    <label id="Caffe2">
-    <tag/Caffe2/
-        <itemize>
-            <item>Web site: <htmlurl
-                url="http://caffe2.ai/">
-        </itemize>
-
-        Caffe2 aims to provide an easy and straightforward way for you to
-        experiment with deep learning and leverage community contributions of
-        new models and algorithms. You can bring your creations to scale using
-        the power of GPUs in the cloud or to the masses on mobile with Caffe2's
-        cross-platform libraries.
-
-
     <label id="CognitiveFoundry">
     <tag/CognitiveFoundry/
         <itemize>
@@ -61,25 +47,6 @@
         used machine-learning tools such as LibSVM and GraphViz, CompLearn
         forms an attractive offering in machine-learning frameworks and
         toolkits.
-
-
-    <label id="deeplearn.js">
-    <tag/deeplearn.js/
-        <itemize>
-            <item>Web site: <htmlurl
-                url="https://deeplearnjs.org/">
-        </itemize>
-
-        deeplearn.js is an open source hardware-accelerated JavaScript library
-        for machine intelligence. deeplearn.js brings performant machine
-        learning building blocks to the web, allowing you to train neural
-        networks in a browser or run pre-trained models in inference mode.
-
-        We provide two APIs, an immediate execution model (think NumPy) and a
-        deferred execution model mirroring the TensorFlow API. deeplearn.js was
-        originally developed by the Google Brain PAIR team to build powerful
-        interactive machine learning tools for the browser, but it can be used
-        for everything from education, to model understanding, to art projects.
 
 
     <label id="DeepMask-SharpMask">
@@ -445,27 +412,6 @@
             <item>Flexible: Pyro aims for automation when you want it, control
                 when you need it.
         </itemize>
-
-
-    <label id="PyTorch">
-    <tag/PyTorch/
-        <itemize>
-            <item>Web site: <htmlurl
-                url="http://pytorch.org/">
-        </itemize>
-
-        PyTorch is a python package that provides two high-level features:
-        <itemize>
-            <item>Tensor computation (like numpy) with strong GPU acceleration
-            <item>Deep Neural Networks built on a tape-based autograd system
-        </itemize>
-
-        It is a deep learning research platform that provides a numpy like
-        ndarray (tensor) that can utilize GPUs and is meant to be used as a
-        framework. It provides a unique, dynamic way of building neural
-        networks using reverse-mode auto-differentiation that sort of works
-        like using and replaying a tape recorder. It is designed to be fast and
-        flexible for a large variety of research problems.
 
 
     <label id="RL-Glue">

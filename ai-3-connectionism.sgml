@@ -108,6 +108,22 @@
         </itemize>
 
 
+    <label id="Caffe2">
+    <tag/Caffe2/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://caffe2.ai/">
+        </itemize>
+
+        Caffe2 is a lightweight, modular, and scalable deep learning framework.
+        Building on the original Caffe, Caffe2 is designed with expression,
+        speed, and modularity in mind. Caffe2 aims to provide an easy and
+        straightforward way for you to experiment with deep learning and
+        leverage community contributions of new models and algorithms. You can
+        bring your creations to scale using the power of GPUs in the cloud or
+        to the masses on mobile with Caffe2's cross-platform libraries.
+
+
     <label id="chainer">
     <tag/chainer/
         <itemize>
@@ -179,6 +195,48 @@
         may support reaction-diffusion kinetics and more. A key feature
         of CONICAL is its cross-platform compatibility; it has been
         fully co-developed and tested under Unix, DOS, and Mac OS.
+
+
+    <label id="deeplearn.js">
+    <tag/deeplearn.js/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="https://deeplearnjs.org/">
+        </itemize>
+
+        deeplearn.js is an open source hardware-accelerated JavaScript library
+        for machine intelligence. deeplearn.js brings performant machine
+        learning building blocks to the web, allowing you to train neural
+        networks in a browser or run pre-trained models in inference mode.
+
+        We provide two APIs, an immediate execution model (think NumPy) and a
+        deferred execution model mirroring the TensorFlow API. deeplearn.js was
+        originally developed by the Google Brain PAIR team to build powerful
+        interactive machine learning tools for the browser, but it can be used
+        for everything from education, to model understanding, to art projects.
+
+
+    <label id="Detectron">
+    <tag/Detectron/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="https://research.fb.com/downloads/detectron/">
+            <item>Web site: <htmlurl
+                url="https://github.com/facebookresearch/Detectron">
+        </itemize>
+
+    Detectron is Facebook AI Research's software system that implements
+    state-of-the-art object detection algorithms, including Mask R-CNN. It is
+    written in Python and powered by the Caffe2 deep learning framework.
+
+    The goal of Detectron is to provide a high-quality, high-performance
+    codebase for object detection research. It is designed to be flexible in
+    order to support rapid implementation and evaluation of novel research.
+    Detectron includes implementations of the following object detection
+    algorithms; Mask R-CNN, RetinaNet, Faster R-CNN, RPN, Fast R-CNN, and
+    R-FCN. Using the following backbone network architectures;
+    ResNeXt{50,101,152}, ResNet{50,101,152}, Feature Pyramid Networks (with
+    ResNet/ResNeXt), and VGG16.
 
 
     <label id="dynet">
@@ -409,6 +467,27 @@
       Dempster-Shafer's theory of belief functions; and the
       possibility theory by Zadeh, Dubois and Prade's. A User's Manual
       is available on request.
+
+
+    <label id="PyTorch">
+    <tag/PyTorch/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://pytorch.org/">
+        </itemize>
+
+        PyTorch is a python package that provides two high-level features:
+        <itemize>
+            <item>Tensor computation (like numpy) with strong GPU acceleration
+            <item>Deep Neural Networks built on a tape-based autograd system
+        </itemize>
+
+        It is a deep learning research platform that provides a numpy like
+        ndarray (tensor) that can utilize GPUs and is meant to be used as a
+        framework. It provides a unique, dynamic way of building neural
+        networks using reverse-mode auto-differentiation that sort of works
+        like using and replaying a tape recorder. It is designed to be fast and
+        flexible for a large variety of research problems.
 
 
     <label id="scnANNlib">
