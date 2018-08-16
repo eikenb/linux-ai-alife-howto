@@ -44,42 +44,6 @@
         All of the ANNEvolve software is implemented in C and Python.
 
 
-    <label id="EAGO">
-    <tag/EAGO/
-        <itemize>
-            <item>Web site: <htmlurl
-                url="https://github.com/wh1t3w01f/eago">
-        </itemize>
-
-        EAGO is a simple framework for evolutionary computation (EC) in Go. You
-        can use this framework to run any kind of EC experiment, simply by two
-        steps: configure and run.
-
-
-    <label id="EAP">
-    <tag/EAP/
-        <itemize>
-            <item>Web site: <htmlurl
-                url="http://code.google.com/p/deap/">
-        </itemize>
-
-        EAP has been built using the Python and UNIX programming philosophies
-        in order to provide a transparent, simple and coherent environment for
-        implementing your favourite evolutionary algorithms. EAP is very easy
-        to use even for those who do not know much about the Python programming
-        language. EAP uses the object oriented paradigm that is provided by
-        Python in order to make development simple and beautiful.  It also
-        contains a 15 illustrative and diversified examples, to help newcomers
-        to ramp up very quickly in using this environment.
-
-         It includes Genetic Algorithms using any imaginable representation,
-         Genetic Programming with strongly and loosely typed trees in addition
-         to automatically defined functions, Evolution Strategies (including
-         Covariance Matrix Adaptation), multiobjective optimization techniques
-         (NSGA-II and SPEA2), easy parallelization of algorithms and much more
-         like milestones, genealogy, etc.
-
-
     <label id="daga">
     <tag/daga/
         <itemize>
@@ -140,6 +104,71 @@
         peer-to-peer, or even a client/server+ peer-to-peer hybrid distribution
         scheme. You also can construct heterogeneous search algorithms where GA
         cooperates with Hill Climbing without changing any code.
+
+
+    <label id="EAGO">
+    <tag/EAGO/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="https://github.com/wh1t3w01f/eago">
+        </itemize>
+
+        EAGO is a simple framework for evolutionary computation (EC) in Go. You
+        can use this framework to run any kind of EC experiment, simply by two
+        steps: configure and run.
+
+
+    <label id="Evolute">
+    <tag/Evolute/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="https://github.com/csxeba/evolute">
+        </itemize>
+
+        Evolute is a simple tool for quick experimentation with evolutionary
+        algorithms for numerical optimization.
+
+        It defines a population of individuals, represented as floating point
+        vectors, and applies a configurable set of evolutionary operators to
+        them in a predefined order.
+
+        The order is the following:
+        <itemize>
+
+          <item>Selection: a subset of individuals are discarded, depending on
+          their fitness value
+
+          <item>Reproduction: the discarded individuals are replaced by new
+          individuals, somehow generated from the survivors
+
+          <item>Mutation: mutate some of the individuals
+          <item>Update: update the fitnesses of the individuals
+        </itemize>
+
+
+
+    <label id="EAP">
+    <tag/EAP/
+        <itemize>
+            <item>Web site: <htmlurl
+                url="http://code.google.com/p/deap/">
+        </itemize>
+
+        EAP has been built using the Python and UNIX programming philosophies
+        in order to provide a transparent, simple and coherent environment for
+        implementing your favourite evolutionary algorithms. EAP is very easy
+        to use even for those who do not know much about the Python programming
+        language. EAP uses the object oriented paradigm that is provided by
+        Python in order to make development simple and beautiful.  It also
+        contains a 15 illustrative and diversified examples, to help newcomers
+        to ramp up very quickly in using this environment.
+
+         It includes Genetic Algorithms using any imaginable representation,
+         Genetic Programming with strongly and loosely typed trees in addition
+         to automatically defined functions, Evolution Strategies (including
+         Covariance Matrix Adaptation), multiobjective optimization techniques
+         (NSGA-II and SPEA2), easy parallelization of algorithms and much more
+         like milestones, genealogy, etc.
 
 
     <label id="Ease">
